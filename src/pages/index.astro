@@ -1,11 +1,781 @@
 ---
-import Welcome from '../components/Welcome.astro';
 import Layout from '../layouts/Layout.astro';
+import places from '../data/places.json';
+import { CATEGORY_EMOJI, ZONES, PRICE_LABEL } from '../lib/meta';
 
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+const zones = ZONES.filter((z) => places.some((p) => p.zone === z));
+const categories = Object.keys(CATEGORY_EMOJI).filter((c) => places.some((p) => p.category === c));
+const quickTags = ['ราคาถูก', 'เปิดดึก', 'แอร์', 'นั่งชิล', 'นั่งทำงานได้', 'ริมคลอง', 'ฮาลาล', 'เดลิเวอรี่'].filter((t) =>
+	places.some((p) => p.tags.includes(t)),
+);
 ---
 
 <Layout>
-	<Welcome />
+	<header class="top">
+		<div class="wrap">
+			<p class="eyebrow">สจล. · เกกี · หัวตะเข้ · ลาดกระบัง</p>
+			<h1>หิวข้าว<span class="dot">.</span></h1>
+			<p class="lede">
+				ไม่รู้จะกินอะไร? เลือกโซนกับประเภทที่อยากได้ แล้วกดสุ่ม
+				ตอนนี้มีร้านให้สุ่ม <strong>{places.length}</strong> ร้าน
+			</p>
+		</div>
+	</header>
+
+	<main class="wrap">
+		<section class="machine" aria-labelledby="machine-title">
+			<h2 id="machine-title" class="sr-only">สุ่มร้านอาหาร</h2>
+			<div class="reel" id="reel" aria-hidden="true">
+				<span id="reel-text">🍜 วันนี้กินอะไรดี?</span>
+			</div>
+
+			<button class="spin" id="spin" type="button">
+				<span class="spin-label">สุ่มเลย!</span>
+				<span class="spin-count" id="match-count"></span>
+			</button>
+
+			<article class="result" id="result" hidden aria-live="polite">
+				<div class="result-head">
+					<span class="result-emoji" id="r-emoji"></span>
+					<div>
+						<h3 id="r-name"></h3>
+						<p class="result-en" id="r-en"></p>
+					</div>
+				</div>
+				<p class="result-where" id="r-where"></p>
+				<dl class="facts">
+					<div><dt>ประเภท</dt><dd id="r-cat"></dd></div>
+					<div><dt>ราคา</dt><dd id="r-price"></dd></div>
+					<div><dt>เวลาเปิด</dt><dd id="r-hours"></dd></div>
+				</dl>
+				<p class="dishes" id="r-dishes"></p>
+				<ul class="tags" id="r-tags"></ul>
+				<div class="actions">
+					<a class="btn btn-primary" id="r-map" target="_blank" rel="noopener">📍 เปิดแผนที่</a>
+					<button class="btn" id="r-again" type="button">🎲 สุ่มใหม่</button>
+					<button class="btn" id="r-ban" type="button" title="ไม่สุ่มร้านนี้อีกในรอบนี้">🙅 ไม่เอาร้านนี้</button>
+				</div>
+				<p class="source">
+					ข้อมูลจาก <a id="r-source" target="_blank" rel="noopener">แหล่งอ้างอิง</a>
+					<span id="r-conf"></span> · ร้านอาจย้ายหรือปิดแล้ว ตรวจสอบก่อนไปนะ
+				</p>
+			</article>
+		</section>
+
+		<section class="filters" aria-labelledby="filter-title">
+			<div class="filters-head">
+				<h2 id="filter-title">อยากกินแบบไหน</h2>
+				<button class="link" id="reset" type="button">ล้างตัวกรอง</button>
+			</div>
+
+			<fieldset>
+				<legend>โซน</legend>
+				<div class="chips" data-group="zone">
+					{zones.map((z) => <button type="button" class="chip" data-value={z} aria-pressed="false">{z}</button>)}
+				</div>
+			</fieldset>
+
+			<fieldset>
+				<legend>ประเภท</legend>
+				<div class="chips" data-group="category">
+					{
+						categories.map((c) => (
+							<button type="button" class="chip" data-value={c} aria-pressed="false">
+								{CATEGORY_EMOJI[c]} {c}
+							</button>
+						))
+					}
+				</div>
+			</fieldset>
+
+			<fieldset>
+				<legend>งบต่อคน</legend>
+				<div class="chips" data-group="price">
+					{
+						Object.entries(PRICE_LABEL).map(([k, v]) => (
+							<button type="button" class="chip" data-value={k} aria-pressed="false">
+								{v}
+							</button>
+						))
+					}
+				</div>
+			</fieldset>
+
+			{
+				quickTags.length > 0 && (
+					<fieldset>
+						<legend>ต้องมี</legend>
+						<div class="chips" data-group="tag">
+							{quickTags.map((t) => <button type="button" class="chip" data-value={t} aria-pressed="false">{t}</button>)}
+						</div>
+					</fieldset>
+				)
+			}
+			<p class="hint">ไม่เลือกอะไรเลย = สุ่มจากทุกร้าน · เลือกหลายอันในหมวดเดียวกัน = อันไหนก็ได้</p>
+		</section>
+
+		<section class="all" aria-labelledby="all-title">
+			<div class="filters-head">
+				<h2 id="all-title">ร้านทั้งหมด <span class="muted" id="list-count"></span></h2>
+			</div>
+			<input class="search" id="search" type="search" placeholder="ค้นหาชื่อร้าน เมนู หรือสถานที่…" />
+			<ul class="list" id="list"></ul>
+			<p class="empty" id="empty" hidden>ไม่มีร้านที่ตรงกับตัวกรอง ลองเอาตัวกรองออกบ้างนะ</p>
+		</section>
+	</main>
+
+	<footer class="wrap foot">
+		<p>
+			รวบรวมจาก Wongnai, Google Maps, Pantip, บล็อกรีวิว และเพจของร้าน (อัปเดต ก.ย. 2569) ·
+			ราคาและเวลาเปิดเป็นค่าประมาณ
+		</p>
+	</footer>
 </Layout>
+
+<script>
+	import places from '../data/places.json';
+	import { CATEGORY_EMOJI, PRICE_LABEL, mapsUrl, type Place } from '../lib/meta';
+
+	const all = places as Place[];
+	const STORE_KEY = 'hewkhao:filters';
+	type Group = 'zone' | 'category' | 'price' | 'tag';
+
+	const state: Record<Group, Set<string>> = {
+		zone: new Set(),
+		category: new Set(),
+		price: new Set(),
+		tag: new Set(),
+	};
+	const banned = new Set<string>();
+	const recent: string[] = [];
+	let query = '';
+	let spinning = false;
+
+	const $ = <T extends HTMLElement>(id: string) => document.getElementById(id) as T;
+	const keyOf = (p: Place) => `${p.name}|${p.zone}`;
+
+	function matches(p: Place) {
+		if (state.zone.size && !state.zone.has(p.zone)) return false;
+		if (state.category.size && !state.category.has(p.category)) return false;
+		if (state.price.size && !state.price.has(String(p.price))) return false;
+		for (const t of state.tag) if (!p.tags.includes(t)) return false;
+		return true;
+	}
+
+	function pool() {
+		return all.filter((p) => matches(p) && !banned.has(keyOf(p)));
+	}
+
+	function save() {
+		try {
+			const plain = Object.fromEntries(Object.entries(state).map(([k, v]) => [k, [...v]]));
+			localStorage.setItem(STORE_KEY, JSON.stringify(plain));
+		} catch {}
+	}
+
+	function load() {
+		try {
+			const raw = localStorage.getItem(STORE_KEY);
+			if (!raw) return;
+			const saved = JSON.parse(raw) as Partial<Record<Group, string[]>>;
+			for (const g of Object.keys(state) as Group[]) {
+				for (const v of saved[g] ?? []) state[g].add(v);
+			}
+		} catch {}
+	}
+
+	function syncChips() {
+		document.querySelectorAll<HTMLElement>('.chips').forEach((box) => {
+			const g = box.dataset.group as Group;
+			box.querySelectorAll<HTMLButtonElement>('.chip').forEach((chip) => {
+				chip.setAttribute('aria-pressed', String(state[g].has(chip.dataset.value!)));
+			});
+		});
+	}
+
+	function refresh() {
+		const n = pool().length;
+		$('match-count').textContent = n ? `จาก ${n} ร้าน` : 'ไม่มีร้านที่ตรงเงื่อนไข';
+		$<HTMLButtonElement>('spin').disabled = n === 0 || spinning;
+		renderList();
+	}
+
+	function renderList() {
+		const q = query.trim().toLowerCase();
+		const rows = all.filter((p) => {
+			if (!matches(p)) return false;
+			if (!q) return true;
+			const hay = [p.name, p.nameEn, p.location, p.zone, p.category, ...p.dishes, ...p.tags]
+				.filter(Boolean)
+				.join(' ')
+				.toLowerCase();
+			return hay.includes(q);
+		});
+		$('list-count').textContent = `(${rows.length})`;
+		$('empty').hidden = rows.length > 0;
+		const list = $('list');
+		list.replaceChildren(
+			...rows.map((p) => {
+				const li = document.createElement('li');
+				const btn = document.createElement('button');
+				btn.type = 'button';
+				btn.className = 'row';
+				btn.innerHTML = `
+					<span class="row-emoji">${CATEGORY_EMOJI[p.category] ?? '🍽️'}</span>
+					<span class="row-main">
+						<span class="row-name"></span>
+						<span class="row-sub"></span>
+					</span>
+					<span class="row-price">${(PRICE_LABEL[String(p.price)] ?? '').split(' ')[0]}</span>`;
+				btn.querySelector('.row-name')!.textContent = p.name;
+				btn.querySelector('.row-sub')!.textContent = `${p.zone} · ${p.dishes.slice(0, 3).join(', ') || p.category}`;
+				btn.addEventListener('click', () => {
+					show(p);
+					$('result').scrollIntoView({ behavior: 'smooth', block: 'center' });
+				});
+				li.append(btn);
+				return li;
+			}),
+		);
+	}
+
+	function show(p: Place) {
+		$('r-emoji').textContent = CATEGORY_EMOJI[p.category] ?? '🍽️';
+		$('r-name').textContent = p.name;
+		$('r-en').textContent = p.nameEn ?? '';
+		$('r-en').hidden = !p.nameEn;
+		$('r-where').textContent = `📌 ${p.zone}${p.location ? ' · ' + p.location : ''}`;
+		$('r-cat').textContent = p.category;
+		$('r-price').textContent = p.priceText ?? PRICE_LABEL[String(p.price)] ?? '-';
+		$('r-hours').textContent = p.hours ?? 'ไม่ระบุ';
+		$('r-dishes').textContent = p.dishes.length ? `เมนูเด็ด: ${p.dishes.join(' · ')}` : '';
+		$('r-tags').replaceChildren(
+			...p.tags.map((t) => {
+				const li = document.createElement('li');
+				li.textContent = t;
+				return li;
+			}),
+		);
+		$<HTMLAnchorElement>('r-map').href = mapsUrl(p);
+		const src = $<HTMLAnchorElement>('r-source');
+		src.href = p.source;
+		try {
+			src.textContent = new URL(p.source).hostname.replace(/^www\./, '');
+		} catch {
+			src.textContent = 'แหล่งอ้างอิง';
+		}
+		$('r-conf').textContent = p.confidence === 'medium' ? '(ข้อมูลบางส่วนยังไม่ยืนยัน)' : '';
+		$('r-ban').dataset.key = keyOf(p);
+		const card = $('result');
+		card.hidden = false;
+		card.classList.remove('pop');
+		void card.offsetWidth;
+		card.classList.add('pop');
+	}
+
+	function pickFrom(list: Place[]) {
+		// avoid repeating the last few picks when there is room to
+		const fresh = list.filter((p) => !recent.includes(keyOf(p)));
+		const src = fresh.length ? fresh : list;
+		return src[Math.floor(Math.random() * src.length)];
+	}
+
+	function spin() {
+		const list = pool();
+		if (!list.length || spinning) return;
+		spinning = true;
+		refresh();
+		const winner = pickFrom(list);
+		recent.push(keyOf(winner));
+		if (recent.length > Math.min(8, Math.floor(list.length / 2))) recent.shift();
+
+		const reel = $('reel');
+		const text = $('reel-text');
+		const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+		const steps = reduce ? 1 : 18;
+		let i = 0;
+		reel.classList.add('rolling');
+		const tick = () => {
+			i++;
+			const p = i >= steps ? winner : list[Math.floor(Math.random() * list.length)];
+			text.textContent = `${CATEGORY_EMOJI[p.category] ?? '🍽️'} ${p.name}`;
+			if (i < steps) {
+				setTimeout(tick, 40 + i * i * 1.1);
+			} else {
+				reel.classList.remove('rolling');
+				reel.classList.add('landed');
+				setTimeout(() => reel.classList.remove('landed'), 600);
+				spinning = false;
+				show(winner);
+				refresh();
+			}
+		};
+		tick();
+	}
+
+	document.querySelectorAll<HTMLElement>('.chips').forEach((box) => {
+		const g = box.dataset.group as Group;
+		box.addEventListener('click', (e) => {
+			const chip = (e.target as HTMLElement).closest<HTMLButtonElement>('.chip');
+			if (!chip) return;
+			const v = chip.dataset.value!;
+			state[g].has(v) ? state[g].delete(v) : state[g].add(v);
+			syncChips();
+			save();
+			refresh();
+		});
+	});
+
+	$('reset').addEventListener('click', () => {
+		Object.values(state).forEach((s) => s.clear());
+		banned.clear();
+		syncChips();
+		save();
+		refresh();
+	});
+
+	$('spin').addEventListener('click', spin);
+	$('r-again').addEventListener('click', spin);
+	$('r-ban').addEventListener('click', (e) => {
+		const k = (e.currentTarget as HTMLElement).dataset.key;
+		if (k) banned.add(k);
+		spin();
+	});
+	$<HTMLInputElement>('search').addEventListener('input', (e) => {
+		query = (e.target as HTMLInputElement).value;
+		renderList();
+	});
+
+	load();
+	syncChips();
+	refresh();
+</script>
+
+<style>
+	.wrap {
+		width: min(100% - 32px, 760px);
+		margin-inline: auto;
+	}
+
+	.sr-only {
+		position: absolute;
+		width: 1px;
+		height: 1px;
+		overflow: hidden;
+		clip: rect(0 0 0 0);
+		white-space: nowrap;
+	}
+
+	.top {
+		padding: 48px 0 20px;
+	}
+
+	.eyebrow {
+		margin: 0;
+		color: var(--accent-strong);
+		font-weight: 600;
+		font-size: 0.9rem;
+		letter-spacing: 0.02em;
+	}
+
+	h1 {
+		margin: 4px 0 8px;
+		font-family: 'Mitr', sans-serif;
+		font-weight: 600;
+		font-size: clamp(2.8rem, 10vw, 4.4rem);
+		line-height: 1.1;
+	}
+
+	.dot {
+		color: var(--accent);
+	}
+
+	.lede {
+		margin: 0;
+		color: var(--muted);
+		max-width: 46ch;
+	}
+
+	.lede strong {
+		color: var(--text);
+	}
+
+	h2 {
+		font-family: 'Mitr', sans-serif;
+		font-weight: 500;
+		font-size: 1.3rem;
+		margin: 0;
+	}
+
+	.machine {
+		margin-top: 20px;
+		display: grid;
+		gap: 16px;
+	}
+
+	.reel {
+		background: var(--surface);
+		border: 2px dashed var(--line);
+		border-radius: var(--radius);
+		padding: 22px 18px;
+		text-align: center;
+		font-family: 'Mitr', sans-serif;
+		font-size: clamp(1.2rem, 4.6vw, 1.6rem);
+		min-height: 88px;
+		display: grid;
+		place-items: center;
+		overflow: hidden;
+		transition: border-color 0.2s, transform 0.2s;
+	}
+
+	.reel.rolling {
+		border-color: var(--accent);
+		border-style: solid;
+	}
+
+	.reel.rolling span {
+		animation: blur 0.12s linear infinite;
+	}
+
+	.reel.landed {
+		transform: scale(1.02);
+		border-color: var(--good);
+		border-style: solid;
+	}
+
+	@keyframes blur {
+		0% { transform: translateY(-6px); opacity: 0.6; }
+		100% { transform: translateY(6px); opacity: 1; }
+	}
+
+	.spin {
+		appearance: none;
+		border: 0;
+		border-radius: 999px;
+		padding: 16px 24px;
+		background: var(--accent);
+		color: #fff;
+		cursor: pointer;
+		display: grid;
+		justify-items: center;
+		box-shadow: 0 6px 0 var(--accent-strong), var(--shadow);
+		transition: transform 0.08s, box-shadow 0.08s, filter 0.2s;
+	}
+
+	.spin:hover:not(:disabled) {
+		filter: brightness(1.05);
+	}
+
+	.spin:active:not(:disabled) {
+		transform: translateY(4px);
+		box-shadow: 0 2px 0 var(--accent-strong), var(--shadow);
+	}
+
+	.spin:disabled {
+		opacity: 0.55;
+		cursor: not-allowed;
+	}
+
+	.spin-label {
+		font-family: 'Mitr', sans-serif;
+		font-size: 1.5rem;
+		line-height: 1.2;
+	}
+
+	.spin-count {
+		font-size: 0.85rem;
+		opacity: 0.9;
+	}
+
+	.result {
+		background: var(--surface);
+		border: 1px solid var(--line);
+		border-radius: var(--radius);
+		padding: 20px;
+		box-shadow: var(--shadow);
+	}
+
+	.result.pop {
+		animation: pop 0.35s cubic-bezier(0.2, 1.4, 0.4, 1);
+	}
+
+	@keyframes pop {
+		from { transform: scale(0.96); opacity: 0; }
+		to { transform: scale(1); opacity: 1; }
+	}
+
+	.result-head {
+		display: flex;
+		gap: 14px;
+		align-items: center;
+	}
+
+	.result-emoji {
+		font-size: 2.4rem;
+		width: 64px;
+		height: 64px;
+		flex: none;
+		display: grid;
+		place-items: center;
+		background: var(--accent-soft);
+		border-radius: 16px;
+	}
+
+	.result h3 {
+		margin: 0;
+		font-family: 'Mitr', sans-serif;
+		font-weight: 600;
+		font-size: 1.45rem;
+		line-height: 1.25;
+	}
+
+	.result-en {
+		margin: 2px 0 0;
+		color: var(--muted);
+		font-size: 0.95rem;
+	}
+
+	.result-where {
+		margin: 14px 0 0;
+	}
+
+	.facts {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+		gap: 10px;
+		margin: 14px 0 0;
+	}
+
+	.facts div {
+		background: var(--surface-2);
+		border-radius: 12px;
+		padding: 8px 12px;
+	}
+
+	.facts dt {
+		font-size: 0.78rem;
+		color: var(--muted);
+	}
+
+	.facts dd {
+		margin: 0;
+		font-weight: 600;
+	}
+
+	.dishes {
+		margin: 14px 0 0;
+	}
+
+	.dishes:empty {
+		display: none;
+	}
+
+	.tags {
+		list-style: none;
+		padding: 0;
+		margin: 12px 0 0;
+		display: flex;
+		flex-wrap: wrap;
+		gap: 6px;
+	}
+
+	.tags :global(li) {
+		font-size: 0.8rem;
+		padding: 2px 10px;
+		border-radius: 999px;
+		background: var(--accent-soft);
+		color: var(--accent-strong);
+	}
+
+	.actions {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 8px;
+		margin-top: 18px;
+	}
+
+	.btn {
+		appearance: none;
+		border: 1px solid var(--line);
+		background: var(--surface);
+		border-radius: 999px;
+		padding: 9px 16px;
+		cursor: pointer;
+		text-decoration: none;
+		color: var(--text);
+		font-weight: 500;
+	}
+
+	.btn:hover {
+		border-color: var(--accent);
+	}
+
+	.btn-primary {
+		background: var(--accent);
+		border-color: var(--accent);
+		color: #fff;
+	}
+
+	.source {
+		margin: 14px 0 0;
+		font-size: 0.8rem;
+		color: var(--muted);
+	}
+
+	.filters,
+	.all {
+		margin-top: 36px;
+		background: var(--surface);
+		border: 1px solid var(--line);
+		border-radius: var(--radius);
+		padding: 20px;
+	}
+
+	.filters-head {
+		display: flex;
+		justify-content: space-between;
+		align-items: baseline;
+		gap: 12px;
+	}
+
+	.link {
+		appearance: none;
+		background: none;
+		border: 0;
+		color: var(--accent-strong);
+		cursor: pointer;
+		text-decoration: underline;
+		padding: 0;
+	}
+
+	fieldset {
+		border: 0;
+		padding: 0;
+		margin: 16px 0 0;
+	}
+
+	legend {
+		font-weight: 600;
+		font-size: 0.9rem;
+		margin-bottom: 8px;
+		padding: 0;
+	}
+
+	.chips {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 8px;
+	}
+
+	.chip {
+		appearance: none;
+		border: 1px solid var(--line);
+		background: var(--bg);
+		border-radius: 999px;
+		padding: 6px 13px;
+		cursor: pointer;
+		font-size: 0.9rem;
+		transition: background 0.15s, border-color 0.15s;
+	}
+
+	.chip:hover {
+		border-color: var(--accent);
+	}
+
+	.chip[aria-pressed='true'] {
+		background: var(--accent);
+		border-color: var(--accent);
+		color: #fff;
+	}
+
+	.hint {
+		margin: 16px 0 0;
+		font-size: 0.8rem;
+		color: var(--muted);
+	}
+
+	.muted {
+		color: var(--muted);
+		font-weight: 400;
+		font-size: 1rem;
+	}
+
+	.search {
+		width: 100%;
+		margin-top: 14px;
+		padding: 11px 16px;
+		border: 1px solid var(--line);
+		border-radius: 12px;
+		background: var(--bg);
+	}
+
+	.list {
+		list-style: none;
+		padding: 0;
+		margin: 12px 0 0;
+		max-height: 560px;
+		overflow-y: auto;
+	}
+
+	.list :global(.row) {
+		appearance: none;
+		width: 100%;
+		display: flex;
+		align-items: center;
+		gap: 12px;
+		padding: 10px 8px;
+		border: 0;
+		border-bottom: 1px solid var(--line);
+		background: none;
+		text-align: left;
+		cursor: pointer;
+		border-radius: 10px;
+	}
+
+	.list :global(.row:hover) {
+		background: var(--surface-2);
+	}
+
+	.list :global(.row-emoji) {
+		font-size: 1.4rem;
+		flex: none;
+	}
+
+	.list :global(.row-main) {
+		display: grid;
+		min-width: 0;
+		flex: 1;
+	}
+
+	.list :global(.row-name) {
+		font-weight: 600;
+	}
+
+	.list :global(.row-sub) {
+		font-size: 0.82rem;
+		color: var(--muted);
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+	}
+
+	.list :global(.row-price) {
+		flex: none;
+		color: var(--accent-strong);
+		font-weight: 600;
+		font-size: 0.9rem;
+	}
+
+	.empty {
+		color: var(--muted);
+		text-align: center;
+		padding: 20px 0 4px;
+		margin: 0;
+	}
+
+	.foot {
+		padding: 32px 0 48px;
+		font-size: 0.8rem;
+		color: var(--muted);
+	}
+</style>

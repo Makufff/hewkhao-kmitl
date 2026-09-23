@@ -1,0 +1,1137 @@
+[
+ {
+  "name": "ร้านพี่บัง พระเทพ Halal",
+  "nameEn": "Pee Bang Phra Thep Halal",
+  "zone": "ในสจล.",
+  "location": "โรงอาหารอาคารเรียนรวมสมเด็จพระเทพฯ",
+  "category": "อาหารมุสลิม/ฮาลาล",
+  "tags": [
+   "ฮาลาล",
+   "ราคาถูก",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "ข้าวแกงพี่บัง",
+   "อาหารตามสั่งฮาลาล"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "07:00-17:00 จ.-ส., 07:00-15:00 อา.",
+  "lat": 13.72986,
+  "lng": 100.776013,
+  "mapsQuery": "ร้านพี่บัง พระเทพ Halal ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/2406003dG",
+  "confidence": "high"
+ },
+ {
+  "name": "อาหารอิสลาม (โรงอาหารพระเทพ)",
+  "nameEn": "Islamic Food (Phra Thep Canteen)",
+  "zone": "ในสจล.",
+  "location": "โรงอาหารอาคารเรียนรวมสมเด็จพระเทพฯ",
+  "category": "อาหารมุสลิม/ฮาลาล",
+  "tags": [
+   "ฮาลาล",
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "ข้าวคลุกกะปิไก่ทอด",
+   "ข้าวหมกไก่",
+   "ข้าวมันไก่"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "07:30-17:00 จ.-ศ.",
+  "lat": 13.729868,
+  "lng": 100.77608,
+  "mapsQuery": "อาหารอิสลาม โรงอาหารพระเทพ สจล.",
+  "source": "https://www.wongnai.com/restaurants/310210Ys",
+  "confidence": "high"
+ },
+ {
+  "name": "ข้าวมันไก่ภัทรมัย",
+  "nameEn": "Phattharamai Chicken Rice",
+  "zone": "ในสจล.",
+  "location": "โรงอาหารอาคารเรียนรวมสมเด็จพระเทพฯ",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "ข้าวมันไก่",
+   "ข้าวยำกุ้งแซ่บ",
+   "ข้าวหมูแดง",
+   "ข้าวหมูกรอบ"
+  ],
+  "price": 1,
+  "priceText": "30-60 บาท",
+  "hours": "07:30-16:00 จ.-ศ.",
+  "lat": 13.729782,
+  "lng": 100.77608,
+  "mapsQuery": "ข้าวมันไก่ภัทรมัย สจล.",
+  "source": "https://www.wongnai.com/restaurants/308219vK",
+  "confidence": "high"
+ },
+ {
+  "name": "ป๊าป๋าข้าวมันไก่",
+  "nameEn": "Papa Chicken Rice",
+  "zone": "ในสจล.",
+  "location": "โรงอาหารตึกพระเทพ ร้านที่ 4",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "ข้าวหน้าปลาทอดซอสเปรี้ยวหวาน",
+   "ข้าวไก่เทอริยากิไข่ดาว",
+   "ข้าวมันไก่"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": null,
+  "lat": 13.73,
+  "lng": 100.7759,
+  "mapsQuery": "ป๊าป๋าข้าวมันไก่ โรงอาหารพระเทพ สจล.",
+  "source": "https://www.wongnai.com/restaurants/358611rx",
+  "confidence": "high"
+ },
+ {
+  "name": "เทคโนฯอินเตอร์",
+  "nameEn": "Techno Inter",
+  "zone": "ในสจล.",
+  "location": "โรงอาหารพระเทพ",
+  "category": "อาหารฝรั่ง/ฟาสต์ฟู้ด",
+  "tags": [
+   "ราคาถูก",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "ข้าวไก่คาราอาเกะ",
+   "ปลาดอลลี่ทอดซอสเห็ด",
+   "ข้าวไก่เทอริยากิ",
+   "สเต๊ก"
+  ],
+  "price": 1,
+  "priceText": "30-60 บาท",
+  "hours": "07:00-16:30 จ.-ศ., 08:00-16:00 ส.-อา.",
+  "lat": 13.7298,
+  "lng": 100.7758,
+  "mapsQuery": "เทคโนฯอินเตอร์ สจล. ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/226056lV",
+  "confidence": "high"
+ },
+ {
+  "name": "ลาบกระบัง",
+  "nameEn": "Larbkrabang",
+  "zone": "ในสจล.",
+  "location": "โรงอาหารพระเทพ",
+  "category": "อาหารอีสาน",
+  "tags": [
+   "ราคาถูก",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "ส้มตำ",
+   "ลาบ"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "จ.-พ. 11:00-20:00, พฤ.-ศ. 09:00-17:00, ส.-อา. 11:00-20:00",
+  "lat": 13.7300329,
+  "lng": 100.7758227,
+  "mapsQuery": "ลาบกระบัง โรงอาหารพระเทพ",
+  "source": "https://www.wongnai.com/restaurants/1706637EF",
+  "confidence": "high"
+ },
+ {
+  "name": "Kamu Tea (คามุ ที)",
+  "nameEn": "Kamu Tea",
+  "zone": "ในสจล.",
+  "location": "โรงอาหารพระเทพ ใต้บันไดสีส้ม",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "ราคาถูก",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "ชามะนาวน้ำผึ้งโบราณ",
+   "มัทฉะเลมอนเนด",
+   "ชาเขียวมะนาว",
+   "เลมอนโซดา"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "08:00-16:00 ทุกวัน",
+  "lat": 13.730026,
+  "lng": 100.776827,
+  "mapsQuery": "Kamu Tea โรงอาหารพระเทพ สจล.",
+  "source": "https://www.wongnai.com/restaurants/2900366kY",
+  "confidence": "high"
+ },
+ {
+  "name": "Inthanin Coffee (ตึกพระเทพ)",
+  "nameEn": "Inthanin Coffee KMITL",
+  "zone": "ในสจล.",
+  "location": "อาคารเรียนรวมสมเด็จพระเทพฯ",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "ราคาถูก",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "มัทฉะปั่น",
+   "โกโก้เย็น",
+   "กาแฟ"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "07:00-17:00 จ.-ศ., 08:00-15:00 ส.",
+  "lat": 13.730031,
+  "lng": 100.776181,
+  "mapsQuery": "Inthanin Coffee สจล. ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/830907hM",
+  "confidence": "high"
+ },
+ {
+  "name": "Uni in the box สาขาลาดกระบัง",
+  "nameEn": "Uni in the box",
+  "zone": "ในสจล.",
+  "location": "ข้างห้อง C101 ตึกเรียนรวมสมเด็จพระเทพฯ",
+  "category": "อาหารทะเล",
+  "tags": [
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "ข้าวหน้าซีฟู้ดในกล่อง"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": null,
+  "lat": 13.730026,
+  "lng": 100.7768273,
+  "mapsQuery": "Uni in the box ลาดกระบัง ตึกพระเทพ",
+  "source": "https://www.wongnai.com/restaurants/582336cv",
+  "confidence": "medium"
+ },
+ {
+  "name": "ANNIE SHAKE KMITL",
+  "nameEn": "Annie Shake",
+  "zone": "ในสจล.",
+  "location": "ฝั่งตรงข้ามตึกพระเทพ",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "ราคาถูก",
+   "ชานมไข่มุก"
+  ],
+  "dishes": [
+   "ชานมไข่มุก"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": null,
+  "lat": 13.729556,
+  "lng": 100.777056,
+  "mapsQuery": "Annie Shake KMITL",
+  "source": "https://www.wongnai.com/restaurants/307335vw-annie-shake-kmitl",
+  "confidence": "medium"
+ },
+ {
+  "name": "One-Dish Meals (โรงอาหารเอ วิศวะ)",
+  "nameEn": "One-Dish Meals",
+  "zone": "ในสจล.",
+  "location": "โรงอาหาร A คณะวิศวกรรมศาสตร์",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ราคาถูก",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "กะเพราหมูสับไข่ข้น",
+   "พริกเผาหมูกรอบไข่ดาว",
+   "ปลาหมึกกระเทียมไข่ดาว",
+   "สุกี้น้ำทะเล"
+  ],
+  "price": 1,
+  "priceText": "~60 บาท",
+  "hours": "08:00-18:30 จ.-ส.",
+  "lat": 13.727,
+  "lng": 100.776,
+  "mapsQuery": "One-Dish Meals โรงอาหารวิศวะ สจล.",
+  "source": "https://www.wongnai.com/restaurants/307198VL-one-dish-meals",
+  "confidence": "high"
+ },
+ {
+  "name": "ร้านอิสลาม โรงอาหารเอ วิศวะ",
+  "nameEn": "Islamic Shop, Engineering Canteen A",
+  "zone": "ในสจล.",
+  "location": "โรงอาหาร A คณะวิศวกรรมศาสตร์",
+  "category": "อาหารมุสลิม/ฮาลาล",
+  "tags": [
+   "ฮาลาล",
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "ข้าวผัดอเมริกัน",
+   "ข้าวหมกไก่",
+   "แกง"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": null,
+  "lat": 13.72688,
+  "lng": 100.77573,
+  "mapsQuery": "ร้านอิสลาม โรงอาหารเอ คณะวิศวกรรมศาสตร์ สจล.",
+  "source": "https://www.wongnai.com/restaurants/174000Cn",
+  "confidence": "high"
+ },
+ {
+  "name": "แฮมเบอร์เกอร์ ชวนชิม",
+  "nameEn": "Hamburger Chuan Chim",
+  "zone": "ในสจล.",
+  "location": "โรงอาหาร A คณะวิศวกรรมศาสตร์",
+  "category": "อาหารฝรั่ง/ฟาสต์ฟู้ด",
+  "tags": [
+   "ราคาถูก",
+   "อิ่มเร็ว"
+  ],
+  "dishes": [
+   "ข้าวไก่ทอดไข่ข้นชีส",
+   "แฮมเบอร์เกอร์",
+   "แซนด์วิช",
+   "เกี๊ยวซ่า"
+  ],
+  "price": 2,
+  "priceText": "80-90 บาท",
+  "hours": null,
+  "lat": 13.726861,
+  "lng": 100.77523,
+  "mapsQuery": "แฮมเบอร์เกอร์ ชวนชิม โรงอาหารวิศวะ สจล.",
+  "source": "https://www.wongnai.com/restaurants/307112aj",
+  "confidence": "high"
+ },
+ {
+  "name": "ร้านข้าวไก่แซ่บ (ร้านสิบเอ็ด)",
+  "nameEn": "Khao Kai Zaab",
+  "zone": "ในสจล.",
+  "location": "ร้านที่ 11 โรงอาหารคณะวิศวกรรมศาสตร์ (A)",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ราคาถูก",
+   "ร้านดัง"
+  ],
+  "dishes": [
+   "ข้าวไก่ทอด",
+   "ไข่ข้น"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "โรงอาหาร A คณะวิศวกรรมศาสตร์ สจล.",
+  "source": "https://www.instagram.com/p/CoBm3exrOCP/",
+  "confidence": "medium"
+ },
+ {
+  "name": "เตี๋ยวต้องโดน",
+  "nameEn": "Tiew Tong Don",
+  "zone": "ในสจล.",
+  "location": "โรงอาหารคณะวิศวกรรมศาสตร์",
+  "category": "ก๋วยเตี๋ยว/เส้น",
+  "tags": [
+   "ต้มยำ",
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "ก๋วยเตี๋ยวต้มยำไข่ออนเซ็น",
+   "เส้นเล็กต้มยำไข่ออนเซ็น"
+  ],
+  "price": 1,
+  "priceText": "42-70 บาท",
+  "hours": "08:00-17:00 จ.-ศ., 08:00-15:00 ส.",
+  "lat": 13.7267,
+  "lng": 100.7758,
+  "mapsQuery": "เตี๋ยวต้องโดน สจล. ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/565784EB",
+  "confidence": "high"
+ },
+ {
+  "name": "ยูเอชที (โรงอาหารวิศวะ)",
+  "nameEn": "UHT",
+  "zone": "ในสจล.",
+  "location": "โรงอาหารคณะวิศวกรรมศาสตร์",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "ข้าวปลาราดพริก",
+   "ข้าวปลาหมึกทอดกระเทียม"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": null,
+  "lat": 13.7268436,
+  "lng": 100.7758076,
+  "mapsQuery": "ยูเอชที โรงอาหารวิศวะ สจล.",
+  "source": "https://www.wongnai.com/restaurants/354675zL",
+  "confidence": "high"
+ },
+ {
+  "name": "Steak BOX คณะวิศวะ ลาดกระบัง",
+  "nameEn": "Steak BOX",
+  "zone": "ในสจล.",
+  "location": "โรงอาหาร 1 คณะวิศวกรรมศาสตร์",
+  "category": "อาหารฝรั่ง/ฟาสต์ฟู้ด",
+  "tags": [
+   "ราคาถูก",
+   "สเต๊ก"
+  ],
+  "dishes": [
+   "สเต๊ก"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": null,
+  "lat": 13.726878,
+  "lng": 100.775652,
+  "mapsQuery": "Steak BOX คณะวิศวะ ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/119551Zx",
+  "confidence": "medium"
+ },
+ {
+  "name": "KMITL 12 รุ่นโหล Coffee",
+  "nameEn": "KMITL 12 Run Lo Coffee",
+  "zone": "ในสจล.",
+  "location": "โรงอาหาร A คณะวิศวกรรมศาสตร์ (ห้องกระจกแอร์)",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "แอร์",
+   "นั่งชิล",
+   "Wi-Fi"
+  ],
+  "dishes": [
+   "English Tea",
+   "มัทฉะ",
+   "อเมริกาโน่",
+   "มัคคิอาโต้"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": null,
+  "lat": 13.726912,
+  "lng": 100.775319,
+  "mapsQuery": "KMITL 12 รุ่นโหล Coffee โรงอาหารเอ",
+  "source": "https://www.wongnai.com/restaurants/307111LG",
+  "confidence": "high"
+ },
+ {
+  "name": "Salute Koff KMITL (Cafe Ichi)",
+  "nameEn": "Salute Koff",
+  "zone": "ในสจล.",
+  "location": "อาคาร B คณะวิศวกรรมศาสตร์",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "แอร์",
+   "นั่งชิล",
+   "กาแฟพิเศษ"
+  ],
+  "dishes": [
+   "กาแฟ specialty",
+   "มะนาวปั่น",
+   "ขนมอบ"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "07:00-18:00 จ.-ศ., 08:00-18:00 ส.-อา.",
+  "lat": 13.727368,
+  "lng": 100.775317,
+  "mapsQuery": "Salute Koff KMITL",
+  "source": "https://www.wongnai.com/restaurants/323152Cf-salute-koff-kmitl",
+  "confidence": "high"
+ },
+ {
+  "name": "Café Amazon SD3450 (คณะวิศวะ)",
+  "nameEn": "Café Amazon SD3450",
+  "zone": "ในสจล.",
+  "location": "อาคาร HM คณะวิศวกรรมศาสตร์",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "แอร์",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "แบล็คทีฮันนี่",
+   "กาแฟเย็น",
+   "ขนมปังกระเทียม"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "07:00-18:00 ทุกวัน",
+  "lat": 13.726,
+  "lng": 100.775,
+  "mapsQuery": "Café Amazon SD3450 คณะวิศวกรรม สจล.",
+  "source": "https://www.wongnai.com/restaurants/635874XT",
+  "confidence": "high"
+ },
+ {
+  "name": "iGearBooks&Coffee",
+  "nameEn": "iGearBooks & Coffee",
+  "zone": "ในสจล.",
+  "location": "คณะวิศวกรรมศาสตร์ ตรงข้ามลาน CCA",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "แอร์",
+   "Wi-Fi",
+   "นั่งชิล"
+  ],
+  "dishes": [
+   "นมคาราเมลปั่น",
+   "ขนมปังภูเขาไฟฟูจิ",
+   "วาฟเฟิลไอศกรีม",
+   "บานาน่าสปลิท"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "09:00-19:00 จ.-ศ.",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "iGearBooks&Coffee สจล. ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/23305oV",
+  "confidence": "high"
+ },
+ {
+  "name": "คุณฝนตามสั่ง (โรง C ร้าน C4)",
+  "nameEn": "Khun Fon Made-to-Order",
+  "zone": "ในสจล.",
+  "location": "โรงอาหาร C คณะวิศวะ หน้าตึก 12 ชั้น ร้าน C4",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ราคาถูก",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "กะเพรา",
+   "ข้าวผัด",
+   "อาหารตามสั่ง"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "08:00-17:00 จ.-ส., 09:00-17:00 อา.",
+  "lat": 13.72685655,
+  "lng": 100.77211903,
+  "mapsQuery": "คุณฝนตามสั่ง โรงอาหาร C วิศวะ สจล.",
+  "source": "https://www.wongnai.com/restaurants/2545886SE",
+  "confidence": "high"
+ },
+ {
+  "name": "ข้าวซอยไก่ และข้าวหมูทอด อาหารอีสาน (อีสานอินเตอร์)",
+  "nameEn": "Isan Inter",
+  "zone": "ในสจล.",
+  "location": "โรงอาหาร C ชั้น 2 ร้านที่ 5 คณะวิศวะ",
+  "category": "อาหารอีสาน",
+  "tags": [
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "ข้าวซอยไก่",
+   "ข้าวหมูทอด",
+   "ส้มตำ",
+   "ข้าวมันไก่ต้ม"
+  ],
+  "price": 2,
+  "priceText": "101-250 บาท",
+  "hours": "08:00-16:00 จ.-ศ., 08:00-17:00 ส.",
+  "lat": 13.7269,
+  "lng": 100.7722,
+  "mapsQuery": "อีสานอินเตอร์ โรงอาหาร C สจล.",
+  "source": "https://www.wongnai.com/restaurants/3571687Br",
+  "confidence": "high"
+ },
+ {
+  "name": "ลุงขาหมู (C)",
+  "nameEn": "Lung Khamoo",
+  "zone": "ในสจล.",
+  "location": "โรงอาหาร C คณะวิศวะ",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "ข้าวขาหมู",
+   "ปลาทอด",
+   "ไก่พริกไทยดำ",
+   "ไก่เทมปุระ"
+  ],
+  "price": 1,
+  "priceText": "45-50 บาท",
+  "hours": "08:30-16:00 จ.-ศ., 09:00-15:00 ส.",
+  "lat": 13.727,
+  "lng": 100.772,
+  "mapsQuery": "ลุงขาหมู โรงอาหาร C สจล.",
+  "source": "https://www.wongnai.com/restaurants/568796Xc",
+  "confidence": "high"
+ },
+ {
+  "name": "ร้านครัวศรีทอง",
+  "nameEn": "Sri Thong Kitchen",
+  "zone": "ในสจล.",
+  "location": "โรงอาหารคณะวิทยาศาสตร์ ชั้น 2",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ราคาถูก",
+   "เดลิเวอรี่",
+   "ข้าวกล่อง"
+  ],
+  "dishes": [
+   "อาหารตามสั่ง",
+   "ข้าวกล่อง"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": "08:00-16:00 จ.-ศ., 08:00-15:00 ส.",
+  "lat": 13.728854,
+  "lng": 100.779418,
+  "mapsQuery": "ร้านครัวศรีทอง โรงอาหารคณะวิทยาศาสตร์ สจล.",
+  "source": "https://www.wongnai.com/restaurants/603026fE",
+  "confidence": "high"
+ },
+ {
+  "name": "นายแสงก๋วยเตี๋ยว วิดยา",
+  "nameEn": "Nai Saeng Noodles",
+  "zone": "ในสจล.",
+  "location": "โรงอาหารคณะวิทยาศาสตร์ ชั้น 2",
+  "category": "ก๋วยเตี๋ยว/เส้น",
+  "tags": [
+   "ราคาถูก",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "ก๋วยเตี๋ยว"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": "09:00-15:00 จ.-ศ., 08:30-13:30 ส.",
+  "lat": 13.7289286,
+  "lng": 100.7793409,
+  "mapsQuery": "นายแสงก๋วยเตี๋ยว วิดยา สจล.",
+  "source": "https://www.wongnai.com/restaurants/3764172DN",
+  "confidence": "high"
+ },
+ {
+  "name": "เกลอกลมเกลียว รามยอนเกาหลี",
+  "nameEn": "Kloe Klom Kliao Korean Ramyeon",
+  "zone": "ในสจล.",
+  "location": "โรงอาหารคณะวิทยาศาสตร์ ร้าน No.8",
+  "category": "อาหารเกาหลี",
+  "tags": [
+   "ราคาถูก",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "รามยอน"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "08:00-15:00 จ.-ศ.",
+  "lat": 13.7301958,
+  "lng": 100.77997,
+  "mapsQuery": "เกลอกลมเกลียว รามยอนเกาหลี คณะวิทยาศาสตร์ สจล.",
+  "source": "https://www.wongnai.com/restaurants/3318803xT",
+  "confidence": "high"
+ },
+ {
+  "name": "ข้าวมันไก่ โรงอาหารเก่าคณะวิทยาศาสตร์",
+  "nameEn": "Chicken Rice (Old Science Canteen)",
+  "zone": "ในสจล.",
+  "location": "โรงอาหารเก่าคณะวิทยาศาสตร์",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "ข้าวมันไก่",
+   "ข้าวยำไก่แซ่บ",
+   "ข้าวมันไก่ผสมไก่ทอด"
+  ],
+  "price": 1,
+  "priceText": "30-35 บาท",
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ข้าวมันไก่ โรงอาหารคณะวิทยาศาสตร์ สจล.",
+  "source": "https://www.wongnai.com/restaurants/147524Ql",
+  "confidence": "medium"
+ },
+ {
+  "name": "Café Amazon SC2842 (คณะวิทยาศาสตร์)",
+  "nameEn": "Café Amazon SC2842",
+  "zone": "ในสจล.",
+  "location": "คณะวิทยาศาสตร์",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "แอร์",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "ชาไทยเย็น",
+   "กาแฟเย็น",
+   "ชีสเค้กปั่นโอรีโอ"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "07:00-18:00 จ.-ศ., 08:00-17:00 ส.-อา.",
+  "lat": 13.729056,
+  "lng": 100.779415,
+  "mapsQuery": "Café Amazon SC2842 คณะวิทยาศาสตร์ สจล.",
+  "source": "https://www.wongnai.com/restaurants/432653MJ",
+  "confidence": "high"
+ },
+ {
+  "name": "บังมูฟี โรงอาหารครุศาสตร์",
+  "nameEn": "Bang Mufi",
+  "zone": "ในสจล.",
+  "location": "โรงอาหารคณะครุศาสตร์อุตสาหกรรม",
+  "category": "ก๋วยเตี๋ยว/เส้น",
+  "tags": [
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "ก๋วยเตี๋ยว"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "10:30-16:00 จ.-ศ., 10:30-14:00 ส.-อา.",
+  "lat": 13.729947,
+  "lng": 100.780181,
+  "mapsQuery": "บังมูฟี โรงอาหารครุศาสตร์ สจล.",
+  "source": "https://www.wongnai.com/restaurants/1467772Ru",
+  "confidence": "high"
+ },
+ {
+  "name": "อาหารตามสั่ง ร้านป้ากาญจน์",
+  "nameEn": "Pa Kan Made-to-Order",
+  "zone": "ในสจล.",
+  "location": "ตึกครุศาสตร์",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ราคาถูกมาก"
+  ],
+  "dishes": [
+   "กะเพรา",
+   "ข้าวไก่เทอริยากิ"
+  ],
+  "price": 1,
+  "priceText": "25-35 บาท",
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ร้านป้ากาญจน์ ครุศาสตร์ สจล.",
+  "source": "https://www.wongnai.com/restaurants/347544br",
+  "confidence": "high"
+ },
+ {
+  "name": "นายสมโชค ก๋วยเตี๋ยวต้มยำโบราณ",
+  "nameEn": "Nai Somchok Tom Yum Noodles",
+  "zone": "ในสจล.",
+  "location": "โรงอาหารคณะบริหารธุรกิจ",
+  "category": "ก๋วยเตี๋ยว/เส้น",
+  "tags": [
+   "ต้มยำ",
+   "เปิดถึงค่ำ",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "ก๋วยเตี๋ยวหมูต้มยำมะนาวสด"
+  ],
+  "price": 2,
+  "priceText": "101-250 บาท",
+  "hours": "10:00-20:00 (ศ. 11:00-20:00)",
+  "lat": 13.729,
+  "lng": 100.7815,
+  "mapsQuery": "นายสมโชค ก๋วยเตี๋ยวต้มยำโบราณ คณะบริหาร สจล.",
+  "source": "https://www.wongnai.com/restaurants/2396187zR",
+  "confidence": "high"
+ },
+ {
+  "name": "แม่จีอาหารตามสั่งคณะบริหาร",
+  "nameEn": "Mae Jee Made-to-Order",
+  "zone": "ในสจล.",
+  "location": "โรงอาหารคณะบริหารธุรกิจ",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ราคาถูก",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "อาหารตามสั่ง"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "07:00-16:00 จ.-ส.",
+  "lat": 13.7294,
+  "lng": 100.7816,
+  "mapsQuery": "แม่จีอาหารตามสั่ง คณะบริหาร สจล.",
+  "source": "https://www.wongnai.com/restaurants/3826314fI",
+  "confidence": "medium"
+ },
+ {
+  "name": "ร้านกาแฟ นอกชาน",
+  "nameEn": "Nok Chan Coffee",
+  "zone": "ในสจล.",
+  "location": "หลังคณะสถาปัตยกรรมศาสตร์",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "นั่งชิล",
+   "ร่มรื่น",
+   "ร้านลับ"
+  ],
+  "dishes": [
+   "คาราเมลลาเต้",
+   "ข้าวไข่เจียว"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "07:30-17:50 จ.-ส.",
+  "lat": 13.725252,
+  "lng": 100.774577,
+  "mapsQuery": "ร้านกาแฟนอกชาน สจล.",
+  "source": "https://www.wongnai.com/restaurants/12758Bh",
+  "confidence": "high"
+ },
+ {
+  "name": "Baan Cool Cafe & Art Space",
+  "nameEn": "Baan Cool Cafe & Art Space",
+  "zone": "ในสจล.",
+  "location": "คณะสถาปัตยกรรม ศิลปะและการออกแบบ",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "นั่งชิล",
+   "ร่มรื่น",
+   "อาร์ต"
+  ],
+  "dishes": [
+   "ครัวซองต์เนยสด",
+   "ลาเต้ร้อน",
+   "อเมริกาโน่"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "08:00-17:00 ทุกวัน",
+  "lat": 13.725277,
+  "lng": 100.77398,
+  "mapsQuery": "Baan Cool Cafe & Art Space สจล.",
+  "source": "https://www.wongnai.com/restaurants/2693288FP-baan-cool-cafe-art-space",
+  "confidence": "high"
+ },
+ {
+  "name": "Lita Cafe & Roaster KMITL",
+  "nameEn": "Lita Cafe & Roaster",
+  "zone": "ในสจล.",
+  "location": "ใกล้อาคารสำนักงานอธิการบดี",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "นั่งชิล",
+   "แอร์",
+   "กาแฟคั่วเอง"
+  ],
+  "dishes": [
+   "กาแฟ",
+   "เมนูพิเศษประจำสัปดาห์",
+   "ขนมอบ"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "07:00-17:00 จ.-ศ., 08:00-17:00 ส.",
+  "lat": 13.730557,
+  "lng": 100.777192,
+  "mapsQuery": "Lita Cafe & Roaster KMITL",
+  "source": "https://www.wongnai.com/restaurants/3602174Ik-lita-cafe-roaster-kmitl-",
+  "confidence": "high"
+ },
+ {
+  "name": "Alumni Cafe",
+  "nameEn": "Alumni Cafe",
+  "zone": "ในสจล.",
+  "location": "ใกล้สระว่ายน้ำ สจล.",
+  "category": "ของหวาน/เบเกอรี่",
+  "tags": [
+   "นั่งชิล",
+   "ของหวาน"
+  ],
+  "dishes": [
+   "ฮันนี่โทสต์",
+   "บิงซูมะม่วง",
+   "บิงซูชาเขียว"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "10:00-20:00 จ.-ส.",
+  "lat": 13.731219,
+  "lng": 100.774646,
+  "mapsQuery": "Alumni Cafe สจล. ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/270391hc-alumni-cafe",
+  "confidence": "high"
+ },
+ {
+  "name": "U-Cafe' (ยู คาเฟ่)",
+  "nameEn": "U-Cafe",
+  "zone": "ในสจล.",
+  "location": "ในสจล. (ฝั่งคณะวิศวะ)",
+  "category": "ของหวาน/เบเกอรี่",
+  "tags": [
+   "เปิดถึงค่ำ",
+   "ของหวาน"
+  ],
+  "dishes": [
+   "โอรีโอชีสเค้ก",
+   "กาแฟ"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "11:00-21:00 จ.-ศ., 08:00-21:00 ส.-อา.",
+  "lat": 13.726224,
+  "lng": 100.77608,
+  "mapsQuery": "U-Cafe สจล. ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/16564LN-u-cafe",
+  "confidence": "medium"
+ },
+ {
+  "name": "True Coffee สจล.",
+  "nameEn": "True Coffee KMITL",
+  "zone": "ในสจล.",
+  "location": "ในสจล.",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "แอร์",
+   "Wi-Fi"
+  ],
+  "dishes": [
+   "ชาไทยเย็น",
+   "มอคค่า",
+   "มัทฉะ",
+   "ขนมอบ"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "07:30-17:30 จ.-ศ. (จ. 07:00), 08:30-16:30 ส.",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "True Coffee สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/164182Nh",
+  "confidence": "medium"
+ },
+ {
+  "name": "Café Amazon SC3710 (คณะแพทยศาสตร์)",
+  "nameEn": "Café Amazon SC3710",
+  "zone": "ในสจล.",
+  "location": "คณะแพทยศาสตร์ สจล.",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "แอร์",
+   "Wi-Fi",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "กาแฟดำ",
+   "ชาไทยเย็น",
+   "ผลไม้ปั่น"
+  ],
+  "price": 1,
+  "priceText": "~55 บาท",
+  "hours": "07:00-18:00 จ.-ศ., 08:00-17:00 ส.-อา.",
+  "lat": 13.731044,
+  "lng": 100.775515,
+  "mapsQuery": "Café Amazon SC3710 คณะแพทยศาสตร์ สจล.",
+  "source": "https://www.wongnai.com/restaurants/739953dX",
+  "confidence": "high"
+ },
+ {
+  "name": "ก๋วยจั๋บน้ำข้น (KMITL Walking Street)",
+  "nameEn": "Kuay Jab Nam Khon",
+  "zone": "ในสจล.",
+  "location": "KMITL Walking Street (เฉพาะวันพฤหัส)",
+  "category": "ก๋วยเตี๋ยว/เส้น",
+  "tags": [
+   "ตลาดนัด",
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "ก๋วยจั๋บน้ำข้นเครื่องแน่น"
+  ],
+  "price": 1,
+  "priceText": "40 บาท/ถ้วย",
+  "hours": "พฤ. (หมดแล้วปิด)",
+  "lat": 13.728781,
+  "lng": 100.77219,
+  "mapsQuery": "KMITL Walking Street ก๋วยจั๋บน้ำข้น",
+  "source": "https://www.wongnai.com/restaurants/310212UL",
+  "confidence": "medium"
+ },
+ {
+  "name": "อิดรีส อาหารอิสลาม",
+  "nameEn": "Idris Islamic Food",
+  "zone": "ในสจล.",
+  "location": "โรงอาหารใกล้หอพักนักศึกษา (หอใน)",
+  "category": "อาหารมุสลิม/ฮาลาล",
+  "tags": [
+   "ฮาลาล",
+   "อาหารถาด"
+  ],
+  "dishes": [
+   "ข้าวราดแกง",
+   "อาหารตามสั่งฮาลาล"
+  ],
+  "price": 2,
+  "priceText": "101-250 บาท",
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "อิดรีส อาหารอิสลาม สจล.",
+  "source": "https://www.wongnai.com/restaurants/350125nf",
+  "confidence": "medium"
+ },
+ {
+  "name": "ร้านชัยนุชา (หอใน)",
+  "nameEn": "Chaiyanucha",
+  "zone": "ในสจล.",
+  "location": "โรงอาหารหอพักนักศึกษา (หอใน)",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ราคาถูก",
+   "ให้เยอะ"
+  ],
+  "dishes": [
+   "ข้าวผัด",
+   "แกงส้มกุ้งไข่",
+   "ผัดซีอิ๊ว"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "หอพักนักศึกษา สจล. โรงอาหาร",
+  "source": "https://pantip.com/topic/35274842",
+  "confidence": "medium"
+ },
+ {
+  "name": "ร้านป้าเหมียว (โรงอาหารพระเทพ)",
+  "nameEn": "Pa Meow",
+  "zone": "ในสจล.",
+  "location": "โรงอาหารพระเทพ",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "อาหารตามสั่ง"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "โรงอาหารพระเทพ สจล.",
+  "source": "https://pantip.com/topic/35274842",
+  "confidence": "medium"
+ },
+ {
+  "name": "สนองโอษฐ์ คาเฟ่",
+  "nameEn": "Sanong-Ot Cafe",
+  "zone": "ในสจล.",
+  "location": "ใกล้อาคาร LRC",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "นั่งชิล"
+  ],
+  "dishes": [
+   "กาแฟสด",
+   "ชา",
+   "เค้ก"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "สนองโอษฐ์ สจล.",
+  "source": "https://pantip.com/topic/35274842",
+  "confidence": "medium"
+ },
+ {
+  "name": "โรงอาหารศาลากลางน้ำ คณะเทคโนโลยีการเกษตร",
+  "nameEn": "Agricultural Food Court (Sala Klang Nam)",
+  "zone": "ในสจล.",
+  "location": "ริมสระน้ำ คณะเทคโนโลยีการเกษตร",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "บรรยากาศดี",
+   "ราคาถูก",
+   "ริมน้ำ"
+  ],
+  "dishes": [
+   "อาหารตามสั่ง",
+   "ก๋วยเตี๋ยว"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "โรงอาหารศาลากลางน้ำ คณะเทคโนโลยีการเกษตร สจล.",
+  "source": "https://pantip.com/topic/39017279",
+  "confidence": "medium"
+ },
+ {
+  "name": "โรงอาหาร คณะวิศวกรรมศาสตร์ (A)",
+  "nameEn": "Engineering Canteen A",
+  "zone": "ในสจล.",
+  "location": "คณะวิศวกรรมศาสตร์",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ราคาถูก",
+   "ร้านเยอะ",
+   "นั่งเยอะ"
+  ],
+  "dishes": [
+   "อาหารตามสั่ง",
+   "อาหารญี่ปุ่น",
+   "อาหารเกาหลี",
+   "เครป",
+   "น้ำปั่น"
+  ],
+  "price": 1,
+  "priceText": "30-80 บาท",
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "โรงอาหาร คณะวิศวกรรมศาสตร์ สจล.",
+  "source": "https://restaurantguru.com/%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3kmitl-Bangkok",
+  "confidence": "high"
+ },
+ {
+  "name": "โรงอาหารคณะวิทยาศาสตร์ (วิดยา)",
+  "nameEn": "Science Canteen",
+  "zone": "ในสจล.",
+  "location": "คณะวิทยาศาสตร์",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ราคาถูก",
+   "ตลาดนัดวันอังคาร"
+  ],
+  "dishes": [
+   "ก๋วยเตี๋ยว",
+   "ข้าวผัด",
+   "ทาโกะยากิ",
+   "ไส้กรอกทอด"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "โรงอาหารคณะวิทยาศาสตร์ สจล.",
+  "source": "https://www.wongnai.com/restaurants/127183Lv",
+  "confidence": "high"
+ }
+]

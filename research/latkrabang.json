@@ -1,0 +1,2372 @@
+[
+ {
+  "name": "แก้วไก่กรอบ",
+  "nameEn": "Kaew Kai Krob",
+  "zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+  "location": "1637 ถนนลาดกระบัง",
+  "category": "อาหารอีสาน",
+  "tags": [
+   "ราคาถูก",
+   "ร้านดัง"
+  ],
+  "dishes": [
+   "ไก่ย่างหนังกรอบ",
+   "ส้มตำ",
+   "ข้าวเหนียว"
+  ],
+  "price": 2,
+  "priceText": "45 บาทขึ้นไป",
+  "hours": "08:30-21:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "แก้วไก่กรอบ ถนนลาดกระบัง",
+  "source": "https://www.ryoiireview.com/article/food-ladkrabang-chill/",
+  "confidence": "high"
+ },
+ {
+  "name": "ป้าเภา",
+  "nameEn": "Pa Phao",
+  "zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+  "location": "933/1 ซอยลาดกระบัง 3/3",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "อาหารไทย",
+   "ร้านเก่าแก่"
+  ],
+  "dishes": [
+   "กะเพราหมูกรอบไข่ดาว",
+   "แกงเขียวหวานไก่",
+   "ผัดไทยกุ้งสด"
+  ],
+  "price": 2,
+  "priceText": "80-250 บาท",
+  "hours": "11:00-22:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ป้าเภา ลาดกระบัง",
+  "source": "https://www.grab.com/th/en/food-blog/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87/",
+  "confidence": "high"
+ },
+ {
+  "name": "ครัวระเบียงน้ำ",
+  "nameEn": "Kruarabiengnam",
+  "zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+  "location": "1107 ซอยลาดกระบัง 5/2 ริมน้ำ",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ริมน้ำ",
+   "นั่งชิล",
+   "ไปเป็นกลุ่ม"
+  ],
+  "dishes": [
+   "ข้าวผัดปูกุ้ง",
+   "น้ำพริกกะปิ",
+   "แกงส้ม",
+   "ปลาทับทิมนึ่ง"
+  ],
+  "price": 3,
+  "priceText": "100 บาทขึ้นไป",
+  "hours": "11:00-23:00 (ปิดวันจันทร์)",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ครัวระเบียงน้ำ ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/kruarabiengnam",
+  "confidence": "high"
+ },
+ {
+  "name": "ครัวเมืองเว้ ลาว ญวน",
+  "nameEn": "Kruamuangwae Lao Yuen",
+  "zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+  "location": "ซอยลาดกระบัง 1/5",
+  "category": "อื่นๆ",
+  "tags": [
+   "อาหารเวียดนาม",
+   "Wongnai Users' Choice"
+  ],
+  "dishes": [
+   "แหนมเนือง",
+   "ปากหม้อญวน",
+   "เฝอเนื้อ",
+   "ข้าวจี่ปาเต้"
+  ],
+  "price": 2,
+  "priceText": "95 บาทขึ้นไป",
+  "hours": "10:30-21:30",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ครัวเมืองเว้ ลาว ญวน ลาดกระบัง",
+  "source": "https://www.grab.com/th/en/food-blog/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87/",
+  "confidence": "high"
+ },
+ {
+  "name": "คูณสินเป็ดย่าง",
+  "nameEn": "Khun Sin Roasted Duck",
+  "zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+  "location": "3 ซอยลาดกระบัง 7",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ราคาถูก",
+   "มื้อเช้า-กลางวัน"
+  ],
+  "dishes": [
+   "ข้าวหน้าเป็ด",
+   "ข้าวหมูแดง",
+   "ติ่มซำ"
+  ],
+  "price": 1,
+  "priceText": "50-70 บาท",
+  "hours": "07:00-16:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "คูณสินเป็ดย่าง ลาดกระบัง",
+  "source": "https://www.ryoiireview.com/article/food-ladkrabang-chill/",
+  "confidence": "high"
+ },
+ {
+  "name": "เรือนริมน้ำ ลาดกระบัง",
+  "nameEn": "Reuan Rim Nam Ladkrabang",
+  "zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+  "location": "ถนนลาดกระบัง ตรงข้ามซอยลาดกระบัง 38",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ริมน้ำ",
+   "นั่งชิล",
+   "ไปเป็นกลุ่ม"
+  ],
+  "dishes": [
+   "กุ้งทอดซอสมะขาม",
+   "แกงส้ม",
+   "ปลาทอด",
+   "ต้มส้ม"
+  ],
+  "price": 3,
+  "priceText": "89-289 บาท",
+  "hours": "11:00-22:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "เรือนริมน้ำ ลาดกระบัง",
+  "source": "https://www.ryoiireview.com/article/food-ladkrabang-chill/",
+  "confidence": "high"
+ },
+ {
+  "name": "The Beach กลางกรุง",
+  "nameEn": "The Beach Glangkrung",
+  "zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+  "location": "715/1 ถนนลาดกระบัง",
+  "category": "อาหารทะเล",
+  "tags": [
+   "นั่งชิล",
+   "บรรยากาศทะเล",
+   "ถ่ายรูปสวย"
+  ],
+  "dishes": [
+   "ปูผัดผงกะหรี่",
+   "กุ้งย่าง",
+   "ปลากะพงราดซอสมะม่วง",
+   "หมึกย่าง"
+  ],
+  "price": 3,
+  "priceText": null,
+  "hours": "11:00-23:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "The Beach กลางกรุง ลาดกระบัง",
+  "source": "https://www.grab.com/th/en/food-blog/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87/",
+  "confidence": "high"
+ },
+ {
+  "name": "Varvana Bar & Bistro",
+  "nameEn": "Varvana Bar & Bistro",
+  "zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+  "location": "The Cabin Air ถนนลาดกระบัง",
+  "category": "อาหารฝรั่ง/ฟาสต์ฟู้ด",
+  "tags": [
+   "เปิดดึก",
+   "ดนตรีสด",
+   "นั่งชิล"
+  ],
+  "dishes": [
+   "พิซซ่าคาโบนาร่า",
+   "ซี่โครงหมูบาร์บีคิว"
+  ],
+  "price": 3,
+  "priceText": "100 บาทขึ้นไป",
+  "hours": "16:00-00:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Varvana Bar Bistro ลาดกระบัง",
+  "source": "https://www.grab.com/th/en/food-blog/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87/",
+  "confidence": "medium"
+ },
+ {
+  "name": "Sweet Pista Pit",
+  "nameEn": "Sweet Pista Pit",
+  "zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+  "location": "1142/3 ถนนลาดกระบัง",
+  "category": "อาหารฝรั่ง/ฟาสต์ฟู้ด",
+  "tags": [
+   "อาหารอิตาเลียน",
+   "ย่างเตาถ่าน"
+  ],
+  "dishes": [
+   "เนื้อแกะย่างเตาถ่าน",
+   "พาสต้า"
+  ],
+  "price": 4,
+  "priceText": "195-850 บาท",
+  "hours": "10:30-21:00 (ปิดวันจันทร์)",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Sweet Pista Pit ลาดกระบัง",
+  "source": "https://www.ryoiireview.com/article/food-ladkrabang-chill/",
+  "confidence": "high"
+ },
+ {
+  "name": "ร้านอีสานเดิม สุวรรณภูมิ",
+  "nameEn": "Isaan Derm Suvarnabhumi",
+  "zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+  "location": "856/5 ถนนลาดกระบัง",
+  "category": "อาหารอีสาน",
+  "tags": [
+   "เปิดดึก",
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "ส้มตำปูปลาร้า",
+   "ยำแซลมอน",
+   "ก้อยหมู",
+   "ยำปลาดุกฟู"
+  ],
+  "price": 2,
+  "priceText": "50 บาทขึ้นไป",
+  "hours": "16:30-02:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ร้านอีสานเดิม สุวรรณภูมิ ลาดกระบัง",
+  "source": "https://www.grab.com/th/en/food-blog/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87/",
+  "confidence": "high"
+ },
+ {
+  "name": "ร้านเจ๊น้อย แซ่บซุป",
+  "nameEn": "Jen Noi Superb Soup",
+  "zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+  "location": "850/9 ถนนลาดกระบัง",
+  "category": "อาหารอีสาน",
+  "tags": [
+   "เปิดดึก",
+   "อาหารไทย-อีสาน"
+  ],
+  "dishes": [
+   "เล้งแซ่บ",
+   "หมูทอด",
+   "ส้มตำ"
+  ],
+  "price": 2,
+  "priceText": "69 บาทขึ้นไป",
+  "hours": "11:00-23:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ร้านเจ๊น้อย ลาดกระบัง",
+  "source": "https://gangtravel.com/67563",
+  "confidence": "medium"
+ },
+ {
+  "name": "เจอนี่",
+  "nameEn": "Jer Nee",
+  "zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+  "location": "1533/8 ถนนลาดกระบัง",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "เปิดดึก",
+   "ไทยฟิวชั่น"
+  ],
+  "dishes": [
+   "อาหารไทยฟิวชั่น"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": "07:00-00:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "เจอนี่ ถนนลาดกระบัง",
+  "source": "https://gangtravel.com/67563",
+  "confidence": "medium"
+ },
+ {
+  "name": "ไก่เมา ลาดกระบัง",
+  "nameEn": "Kaimao Latkrabang",
+  "zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+  "location": "296/26 ซอยลาดกระบัง 52",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ไก่ทอด"
+  ],
+  "dishes": [
+   "ไก่ทอดน้ำจิ้ม",
+   "ไก่มะขาม",
+   "ข้าวไก่ทอดไม่มีกระดูก"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": "11:00-21:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ไก่เมา ลาดกระบัง 52",
+  "source": "https://www.grab.com/th/en/food-blog/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87/",
+  "confidence": "high"
+ },
+ {
+  "name": "พาสต้าโฮม",
+  "nameEn": "Pasta Home",
+  "zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+  "location": "266 ซอยลาดกระบัง 52 แยก 12",
+  "category": "อาหารฝรั่ง/ฟาสต์ฟู้ด",
+  "tags": [
+   "พาสต้าโฮมเมด",
+   "ร้านเล็ก"
+  ],
+  "dishes": [
+   "คาโบนาร่า",
+   "โบโลเนส",
+   "อาลิโอ โอลิโอ"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": "จ-ศ 11:00-19:30, ส 11:00-16:00 (ปิดอาทิตย์)",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Pasta Home ลาดกระบัง 52",
+  "source": "https://www.grab.com/th/en/food-blog/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87/",
+  "confidence": "high"
+ },
+ {
+  "name": "อร่อย@ลาดกระบัง",
+  "nameEn": "Aroi@Ladkrabang",
+  "zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+  "location": "21 ซอยลาดกระบัง 50",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ราคาถูก",
+   "อาหารตามสั่ง"
+  ],
+  "dishes": [
+   "ข้าวผัดกะเพรา",
+   "ต้มยำน้ำใส",
+   "ผัดผัก"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": "จ 09:00-15:00, อ-ส 09:00-18:00 (ปิดอาทิตย์)",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "อร่อย@ลาดกระบัง ซอย 50",
+  "source": "https://www.grab.com/th/en/food-blog/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87/",
+  "confidence": "high"
+ },
+ {
+  "name": "อิ่มเอิบ คั่วไก่",
+  "nameEn": "Im Oeb Khua Kai",
+  "zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+  "location": "ปากซอยลาดกระบัง 20/2",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "ไก่ทอดซอสหวาน",
+   "กะเพราไก่",
+   "แกง"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": "10:00-19:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "อิ่มเอิบ คั่วไก่ ลาดกระบัง 20/2",
+  "source": "https://www.grab.com/th/en/food-blog/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87/",
+  "confidence": "medium"
+ },
+ {
+  "name": "ร้านสำเภาทอง",
+  "nameEn": "Samphao Thong",
+  "zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+  "location": "1020 ซอยลาดกระบัง 34/6",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "อาหารไทย",
+   "ไปเป็นกลุ่ม"
+  ],
+  "dishes": [
+   "ต้มยำกุ้งน้ำข้น",
+   "แกงเผ็ดเป็ดย่าง",
+   "ปลาทับทิมทอด"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": "11:00-22:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ร้านสำเภาทอง ลาดกระบัง 34/6",
+  "source": "https://www.grab.com/th/en/food-blog/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87/",
+  "confidence": "high"
+ },
+ {
+  "name": "ครัวสุนันท์",
+  "nameEn": "Krua Sunan",
+  "zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+  "location": "ซอยลาดกระบัง 34/6",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "มื้อเช้า",
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "ข้าวผัดปลาเค็ม",
+   "ไข่เจียวฟู",
+   "แกงจืดเต้าหู้"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": "จ-ส 07:00-19:30, อา 07:00-18:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ครัวสุนันท์ ลาดกระบัง 34/6",
+  "source": "https://www.grab.com/th/en/food-blog/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87/",
+  "confidence": "medium"
+ },
+ {
+  "name": "ครัวลุงสมชายเจ๊เพ็ญ อาหารป่า",
+  "nameEn": "Krua Lung Somchai Je Phen",
+  "zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+  "location": "72 ถนนคู่ขนานมอเตอร์เวย์ ลำปลาทิว",
+  "category": "อื่นๆ",
+  "tags": [
+   "อาหารป่า",
+   "แปลกใหม่"
+  ],
+  "dishes": [
+   "หมูป่าผัดเผ็ด",
+   "กบทอด",
+   "ตั๊กแตนทอด",
+   "ปลารากกล้วยทอด"
+  ],
+  "price": 2,
+  "priceText": "40 บาทขึ้นไป",
+  "hours": "10:00-22:00 (ปิดวันจันทร์)",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ครัวลุงสมชายเจ๊เพ็ญ อาหารป่า มอเตอร์เวย์ ลาดกระบัง",
+  "source": "https://www.ryoiireview.com/article/food-ladkrabang-chill/",
+  "confidence": "high"
+ },
+ {
+  "name": "ครัวบะช่อ ลาดกระบัง 54",
+  "nameEn": "Kruabachor",
+  "zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+  "location": "ซอยลาดกระบัง 54",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "อาหารไทย"
+  ],
+  "dishes": [
+   "อาหารไทย"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ครัวบะช่อ ลาดกระบัง 54",
+  "source": "https://www.wongnai.com/restaurants/256227hF-%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A7%E0%B8%9A%E0%B8%B0%E0%B8%8A%E0%B9%88%E0%B8%AD-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87-54",
+  "confidence": "medium"
+ },
+ {
+  "name": "เนียร หมูกระทะอุดร สาขา 9",
+  "nameEn": "Nier Mookata Udon 9",
+  "zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+  "location": "1566 ถนนลาดกระบัง",
+  "category": "ปิ้งย่าง/หมูกระทะ",
+  "tags": [
+   "เตาถ่าน",
+   "ไปเป็นกลุ่ม",
+   "ราคาคุ้ม"
+  ],
+  "dishes": [
+   "หมูกระทะชุด",
+   "น้ำจิ้มสูตรอุดร"
+  ],
+  "price": 3,
+  "priceText": null,
+  "hours": "16:00-23:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "เนียร หมูกระทะอุดร สาขา 9 ลาดกระบัง",
+  "source": "https://salehere.co.th/articles/recommend-mookata-lat-krabang",
+  "confidence": "high"
+ },
+ {
+  "name": "ติดมันส์ บุฟเฟ่ต์ปิ้งย่าง สาขาลาดกระบัง",
+  "nameEn": "Tid Mun's Grill Buffet",
+  "zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+  "location": "937/3 ใกล้ซอยลาดกระบัง 32",
+  "category": "บุฟเฟต์",
+  "tags": [
+   "เปิดดึก",
+   "บุฟเฟต์",
+   "ไปเป็นกลุ่ม"
+  ],
+  "dishes": [
+   "ปิ้งย่างบุฟเฟต์",
+   "กุ้ง",
+   "หมึก"
+  ],
+  "price": 3,
+  "priceText": "258 บาท",
+  "hours": "15:00-02:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ติดมันส์ บุฟเฟ่ต์ปิ้งย่าง ลาดกระบัง",
+  "source": "https://www.ryoiireview.com/article/buffet-shabu-sushi-grill-ladkrabang/",
+  "confidence": "high"
+ },
+ {
+  "name": "ลาวา บุฟเฟ่ต์ & ซีฟู้ด",
+  "nameEn": "Lava Buffet & Seafood",
+  "zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+  "location": "82/51 ถนนลาดกระบัง",
+  "category": "บุฟเฟต์",
+  "tags": [
+   "บุฟเฟต์",
+   "ซีฟู้ด"
+  ],
+  "dishes": [
+   "ปิ้งย่างทะเลบุฟเฟต์"
+  ],
+  "price": 3,
+  "priceText": "299 บาท",
+  "hours": "16:00-23:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ลาวา บุฟเฟ่ต์ ลาดกระบัง",
+  "source": "https://www.ryoiireview.com/article/buffet-shabu-sushi-grill-ladkrabang/",
+  "confidence": "high"
+ },
+ {
+  "name": "ชาบูยูไลค์",
+  "nameEn": "Shabu You Like",
+  "zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+  "location": "ซอยลาดกระบัง 46/1",
+  "category": "ชาบู/สุกี้",
+  "tags": [
+   "บุฟเฟต์",
+   "แอร์"
+  ],
+  "dishes": [
+   "ชาบูบุฟเฟต์"
+  ],
+  "price": 4,
+  "priceText": "359 บาท",
+  "hours": "11:30-23:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Shabu You Like ลาดกระบัง 46/1",
+  "source": "https://www.ryoiireview.com/article/buffet-shabu-sushi-grill-ladkrabang/",
+  "confidence": "high"
+ },
+ {
+  "name": "ตี๋ใหญ่ชาบู ลาดกระบัง",
+  "nameEn": "Ti Yai Shabu",
+  "zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+  "location": "ซอยลาดกระบัง 38",
+  "category": "ชาบู/สุกี้",
+  "tags": [
+   "บุฟเฟต์",
+   "พรีเมียม"
+  ],
+  "dishes": [
+   "เนื้อสไลซ์",
+   "หมูหลายส่วน",
+   "ท้องแซลมอน"
+  ],
+  "price": 4,
+  "priceText": "399 บาท++",
+  "hours": "12:00-22:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ตี๋ใหญ่ชาบู ลาดกระบัง",
+  "source": "https://www.ryoiireview.com/article/food-ladkrabang-chill/",
+  "confidence": "high"
+ },
+ {
+  "name": "ชาบูคุณแม่ ปิ้งย่าง",
+  "nameEn": "Chabu Khun Mae",
+  "zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+  "location": "ถนนลาดกระบัง",
+  "category": "บุฟเฟต์",
+  "tags": [
+   "บุฟเฟต์",
+   "ชาบู+ปิ้งย่าง"
+  ],
+  "dishes": [
+   "ชาบูปิ้งย่างบุฟเฟต์"
+  ],
+  "price": 4,
+  "priceText": "429 บาทขึ้นไป",
+  "hours": "11:00-22:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ชาบูคุณแม่ ปิ้งย่าง ลาดกระบัง",
+  "source": "https://www.ryoiireview.com/article/buffet-shabu-sushi-grill-ladkrabang/",
+  "confidence": "medium"
+ },
+ {
+  "name": "มาซารุ ซูชิ",
+  "nameEn": "Masaru Sushi",
+  "zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+  "location": "1191 ซอยลาดกระบัง 5/5",
+  "category": "อาหารญี่ปุ่น",
+  "tags": [
+   "บุฟเฟต์",
+   "พรีเมียม"
+  ],
+  "dishes": [
+   "ซูชิบุฟเฟต์",
+   "ซาชิมิ"
+  ],
+  "price": 4,
+  "priceText": "549-949 บาท++",
+  "hours": "12:00-22:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Masaru Sushi ลาดกระบัง",
+  "source": "https://www.ryoiireview.com/article/buffet-shabu-sushi-grill-ladkrabang/",
+  "confidence": "high"
+ },
+ {
+  "name": "หมูปิ้ง แอร์พอร์ตลิงค์ลาดกระบัง",
+  "nameEn": null,
+  "zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+  "location": "บริเวณสถานีแอร์พอร์ตลิงก์ลาดกระบัง",
+  "category": "สตรีทฟู้ด/ของทานเล่น",
+  "tags": [
+   "ราคาถูก",
+   "มื้อเช้า",
+   "ใกล้สถานี"
+  ],
+  "dishes": [
+   "หมูปิ้ง",
+   "ข้าวเหนียว"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "หมูปิ้ง แอร์พอร์ตลิงค์ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/2673974Dm-%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B8%9B%E0%B8%B4%E0%B9%89%E0%B8%87-%E0%B9%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%9E%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
+  "confidence": "medium"
+ },
+ {
+  "name": "ทวีโชคหมูกะทะ สาขา 8 ร่มเกล้า",
+  "nameEn": "Taweechok Mookata Romklao",
+  "zone": "ร่มเกล้า/เคหะร่มเกล้า",
+  "location": "17/2 พัฒนาชนบท 3 คลองสองต้นนุ่น (ร่มเกล้า)",
+  "category": "ปิ้งย่าง/หมูกระทะ",
+  "tags": [
+   "ไปเป็นกลุ่ม",
+   "บรรยากาศริมทะเลจำลอง",
+   "นั่งชิล"
+  ],
+  "dishes": [
+   "หมูกระทะ",
+   "ซีฟู้ด"
+  ],
+  "price": 3,
+  "priceText": null,
+  "hours": "ถึง 23:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ทวีโชคหมูกะทะ สาขา 8 ร่มเกล้า",
+  "source": "https://www.wongnai.com/chains/taweechokmookata",
+  "confidence": "high"
+ },
+ {
+  "name": "แม่น้ำหมูกะทะ 2 ร่มเกล้า",
+  "nameEn": "Maenam Mookata 2 Romklao",
+  "zone": "ร่มเกล้า/เคหะร่มเกล้า",
+  "location": "ถนนร่มเกล้า",
+  "category": "บุฟเฟต์",
+  "tags": [
+   "บุฟเฟต์",
+   "ซีฟู้ด",
+   "ไปเป็นกลุ่ม"
+  ],
+  "dishes": [
+   "หมูกระทะบุฟเฟต์ทะเล",
+   "กุ้ง",
+   "ปู",
+   "หมึก"
+  ],
+  "price": 3,
+  "priceText": "319 บาท",
+  "hours": "15:30-23:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "แม่น้ำหมูกะทะ 2 ร่มเกล้า",
+  "source": "https://www.wongnai.com/restaurants/306251To-%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B8%81%E0%B8%B0%E0%B8%97%E0%B8%B0-2-%E0%B8%A3%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2",
+  "confidence": "high"
+ },
+ {
+  "name": "อาดี สุกี้ บุฟเฟ่ต์หม่าล่า สาขาร่มเกล้า",
+  "nameEn": "Adee Suki Buffet Romklao",
+  "zone": "ร่มเกล้า/เคหะร่มเกล้า",
+  "location": "119/2 ถนนร่มเกล้า",
+  "category": "ชาบู/สุกี้",
+  "tags": [
+   "บุฟเฟต์",
+   "หม่าล่า"
+  ],
+  "dishes": [
+   "หม้อไฟหม่าล่าบุฟเฟต์"
+  ],
+  "price": 3,
+  "priceText": "259 บาท",
+  "hours": "จ-ศ 15:00-23:00, ส-อา 12:00-23:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Adee Suki ร่มเกล้า",
+  "source": "https://www.ryoiireview.com/article/buffet-shabu-sushi-grill-ladkrabang/",
+  "confidence": "high"
+ },
+ {
+  "name": "ฮ่องเต้ สุกี้-ปิ้งย่าง บุฟเฟ่ต์",
+  "nameEn": "Hong Te Suki-Grill Buffet",
+  "zone": "ร่มเกล้า/เคหะร่มเกล้า",
+  "location": "เคหะร่มเกล้า 23/1",
+  "category": "บุฟเฟต์",
+  "tags": [
+   "เปิดดึก",
+   "บุฟเฟต์",
+   "ไม่จำกัดเวลา"
+  ],
+  "dishes": [
+   "สุกี้ปิ้งย่างบุฟเฟต์",
+   "ชีส",
+   "ไอศกรีม"
+  ],
+  "price": 3,
+  "priceText": "219 บาท",
+  "hours": "12:00-02:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ฮ่องเต้ สุกี้ ปิ้งย่าง เคหะร่มเกล้า",
+  "source": "https://www.ryoiireview.com/article/buffet-shabu-sushi-grill-ladkrabang/",
+  "confidence": "high"
+ },
+ {
+  "name": "18 มงกุฎ สุกี้-ชาบู เคหะร่มเกล้า",
+  "nameEn": "18 Mongkut Suki-Shabu",
+  "zone": "ร่มเกล้า/เคหะร่มเกล้า",
+  "location": "ถนนเคหะร่มเกล้า",
+  "category": "ชาบู/สุกี้",
+  "tags": [
+   "บุฟเฟต์",
+   "ไม่จำกัดเวลา",
+   "ราคาคุ้ม"
+  ],
+  "dishes": [
+   "ชาบูบุฟเฟต์"
+  ],
+  "price": 3,
+  "priceText": "199 บาท + 20",
+  "hours": "ไม่ระบุ",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "18 มงกุฎ สุกี้ ชาบู เคหะร่มเกล้า",
+  "source": "https://www.wongnai.com/reviews/4620354bd4894c74aad18852fcfc55fc",
+  "confidence": "medium"
+ },
+ {
+  "name": "ตั้งหวังเจ๊ง ก๋วยเตี๋ยวไก่มะระบุฟเฟ่ต์ สาขาเคหะร่มเกล้า",
+  "nameEn": "Tang Wang Jeng",
+  "zone": "ร่มเกล้า/เคหะร่มเกล้า",
+  "location": "ถนนเคหะร่มเกล้า",
+  "category": "ก๋วยเตี๋ยว/เส้น",
+  "tags": [
+   "บุฟเฟต์",
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "ก๋วยเตี๋ยวไก่มะระ",
+   "ไก่ตุ๋น"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ตั้งหวังเจ๊ง เคหะร่มเกล้า",
+  "source": "https://www.wongnai.com/restaurants/2159443Sj-%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%88%E0%B9%8A%E0%B8%87-%E0%B8%81%E0%B9%8B%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B8%A2%E0%B8%A7%E0%B9%84%E0%B8%81%E0%B9%88%E0%B8%A1%E0%B8%B0%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B8%E0%B8%9F%E0%B9%80%E0%B8%9F%E0%B9%88%E0%B8%95%E0%B9%8C-%E0%B8%AA%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%84%E0%B8%AB%E0%B8%B0%E0%B8%A3%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2",
+  "confidence": "medium"
+ },
+ {
+  "name": "เตี๋ยว กะ ตำ สาขาเคหะร่มเกล้า",
+  "nameEn": "Tiew Ka Tum",
+  "zone": "ร่มเกล้า/เคหะร่มเกล้า",
+  "location": "เคหะร่มเกล้า 13",
+  "category": "ก๋วยเตี๋ยว/เส้น",
+  "tags": [
+   "ราคาถูก",
+   "อาหารอีสาน"
+  ],
+  "dishes": [
+   "ก๋วยเตี๋ยว",
+   "ส้มตำ",
+   "อาหารตามสั่ง"
+  ],
+  "price": 1,
+  "priceText": "เริ่ม 35 บาท",
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "เตี๋ยว กะ ตำ เคหะร่มเกล้า",
+  "source": "https://www.wongnai.com/restaurants/287478jl-%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B8%A2%E0%B8%A7-%E0%B8%81%E0%B8%B0-%E0%B8%95%E0%B8%B3-%E0%B8%AA%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%84%E0%B8%AB%E0%B8%B0%E0%B8%A3%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2-%E0%B9%80%E0%B8%84%E0%B8%AB%E0%B8%B0%E0%B8%A3%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2",
+  "confidence": "high"
+ },
+ {
+  "name": "ก๋วยเตี๋ยวเรือธง เคหะร่มเกล้า",
+  "nameEn": "Thong Boat Noodles",
+  "zone": "ร่มเกล้า/เคหะร่มเกล้า",
+  "location": "ข้างบิ๊กซี เคหะร่มเกล้า",
+  "category": "ก๋วยเตี๋ยว/เส้น",
+  "tags": [
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "ก๋วยเตี๋ยวเรือหมู",
+   "ก๋วยเตี๋ยวเรือเนื้อ",
+   "เย็นตาโฟ",
+   "หมูสะเต๊ะ"
+  ],
+  "price": 1,
+  "priceText": "15-45 บาท",
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ก๋วยเตี๋ยวเรือธง เคหะร่มเกล้า",
+  "source": "https://www.facebook.com/thongboatnoodles",
+  "confidence": "medium"
+ },
+ {
+  "name": "ก๋วยเตี๋ยวเรืออยุธยารสเด็ด สาขา 4",
+  "nameEn": "Ayutthaya Boat Noodles Rot Det 4",
+  "zone": "ร่มเกล้า/เคหะร่มเกล้า",
+  "location": "ถนนเคหะร่มเกล้า ใกล้บิ๊กซี มาร์เก็ต",
+  "category": "ก๋วยเตี๋ยว/เส้น",
+  "tags": [
+   "ราคาถูก",
+   "อร่อยไม่ต้องปรุง"
+  ],
+  "dishes": [
+   "ก๋วยเตี๋ยวน้ำตกเนื้อ"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ก๋วยเตี๋ยวเรืออยุธยารสเด็ด สาขา4 เคหะร่มเกล้า",
+  "source": "https://www.wongnai.com/reviews/0c1024e4b6104c98a601123424974d42",
+  "confidence": "medium"
+ },
+ {
+  "name": "ครัวสวนบ้านแม่",
+  "nameEn": "Krua Suan Baan Mae",
+  "zone": "ร่มเกล้า/เคหะร่มเกล้า",
+  "location": "เคหะร่มเกล้า 29 แยก 4-1-3",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ร้านลับ",
+   "คาเฟ่"
+  ],
+  "dishes": [
+   "อาหารไทย",
+   "ชีสเค้ก"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": "อ-อา 10:00-19:00 (ปิดวันจันทร์)",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ครัวสวนบ้านแม่ เคหะร่มเกล้า",
+  "source": "https://www.tiktok.com/@kinnkann65/video/7555385084338081031",
+  "confidence": "medium"
+ },
+ {
+  "name": "Churn Buttery",
+  "nameEn": "Churn Buttery",
+  "zone": "ร่มเกล้า/เคหะร่มเกล้า",
+  "location": "48 ซอยร่มเกล้า 25/1",
+  "category": "ของหวาน/เบเกอรี่",
+  "tags": [
+   "คาเฟ่",
+   "เบเกอรี่",
+   "นั่งชิล"
+  ],
+  "dishes": [
+   "ครัวซองต์ยูสุ",
+   "ดับเบิลเบอร์รี่บราวน์โทสต์",
+   "กาแฟ"
+  ],
+  "price": 3,
+  "priceText": "70-500 บาท",
+  "hours": "08:00-21:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Churn Buttery ร่มเกล้า",
+  "source": "https://www.ryoiireview.com/article/food-ladkrabang-chill/",
+  "confidence": "high"
+ },
+ {
+  "name": "เพลินเพลิน",
+  "nameEn": "Ploen Ploen Restaurant",
+  "zone": "ร่มเกล้า/เคหะร่มเกล้า",
+  "location": "35 ซอยร่มเกล้า 1 แยก 2 ถนนพัฒนาชนบท",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "บรรยากาศธรรมชาติ",
+   "นั่งชิล"
+  ],
+  "dishes": [
+   "เมี่ยงปลาทู",
+   "ปูนิ่มผัดพริกไทยดำ"
+  ],
+  "price": 2,
+  "priceText": "60 บาทขึ้นไป",
+  "hours": "11:00-22:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "เพลินเพลิน ร่มเกล้า",
+  "source": "https://gangtravel.com/67563",
+  "confidence": "high"
+ },
+ {
+  "name": "อนุสรณ์ คาเฟ่",
+  "nameEn": "Anusorn Cafe",
+  "zone": "ร่มเกล้า/เคหะร่มเกล้า",
+  "location": "ถนนคู่ขนานมอเตอร์เวย์ ทับยาว",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "นั่งชิล",
+   "อาหาร+กาแฟ"
+  ],
+  "dishes": [
+   "คาปูชิโน่เย็น",
+   "อาหารอีสาน-ทะเล"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": "10:00-22:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Anusorn Cafe ลาดกระบัง",
+  "source": "https://www.ryoiireview.com/article/food-ladkrabang-chill/",
+  "confidence": "medium"
+ },
+ {
+  "name": "Ploen Way Cafe ร่มเกล้า",
+  "nameEn": "Ploen Way Cafe",
+  "zone": "ร่มเกล้า/เคหะร่มเกล้า",
+  "location": "ร่มเกล้า",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "ริมน้ำ",
+   "สวน",
+   "นั่งชิล"
+  ],
+  "dishes": [
+   "กาแฟ",
+   "เครื่องดื่ม"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Ploen Way Cafe ร่มเกล้า",
+  "source": "https://www.wongnai.com/restaurants/2335350oN-ploen-way-cafe-%E0%B8%A3%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2",
+  "confidence": "high"
+ },
+ {
+  "name": "Room11 Cafe",
+  "nameEn": "Room11 Cafe",
+  "zone": "ร่มเกล้า/เคหะร่มเกล้า",
+  "location": "ถนนเคหะร่มเกล้า",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "คาเฟ่ในสวน",
+   "ราคาไม่แพง"
+  ],
+  "dishes": [
+   "เครื่องดื่ม",
+   "ขนม"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Room11 Cafe เคหะร่มเกล้า",
+  "source": "https://www.wongnai.com/reviews/fd59e65bd0d94d57b225475cc1fdf1f7",
+  "confidence": "medium"
+ },
+ {
+  "name": "Prakai Cafe & Cuisine",
+  "nameEn": "Prakai Cafe & Cuisine",
+  "zone": "ร่มเกล้า/เคหะร่มเกล้า",
+  "location": "ร่มเกล้า",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "นั่งชิล",
+   "มีน้ำตก"
+  ],
+  "dishes": [
+   "อาหาร",
+   "ขนม",
+   "เครื่องดื่ม"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": "10:00-22:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Prakai Cafe ร่มเกล้า",
+  "source": "https://www.wongnai.com/reviews/09b02f758570462b96ef2857d5b48d8d",
+  "confidence": "medium"
+ },
+ {
+  "name": "มาเด้อร่มเกล้าคาเฟ่",
+  "nameEn": "Mader Romklao Cafe",
+  "zone": "ร่มเกล้า/เคหะร่มเกล้า",
+  "location": "เคหะร่มเกล้า 58",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "คาเฟ่"
+  ],
+  "dishes": [
+   "เครื่องดื่ม"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "มาเด้อร่มเกล้าคาเฟ่ เคหะร่มเกล้า 58",
+  "source": "https://www.wongnai.com/restaurants/2181979qC-%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%94%E0%B9%89%E0%B8%AD%E0%B8%A3%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B9%80%E0%B8%9F%E0%B9%88-%E0%B9%80%E0%B8%84%E0%B8%AB%E0%B8%B0%E0%B8%A3%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2-58",
+  "confidence": "medium"
+ },
+ {
+  "name": "ตลาดรันเวย์ 3119",
+  "nameEn": "Runway 3119 Night Market",
+  "zone": "ร่มเกล้า/เคหะร่มเกล้า",
+  "location": "ถนนร่มเกล้า ใกล้สนามบินสุวรรณภูมิ",
+  "category": "สตรีทฟู้ด/ของทานเล่น",
+  "tags": [
+   "ตลาดนัดกลางคืน",
+   "ราคาถูก",
+   "ไปเป็นกลุ่ม"
+  ],
+  "dishes": [
+   "เบอร์เกอร์",
+   "ปิ้งย่าง",
+   "จิ้มจุ่ม",
+   "ของหวาน"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": "อ-อา 17:00-24:00 (ปิดวันจันทร์)",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ตลาดรันเวย์ 3119 ร่มเกล้า",
+  "source": "https://www.ryoiireview.com/article/restaurant-market-runway-romklao-road/",
+  "confidence": "high"
+ },
+ {
+  "name": "จุดสกัดลาว ตลาด Runway 3119",
+  "nameEn": "Jud Sakad Lao",
+  "zone": "ร่มเกล้า/เคหะร่มเกล้า",
+  "location": "ตลาดรันเวย์ 3119 ถนนร่มเกล้า",
+  "category": "อาหารอีสาน",
+  "tags": [
+   "ตลาดนัด",
+   "อาหารลาว"
+  ],
+  "dishes": [
+   "ตำไทยไข่เค็ม",
+   "คอหมูย่าง",
+   "ตำป่ามั่วซั่ว"
+  ],
+  "price": 3,
+  "priceText": "101-250 บาท",
+  "hours": "17:00-24:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "จุดสกัดลาว ตลาด Runway 3119",
+  "source": "https://www.wongnai.com/reviews/71b92baf56ce426fb432a487b3dbde1c",
+  "confidence": "high"
+ },
+ {
+  "name": "จิ้มจุ่มยักษ์ 3119",
+  "nameEn": "Jim Jum Yak 3119",
+  "zone": "ร่มเกล้า/เคหะร่มเกล้า",
+  "location": "ตลาดรันเวย์ 3119 ถนนร่มเกล้า",
+  "category": "ชาบู/สุกี้",
+  "tags": [
+   "ตลาดนัด",
+   "ไซส์ยักษ์",
+   "ไปเป็นกลุ่ม"
+  ],
+  "dishes": [
+   "จิ้มจุ่มหม้อยักษ์",
+   "เป็ดย่าง"
+  ],
+  "price": 3,
+  "priceText": "29-699 บาท",
+  "hours": "18:00-24:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "จิ้มจุ่มยักษ์ 3119 ร่มเกล้า",
+  "source": "https://www.ryoiireview.com/article/restaurant-market-runway-romklao-road/",
+  "confidence": "high"
+ },
+ {
+  "name": "เจ๊แอน ตำยำปากเปิด",
+  "nameEn": "Jae Ann Tum Yum Pak Perd",
+  "zone": "ร่มเกล้า/เคหะร่มเกล้า",
+  "location": "ตลาดรันเวย์ 3119 ถนนร่มเกล้า คลองสามประเวศ",
+  "category": "อาหารอีสาน",
+  "tags": [
+   "ตลาดนัด",
+   "แซ่บ"
+  ],
+  "dishes": [
+   "ส้มตำ",
+   "ยำ"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "เจ๊แอน ตำยำปากเปิด รันเวย์ 3119",
+  "source": "https://www.ryoiireview.com/article/spicy-restaurant-ladkrabang/",
+  "confidence": "medium"
+ },
+ {
+  "name": "SuperBurger ตลาดรันเวย์ 3119",
+  "nameEn": "SuperBurger",
+  "zone": "ร่มเกล้า/เคหะร่มเกล้า",
+  "location": "ตลาดรันเวย์ 3119 ถนนร่มเกล้า",
+  "category": "อาหารฝรั่ง/ฟาสต์ฟู้ด",
+  "tags": [
+   "ตลาดนัด",
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "เบอร์เกอร์ขนมปังสี (เรดเวลเวท ชาเขียว ชาร์โคล)"
+  ],
+  "price": 1,
+  "priceText": "49 บาทขึ้นไป",
+  "hours": "17:00-24:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "SuperBurger Runway 3119",
+  "source": "https://www.ryoiireview.com/article/restaurant-market-runway-romklao-road/",
+  "confidence": "medium"
+ },
+ {
+  "name": "Kung and Gang ตลาดรันเวย์ 3119",
+  "nameEn": "Kung and Gang",
+  "zone": "ร่มเกล้า/เคหะร่มเกล้า",
+  "location": "ตลาดรันเวย์ 3119 ถนนร่มเกล้า",
+  "category": "อาหารทะเล",
+  "tags": [
+   "ตลาดนัด",
+   "ซีฟู้ด"
+  ],
+  "dishes": [
+   "กุ้งสด",
+   "หอยเชลล์ซอสพิเศษ"
+  ],
+  "price": 3,
+  "priceText": "159 บาทขึ้นไป",
+  "hours": "17:00-24:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Kung and Gang Runway 3119",
+  "source": "https://www.ryoiireview.com/article/restaurant-market-runway-romklao-road/",
+  "confidence": "medium"
+ },
+ {
+  "name": "เอ็มเค เรสโตรองต์ โรบินสัน ลาดกระบัง",
+  "nameEn": "MK Restaurants",
+  "zone": "ห้างใกล้มอ",
+  "location": "โรบินสัน ไลฟ์สไตล์ ลาดกระบัง (71 ถนนลาดกระบัง)",
+  "category": "ชาบู/สุกี้",
+  "tags": [
+   "ในห้าง",
+   "แอร์",
+   "ร้านเชน"
+  ],
+  "dishes": [
+   "สุกี้เอ็มเค",
+   "เป็ดย่าง",
+   "ติ่มซำ"
+  ],
+  "price": 3,
+  "priceText": null,
+  "hours": "10:00-21:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "MK Restaurants โรบินสัน ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
+  "confidence": "high"
+ },
+ {
+  "name": "ชาบูชิ โรบินสัน ลาดกระบัง",
+  "nameEn": "Shabushi",
+  "zone": "ห้างใกล้มอ",
+  "location": "โรบินสัน ไลฟ์สไตล์ ลาดกระบัง (71 ถนนลาดกระบัง)",
+  "category": "บุฟเฟต์",
+  "tags": [
+   "ในห้าง",
+   "แอร์",
+   "ร้านเชน",
+   "บุฟเฟต์"
+  ],
+  "dishes": [
+   "ชาบูสายพาน",
+   "ซูชิ"
+  ],
+  "price": 4,
+  "priceText": null,
+  "hours": "10:00-21:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Shabushi โรบินสัน ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
+  "confidence": "high"
+ },
+ {
+  "name": "บาร์บีคิวพลาซ่า โรบินสัน ลาดกระบัง",
+  "nameEn": "Bar-B-Q Plaza",
+  "zone": "ห้างใกล้มอ",
+  "location": "โรบินสัน ไลฟ์สไตล์ ลาดกระบัง (71 ถนนลาดกระบัง)",
+  "category": "ปิ้งย่าง/หมูกระทะ",
+  "tags": [
+   "ในห้าง",
+   "แอร์",
+   "ร้านเชน"
+  ],
+  "dishes": [
+   "เนื้อย่างกระทะ",
+   "ชุดคุ้มค่า"
+  ],
+  "price": 3,
+  "priceText": null,
+  "hours": "10:00-21:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Bar-B-Q Plaza โรบินสัน ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
+  "confidence": "high"
+ },
+ {
+  "name": "ฟูจิ โรบินสัน ลาดกระบัง",
+  "nameEn": "Fuji Japanese Restaurant",
+  "zone": "ห้างใกล้มอ",
+  "location": "โรบินสัน ไลฟ์สไตล์ ลาดกระบัง (71 ถนนลาดกระบัง)",
+  "category": "อาหารญี่ปุ่น",
+  "tags": [
+   "ในห้าง",
+   "แอร์",
+   "ร้านเชน"
+  ],
+  "dishes": [
+   "ข้าวหน้าปลาไหล",
+   "ซาชิมิ",
+   "เบนโตะ"
+  ],
+  "price": 3,
+  "priceText": null,
+  "hours": "10:00-21:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Fuji Japanese Restaurant โรบินสัน ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
+  "confidence": "high"
+ },
+ {
+  "name": "ซิซซ์เลอร์ โรบินสัน ลาดกระบัง",
+  "nameEn": "Sizzler",
+  "zone": "ห้างใกล้มอ",
+  "location": "โรบินสัน ไลฟ์สไตล์ ลาดกระบัง (71 ถนนลาดกระบัง)",
+  "category": "อาหารฝรั่ง/ฟาสต์ฟู้ด",
+  "tags": [
+   "ในห้าง",
+   "แอร์",
+   "ร้านเชน",
+   "สลัดบาร์"
+  ],
+  "dishes": [
+   "สเต๊ก",
+   "สลัดบาร์"
+  ],
+  "price": 4,
+  "priceText": null,
+  "hours": "10:00-21:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Sizzler โรบินสัน ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
+  "confidence": "high"
+ },
+ {
+  "name": "เปปเปอร์ลันช์ โรบินสัน ลาดกระบัง",
+  "nameEn": "Pepper Lunch",
+  "zone": "ห้างใกล้มอ",
+  "location": "โรบินสัน ไลฟ์สไตล์ ลาดกระบัง (71 ถนนลาดกระบัง)",
+  "category": "อาหารญี่ปุ่น",
+  "tags": [
+   "ในห้าง",
+   "แอร์",
+   "ร้านเชน"
+  ],
+  "dishes": [
+   "เปปเปอร์ไรซ์",
+   "สเต๊กกระทะร้อน"
+  ],
+  "price": 3,
+  "priceText": null,
+  "hours": "10:00-21:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Pepper Lunch โรบินสัน ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
+  "confidence": "high"
+ },
+ {
+  "name": "คัตสึยะ โรบินสัน ลาดกระบัง",
+  "nameEn": "Katsuya",
+  "zone": "ห้างใกล้มอ",
+  "location": "โรบินสัน ไลฟ์สไตล์ ลาดกระบัง (71 ถนนลาดกระบัง)",
+  "category": "อาหารญี่ปุ่น",
+  "tags": [
+   "ในห้าง",
+   "แอร์",
+   "ร้านเชน",
+   "ราคาไม่แพง"
+  ],
+  "dishes": [
+   "ทงคัตสึ",
+   "คัตสึด้ง"
+  ],
+  "price": 3,
+  "priceText": null,
+  "hours": "10:00-20:30",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Katsuya โรบินสัน ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/457788mv-katsuya-%E0%B9%82%E0%B8%A3%E0%B8%9A%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%B1%E0%B8%99-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
+  "confidence": "high"
+ },
+ {
+  "name": "ซูชิโร่ โรบินสัน ลาดกระบัง",
+  "nameEn": "Sushiro",
+  "zone": "ห้างใกล้มอ",
+  "location": "โรบินสัน ไลฟ์สไตล์ ลาดกระบัง (71 ถนนลาดกระบัง)",
+  "category": "อาหารญี่ปุ่น",
+  "tags": [
+   "ในห้าง",
+   "แอร์",
+   "ร้านเชน",
+   "ซูชิสายพาน"
+  ],
+  "dishes": [
+   "ซูชิสายพาน",
+   "โอโทโระ"
+  ],
+  "price": 3,
+  "priceText": null,
+  "hours": "10:00-21:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Sushiro โรบินสัน ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/3196254pi-sushiro-thailand-robinson-latkrabang",
+  "confidence": "high"
+ },
+ {
+  "name": "ฮะจิบัง ราเมน โรบินสัน ลาดกระบัง",
+  "nameEn": "Hachiban Ramen",
+  "zone": "ห้างใกล้มอ",
+  "location": "โรบินสัน ไลฟ์สไตล์ ลาดกระบัง (71 ถนนลาดกระบัง)",
+  "category": "อาหารญี่ปุ่น",
+  "tags": [
+   "ในห้าง",
+   "แอร์",
+   "ร้านเชน"
+  ],
+  "dishes": [
+   "ราเมน",
+   "เกี๊ยวซ่า"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": "10:00-21:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Hachiban Ramen โรบินสัน ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
+  "confidence": "high"
+ },
+ {
+  "name": "สเวนเซ่นส์ โรบินสัน ลาดกระบัง",
+  "nameEn": "Swensen's",
+  "zone": "ห้างใกล้มอ",
+  "location": "โรบินสัน ไลฟ์สไตล์ ลาดกระบัง (71 ถนนลาดกระบัง)",
+  "category": "ของหวาน/เบเกอรี่",
+  "tags": [
+   "ในห้าง",
+   "แอร์",
+   "ร้านเชน",
+   "ไอศกรีม"
+  ],
+  "dishes": [
+   "ไอศกรีมซันเด",
+   "ไอศกรีมเค้ก"
+  ],
+  "price": 3,
+  "priceText": null,
+  "hours": "10:00-21:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Swensen's โรบินสัน ลาดกระบัง",
+  "source": "https://restaurantguru.com/Robinson-Lifestyle-Bangkok-ml",
+  "confidence": "high"
+ },
+ {
+  "name": "สตาร์บัคส์ โรบินสัน ลาดกระบัง",
+  "nameEn": "Starbucks",
+  "zone": "ห้างใกล้มอ",
+  "location": "โรบินสัน ไลฟ์สไตล์ ลาดกระบัง (71 ถนนลาดกระบัง)",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "ในห้าง",
+   "แอร์",
+   "ร้านเชน",
+   "นั่งทำงาน"
+  ],
+  "dishes": [
+   "กาแฟ",
+   "แฟรปปูชิโน่"
+  ],
+  "price": 3,
+  "priceText": null,
+  "hours": "10:00-21:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Starbucks โรบินสัน ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
+  "confidence": "high"
+ },
+ {
+  "name": "เดอะพิซซ่า คอมปะนี โรบินสัน ลาดกระบัง",
+  "nameEn": "The Pizza Company",
+  "zone": "ห้างใกล้มอ",
+  "location": "โรบินสัน ไลฟ์สไตล์ ลาดกระบัง (71 ถนนลาดกระบัง)",
+  "category": "อาหารฝรั่ง/ฟาสต์ฟู้ด",
+  "tags": [
+   "ในห้าง",
+   "แอร์",
+   "ร้านเชน"
+  ],
+  "dishes": [
+   "พิซซ่า",
+   "ไก่ Tendies"
+  ],
+  "price": 3,
+  "priceText": null,
+  "hours": "10:00-21:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "The Pizza Company โรบินสัน ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
+  "confidence": "high"
+ },
+ {
+  "name": "เอส แอนด์ พี โรบินสัน ลาดกระบัง",
+  "nameEn": "S&P Restaurant & Bakery",
+  "zone": "ห้างใกล้มอ",
+  "location": "โรบินสัน ไลฟ์สไตล์ ลาดกระบัง (71 ถนนลาดกระบัง)",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ในห้าง",
+   "แอร์",
+   "ร้านเชน",
+   "อาหารไทย"
+  ],
+  "dishes": [
+   "อาหารไทย",
+   "เค้ก",
+   "เบเกอรี่"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": "10:00-21:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "S&P Restaurant & Bakery โรบินสัน ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
+  "confidence": "high"
+ },
+ {
+  "name": "สวนผัก โอ้กะจู๋ โรบินสัน ลาดกระบัง",
+  "nameEn": "Ohkajhu",
+  "zone": "ห้างใกล้มอ",
+  "location": "โรบินสัน ไลฟ์สไตล์ ลาดกระบัง (71 ถนนลาดกระบัง)",
+  "category": "อื่นๆ",
+  "tags": [
+   "ในห้าง",
+   "แอร์",
+   "ร้านเชน",
+   "อาหารคลีน",
+   "สลัด"
+  ],
+  "dishes": [
+   "สลัดผักออร์แกนิก",
+   "สเต๊ก"
+  ],
+  "price": 3,
+  "priceText": null,
+  "hours": "10:00-21:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Ohkajhu โรบินสัน ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
+  "confidence": "high"
+ },
+ {
+  "name": "AKA โรบินสัน ลาดกระบัง",
+  "nameEn": "AKA",
+  "zone": "ห้างใกล้มอ",
+  "location": "โรบินสัน ไลฟ์สไตล์ ลาดกระบัง (71 ถนนลาดกระบัง)",
+  "category": "ปิ้งย่าง/หมูกระทะ",
+  "tags": [
+   "ในห้าง",
+   "แอร์",
+   "ร้านเชน",
+   "บุฟเฟต์ปิ้งย่างญี่ปุ่น"
+  ],
+  "dishes": [
+   "ยากินิคุบุฟเฟต์"
+  ],
+  "price": 4,
+  "priceText": null,
+  "hours": "10:00-21:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "AKA โรบินสัน ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
+  "confidence": "high"
+ },
+ {
+  "name": "มะละกอ ส้มตำอีสานแซ่บ โรบินสัน ลาดกระบัง",
+  "nameEn": "Ma-La-Kor",
+  "zone": "ห้างใกล้มอ",
+  "location": "โรบินสัน ไลฟ์สไตล์ ลาดกระบัง (71 ถนนลาดกระบัง)",
+  "category": "อาหารอีสาน",
+  "tags": [
+   "ในห้าง",
+   "แอร์",
+   "ร้านเชน"
+  ],
+  "dishes": [
+   "ส้มตำ",
+   "ไก่ย่าง",
+   "ลาบ"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": "10:00-21:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Ma-La-Kor โรบินสัน ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
+  "confidence": "high"
+ },
+ {
+  "name": "On the Table โรบินสัน ลาดกระบัง",
+  "nameEn": "On the Table",
+  "zone": "ห้างใกล้มอ",
+  "location": "โรบินสัน ไลฟ์สไตล์ ลาดกระบัง (71 ถนนลาดกระบัง)",
+  "category": "อาหารฝรั่ง/ฟาสต์ฟู้ด",
+  "tags": [
+   "ในห้าง",
+   "แอร์",
+   "ร้านเชน",
+   "ฟิวชั่น"
+  ],
+  "dishes": [
+   "พาสต้า",
+   "อาหารฟิวชั่น"
+  ],
+  "price": 3,
+  "priceText": null,
+  "hours": "10:00-21:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "On the Table โรบินสัน ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
+  "confidence": "high"
+ },
+ {
+  "name": "บอนชอน โรบินสัน ลาดกระบัง",
+  "nameEn": "Bonchon",
+  "zone": "ห้างใกล้มอ",
+  "location": "โรบินสัน ไลฟ์สไตล์ ลาดกระบัง (71 ถนนลาดกระบัง)",
+  "category": "อาหารเกาหลี",
+  "tags": [
+   "ในห้าง",
+   "แอร์",
+   "ร้านเชน"
+  ],
+  "dishes": [
+   "ไก่ทอดเกาหลี"
+  ],
+  "price": 3,
+  "priceText": null,
+  "hours": "10:00-21:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Bonchon โรบินสัน ลาดกระบัง",
+  "source": "https://www.wongnai.com/reviews/2911a96d76fd4cc0b3b696fc23025a62",
+  "confidence": "high"
+ },
+ {
+  "name": "วาชิ โรบินสัน ลาดกระบัง",
+  "nameEn": "Washi",
+  "zone": "ห้างใกล้มอ",
+  "location": "โรบินสัน ไลฟ์สไตล์ ลาดกระบัง (71 ถนนลาดกระบัง)",
+  "category": "อาหารญี่ปุ่น",
+  "tags": [
+   "ในห้าง",
+   "แอร์",
+   "ร้านเชน"
+  ],
+  "dishes": [
+   "อาหารญี่ปุ่น",
+   "ซูชิ"
+  ],
+  "price": 3,
+  "priceText": null,
+  "hours": "10:00-21:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Washi โรบินสัน ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
+  "confidence": "high"
+ },
+ {
+  "name": "ยัมมี่ แหนมเนือง โรบินสัน ลาดกระบัง",
+  "nameEn": "Yummy Naem Nueang",
+  "zone": "ห้างใกล้มอ",
+  "location": "โรบินสัน ไลฟ์สไตล์ ลาดกระบัง (71 ถนนลาดกระบัง)",
+  "category": "อื่นๆ",
+  "tags": [
+   "ในห้าง",
+   "แอร์",
+   "อาหารเวียดนาม"
+  ],
+  "dishes": [
+   "แหนมเนือง"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": "10:00-21:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Yummy Naem Nueang โรบินสัน ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
+  "confidence": "high"
+ },
+ {
+  "name": "มิสเตอร์ โดนัท โรบินสัน ลาดกระบัง",
+  "nameEn": "Mister Donut",
+  "zone": "ห้างใกล้มอ",
+  "location": "โรบินสัน ไลฟ์สไตล์ ลาดกระบัง (71 ถนนลาดกระบัง)",
+  "category": "ของหวาน/เบเกอรี่",
+  "tags": [
+   "ในห้าง",
+   "แอร์",
+   "ร้านเชน",
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "โดนัท",
+   "ปองเดอริง"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": "10:00-21:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Mister Donut โรบินสัน ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/461446kp-mister-donut-%E0%B9%82%E0%B8%A3%E0%B8%9A%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%9F%E0%B9%8C%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
+  "confidence": "high"
+ },
+ {
+  "name": "เบอร์เกอร์คิง ลิตเติ้ลวอล์ค ลาดกระบัง",
+  "nameEn": "Burger King",
+  "zone": "ห้างใกล้มอ",
+  "location": "ลิตเติ้ล วอล์ค ลาดกระบัง (597/1 ถนนลาดกระบัง ใกล้โรบินสัน)",
+  "category": "อาหารฝรั่ง/ฟาสต์ฟู้ด",
+  "tags": [
+   "คอมมูนิตี้มอลล์",
+   "ร้านเชน"
+  ],
+  "dishes": [
+   "วอปเปอร์"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Burger King Little Walk ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/little-walk-ladkrabang",
+  "confidence": "high"
+ },
+ {
+  "name": "เอ ราเมง ราเมงข้อสอบ",
+  "nameEn": "A Ramen",
+  "zone": "ห้างใกล้มอ",
+  "location": "ลิตเติ้ล วอล์ค ลาดกระบัง (597/1 ถนนลาดกระบัง ใกล้โรบินสัน)",
+  "category": "อาหารญี่ปุ่น",
+  "tags": [
+   "คอมมูนิตี้มอลล์",
+   "ราเมน"
+  ],
+  "dishes": [
+   "ราเมน"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "A Ramen Little Walk ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/little-walk-ladkrabang",
+  "confidence": "high"
+ },
+ {
+  "name": "โคเอ็น ซูชิบาร์ ลิตเติ้ลวอล์ค",
+  "nameEn": "Kouen Sushi Bar",
+  "zone": "ห้างใกล้มอ",
+  "location": "ลิตเติ้ล วอล์ค ลาดกระบัง (597/1 ถนนลาดกระบัง ใกล้โรบินสัน)",
+  "category": "บุฟเฟต์",
+  "tags": [
+   "คอมมูนิตี้มอลล์",
+   "บุฟเฟต์",
+   "ซูชิ"
+  ],
+  "dishes": [
+   "ซูชิบุฟเฟต์",
+   "ซาชิมิ"
+  ],
+  "price": 4,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Kouen Sushi Bar Little Walk ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/2147442oF-kouen-sushi-bar-little-walk-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
+  "confidence": "high"
+ },
+ {
+  "name": "ซูชิซัง ลาดกระบัง",
+  "nameEn": "Sushi San Ladkrabang",
+  "zone": "ห้างใกล้มอ",
+  "location": "ลิตเติ้ล วอล์ค ลาดกระบัง (597/1 ถนนลาดกระบัง ใกล้โรบินสัน)",
+  "category": "อาหารญี่ปุ่น",
+  "tags": [
+   "คอมมูนิตี้มอลล์",
+   "ซูชิพรีเมียม"
+  ],
+  "dishes": [
+   "ซูชิแซลมอน",
+   "ซูชิทูน่า",
+   "ไข่แซลมอนดอง"
+  ],
+  "price": 3,
+  "priceText": null,
+  "hours": "11:30-21:30",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Sushi San Ladkrabang Little Walk ลาดกระบัง",
+  "source": "https://www.grab.com/th/en/food-blog/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87/",
+  "confidence": "high"
+ },
+ {
+  "name": "นิตยาไก่ย่าง ลิตเติ้ลวอล์ค ลาดกระบัง",
+  "nameEn": "Nittaya Kai Yang",
+  "zone": "ห้างใกล้มอ",
+  "location": "ลิตเติ้ล วอล์ค ลาดกระบัง (597/1 ถนนลาดกระบัง ใกล้โรบินสัน)",
+  "category": "อาหารอีสาน",
+  "tags": [
+   "คอมมูนิตี้มอลล์",
+   "ร้านเชน"
+  ],
+  "dishes": [
+   "ไก่ย่าง",
+   "ส้มตำ"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Nittaya Kai Yang Little Walk ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/little-walk-ladkrabang",
+  "confidence": "high"
+ },
+ {
+  "name": "Atlas Specialty Coffee",
+  "nameEn": "Atlas Specialty Coffee",
+  "zone": "ห้างใกล้มอ",
+  "location": "ลิตเติ้ล วอล์ค ลาดกระบัง (597/1 ถนนลาดกระบัง ใกล้โรบินสัน)",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "คอมมูนิตี้มอลล์",
+   "กาแฟพิเศษ"
+  ],
+  "dishes": [
+   "ไอซ์ลาเต้",
+   "ฟิชแอนด์ชิปส์",
+   "ครอฟเฟิล"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Atlas Specialty Coffee Little Walk ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/2161514EG-atlas-specialty-coffee-little-walk-ladkrabung",
+  "confidence": "high"
+ },
+ {
+  "name": "Mikka Coffee Roasters",
+  "nameEn": "Mikka Coffee Roasters",
+  "zone": "ห้างใกล้มอ",
+  "location": "ลิตเติ้ล วอล์ค ลาดกระบัง (597/1 ถนนลาดกระบัง ใกล้โรบินสัน)",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "คอมมูนิตี้มอลล์",
+   "กาแฟ"
+  ],
+  "dishes": [
+   "กาแฟ"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Mikka Coffee Roasters Little Walk ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/little-walk-ladkrabang",
+  "confidence": "high"
+ },
+ {
+  "name": "มารุ วาฟเฟิล ลิตเติ้ลวอล์ค",
+  "nameEn": "Maru Waffle",
+  "zone": "ห้างใกล้มอ",
+  "location": "ลิตเติ้ล วอล์ค ลาดกระบัง (597/1 ถนนลาดกระบัง ใกล้โรบินสัน)",
+  "category": "ของหวาน/เบเกอรี่",
+  "tags": [
+   "คอมมูนิตี้มอลล์",
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "วาฟเฟิล"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Maru Waffle Little Walk ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/little-walk-ladkrabang",
+  "confidence": "high"
+ },
+ {
+  "name": "แดรี่ควีน ลิตเติ้ลวอล์ค",
+  "nameEn": "Dairy Queen",
+  "zone": "ห้างใกล้มอ",
+  "location": "ลิตเติ้ล วอล์ค ลาดกระบัง (597/1 ถนนลาดกระบัง ใกล้โรบินสัน)",
+  "category": "ของหวาน/เบเกอรี่",
+  "tags": [
+   "คอมมูนิตี้มอลล์",
+   "ร้านเชน",
+   "ไอศกรีม"
+  ],
+  "dishes": [
+   "บลิซซาร์ด"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Dairy Queen Little Walk ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/little-walk-ladkrabang",
+  "confidence": "high"
+ },
+ {
+  "name": "Pizza Kraft ลาดกระบัง",
+  "nameEn": "Pizza Kraft",
+  "zone": "ห้างใกล้มอ",
+  "location": "ลิตเติ้ล วอล์ค ลาดกระบัง (597/1 ถนนลาดกระบัง ใกล้โรบินสัน)",
+  "category": "อาหารฝรั่ง/ฟาสต์ฟู้ด",
+  "tags": [
+   "คอมมูนิตี้มอลล์",
+   "พิซซ่า"
+  ],
+  "dishes": [
+   "พิซซ่า"
+  ],
+  "price": 3,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Pizza Kraft Little Walk ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/little-walk-ladkrabang",
+  "confidence": "high"
+ },
+ {
+  "name": "พริกคั่วกะปิหอม",
+  "nameEn": "Prik Khua Kapi Hom",
+  "zone": "ห้างใกล้มอ",
+  "location": "ลิตเติ้ล วอล์ค ลาดกระบัง (597/1 ถนนลาดกระบัง ใกล้โรบินสัน)",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "คอมมูนิตี้มอลล์",
+   "อาหารใต้"
+  ],
+  "dishes": [
+   "คั่วกลิ้ง",
+   "แกงใต้"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Prik Khua Kapi Hom Little Walk ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/little-walk-ladkrabang",
+  "confidence": "high"
+ },
+ {
+  "name": "Shinkanzen Sushi ลิตเติ้ลวอล์ค",
+  "nameEn": "Shinkanzen Sushi",
+  "zone": "ห้างใกล้มอ",
+  "location": "ลิตเติ้ล วอล์ค ลาดกระบัง (597/1 ถนนลาดกระบัง ใกล้โรบินสัน)",
+  "category": "อาหารญี่ปุ่น",
+  "tags": [
+   "คอมมูนิตี้มอลล์",
+   "ร้านเชน",
+   "ราคาคุ้ม"
+  ],
+  "dishes": [
+   "ซูชิ",
+   "ซาชิมิ"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Shinkanzen Sushi Little Walk ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/little-walk-ladkrabang",
+  "confidence": "high"
+ },
+ {
+  "name": "แมคโดนัลด์ พาซิโอ ลาดกระบัง (ไดร์ฟทรู)",
+  "nameEn": "McDonald's",
+  "zone": "ห้างใกล้มอ",
+  "location": "เดอะพาซิโอ ลาดกระบัง (318/9 ถนนลาดกระบัง)",
+  "category": "อาหารฝรั่ง/ฟาสต์ฟู้ด",
+  "tags": [
+   "ในห้าง",
+   "ร้านเชน",
+   "ไดร์ฟทรู"
+  ],
+  "dishes": [
+   "บิ๊กแมค",
+   "เฟรนช์ฟรายส์"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "McDonald's เดอะพาซิโอ ลาดกระบัง",
+  "source": "https://www.mcdonalds.co.th/storeLocations/63e9d17d58407914691e96a5?lang=th",
+  "confidence": "high"
+ },
+ {
+  "name": "เคเอฟซี พาซิโอ ลาดกระบัง",
+  "nameEn": "KFC",
+  "zone": "ห้างใกล้มอ",
+  "location": "เดอะพาซิโอ ลาดกระบัง (318/9 ถนนลาดกระบัง)",
+  "category": "อาหารฝรั่ง/ฟาสต์ฟู้ด",
+  "tags": [
+   "ในห้าง",
+   "ร้านเชน"
+  ],
+  "dishes": [
+   "ไก่ทอด"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "KFC เดอะพาซิโอ ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/the-paseo-mall",
+  "confidence": "high"
+ },
+ {
+  "name": "เอ็มเค เรสโตรองต์ พาซิโอ ลาดกระบัง",
+  "nameEn": "MK Restaurants",
+  "zone": "ห้างใกล้มอ",
+  "location": "เดอะพาซิโอ ลาดกระบัง (318/9 ถนนลาดกระบัง)",
+  "category": "ชาบู/สุกี้",
+  "tags": [
+   "ในห้าง",
+   "ร้านเชน"
+  ],
+  "dishes": [
+   "สุกี้",
+   "เป็ดย่าง"
+  ],
+  "price": 3,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "MK Restaurants เดอะพาซิโอ ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/the-paseo-mall",
+  "confidence": "high"
+ },
+ {
+  "name": "ยาโยอิ พาซิโอ ลาดกระบัง",
+  "nameEn": "Yayoi",
+  "zone": "ห้างใกล้มอ",
+  "location": "เดอะพาซิโอ ลาดกระบัง (318/9 ถนนลาดกระบัง)",
+  "category": "อาหารญี่ปุ่น",
+  "tags": [
+   "ในห้าง",
+   "ร้านเชน"
+  ],
+  "dishes": [
+   "ข้าวหน้าหมูทอด",
+   "เทปันยากิ"
+  ],
+  "price": 3,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Yayoi เดอะพาซิโอ ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/the-paseo-mall",
+  "confidence": "high"
+ },
+ {
+  "name": "ZEN พาซิโอ ลาดกระบัง",
+  "nameEn": "ZEN Japanese Restaurant",
+  "zone": "ห้างใกล้มอ",
+  "location": "เดอะพาซิโอ ลาดกระบัง (318/9 ถนนลาดกระบัง)",
+  "category": "อาหารญี่ปุ่น",
+  "tags": [
+   "ในห้าง",
+   "ร้านเชน"
+  ],
+  "dishes": [
+   "ซูชิ",
+   "ข้าวหน้าต่างๆ"
+  ],
+  "price": 3,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ZEN Japanese Restaurant เดอะพาซิโอ ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/the-paseo-mall",
+  "confidence": "high"
+ },
+ {
+  "name": "จีบ สามเซียน พาซิโอ ลาดกระบัง",
+  "nameEn": "Jeeb Dimsum",
+  "zone": "ห้างใกล้มอ",
+  "location": "เดอะพาซิโอ ลาดกระบัง (318/9 ถนนลาดกระบัง)",
+  "category": "อาหารจีน",
+  "tags": [
+   "ในห้าง",
+   "ติ่มซำ"
+  ],
+  "dishes": [
+   "ขนมจีบ",
+   "ติ่มซำ"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Jeeb Dimsum เดอะพาซิโอ ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/jeebdimsum",
+  "confidence": "high"
+ },
+ {
+  "name": "ต๋อง เต็ม โต๊ะ พาซิโอ ลาดกระบัง",
+  "nameEn": "Tong Tem Toh",
+  "zone": "ห้างใกล้มอ",
+  "location": "เดอะพาซิโอ ลาดกระบัง (318/9 ถนนลาดกระบัง)",
+  "category": "อื่นๆ",
+  "tags": [
+   "ในห้าง",
+   "อาหารเหนือ",
+   "ร้านดัง"
+  ],
+  "dishes": [
+   "ข้าวซอย",
+   "แกงฮังเล",
+   "ไส้อั่ว"
+  ],
+  "price": 3,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Tong Tem Toh เดอะพาซิโอ ลาดกระบัง",
+  "source": "https://www.wongnai.com/reviews/924c09d160a642a08fd355bc062b11dc",
+  "confidence": "high"
+ },
+ {
+  "name": "Inter Restaurant พาซิโอ ลาดกระบัง",
+  "nameEn": "Inter Restaurant",
+  "zone": "ห้างใกล้มอ",
+  "location": "เดอะพาซิโอ ลาดกระบัง (318/9 ถนนลาดกระบัง)",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ในห้าง",
+   "ร้านเชน",
+   "อาหารไทย"
+  ],
+  "dishes": [
+   "ข้าวราดแกง",
+   "อาหารไทย"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Inter Restaurant เดอะพาซิโอ ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/the-paseo-mall",
+  "confidence": "high"
+ },
+ {
+  "name": "ชาบูเชน พาซิโอ ลาดกระบัง",
+  "nameEn": "Shabu Chain",
+  "zone": "ห้างใกล้มอ",
+  "location": "เดอะพาซิโอ ลาดกระบัง (318/9 ถนนลาดกระบัง)",
+  "category": "ชาบู/สุกี้",
+  "tags": [
+   "ในห้าง",
+   "บุฟเฟต์"
+  ],
+  "dishes": [
+   "ชาบู"
+  ],
+  "price": 3,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Shabu Chain เดอะพาซิโอ ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/304926Pu-%E0%B8%8A%E0%B8%B2%E0%B8%9A%E0%B8%B9%E0%B9%80%E0%B8%8A%E0%B8%99-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%8B%E0%B8%B4%E0%B9%82%E0%B8%AD-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
+  "confidence": "high"
+ },
+ {
+  "name": "คริสปี้ครีม พาซิโอ ลาดกระบัง",
+  "nameEn": "Krispy Kreme",
+  "zone": "ห้างใกล้มอ",
+  "location": "เดอะพาซิโอ ลาดกระบัง (318/9 ถนนลาดกระบัง)",
+  "category": "ของหวาน/เบเกอรี่",
+  "tags": [
+   "ในห้าง",
+   "ร้านเชน"
+  ],
+  "dishes": [
+   "โดนัทออริจินัลเกลซ"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Krispy Kreme เดอะพาซิโอ ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/the-paseo-mall",
+  "confidence": "high"
+ },
+ {
+  "name": "เฮือนก๋วยเตี๋ยว พาซิโอ ลาดกระบัง",
+  "nameEn": "Huean Kuay Tiew",
+  "zone": "ห้างใกล้มอ",
+  "location": "เดอะพาซิโอ ลาดกระบัง (318/9 ถนนลาดกระบัง)",
+  "category": "ก๋วยเตี๋ยว/เส้น",
+  "tags": [
+   "ในห้าง",
+   "ราคาไม่แพง"
+  ],
+  "dishes": [
+   "ก๋วยเตี๋ยว"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Huean Kuay Tiew เดอะพาซิโอ ลาดกระบัง",
+  "source": "https://www.wongnai.com/places/the-paseo-mall",
+  "confidence": "high"
+ },
+ {
+  "name": "เคเอฟซี โลตัส ลาดกระบัง",
+  "nameEn": "KFC Lotus's Lat Krabang",
+  "zone": "ห้างใกล้มอ",
+  "location": "โลตัส ลาดกระบัง (ถนนหลวงแพ่ง ทับยาว)",
+  "category": "อาหารฝรั่ง/ฟาสต์ฟู้ด",
+  "tags": [
+   "ในห้าง",
+   "ร้านเชน",
+   "เดลิเวอรี"
+  ],
+  "dishes": [
+   "ไก่ทอด",
+   "ป๊อปคอร์นไก่"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "KFC โลตัส ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/660407gz-kfc-%E0%B9%82%E0%B8%A5%E0%B8%95%E0%B8%B1%E0%B8%AA-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
+  "confidence": "high"
+ },
+ {
+  "name": "ตำมั่ว โลตัส ลาดกระบัง",
+  "nameEn": "Tummour Lotus's Lat Krabang",
+  "zone": "ห้างใกล้มอ",
+  "location": "โลตัส ลาดกระบัง (ถนนหลวงแพ่ง ทับยาว)",
+  "category": "อาหารอีสาน",
+  "tags": [
+   "ในห้าง",
+   "ร้านเชน"
+  ],
+  "dishes": [
+   "ตำมั่ว",
+   "ไก่ย่าง",
+   "ลาบ"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ตำมั่ว โลตัส ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/664706HG-ตำมั่ว-โลตัสลาดกระบัง",
+  "confidence": "high"
+ },
+ {
+  "name": "เชสเตอร์ โลตัส ลาดกระบัง",
+  "nameEn": "Chester's Lotus's Lat Krabang",
+  "zone": "ห้างใกล้มอ",
+  "location": "โลตัส ลาดกระบัง (ถนนหลวงแพ่ง ทับยาว)",
+  "category": "อาหารฝรั่ง/ฟาสต์ฟู้ด",
+  "tags": [
+   "ในห้าง",
+   "ร้านเชน"
+  ],
+  "dishes": [
+   "ข้าวไก่ย่าง",
+   "ไก่ทอด"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Chester's โลตัส ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/2634883SG-chester-s-%E0%B9%82%E0%B8%A5%E0%B8%95%E0%B8%B1%E0%B8%AA-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
+  "confidence": "high"
+ },
+ {
+  "name": "มิสเตอร์ โดนัท โลตัส ลาดกระบัง",
+  "nameEn": "Mister Donut Lotus's Lat Krabang",
+  "zone": "ห้างใกล้มอ",
+  "location": "โลตัส ลาดกระบัง (ถนนหลวงแพ่ง ทับยาว)",
+  "category": "ของหวาน/เบเกอรี่",
+  "tags": [
+   "ในห้าง",
+   "ร้านเชน",
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "โดนัท"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Mister Donut โลตัส ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/20231Kq-mister-donut-%E0%B9%82%E0%B8%A5%E0%B8%95%E0%B8%B1%E0%B8%AA-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
+  "confidence": "high"
+ },
+ {
+  "name": "Coffee Arigato โลตัส ลาดกระบัง",
+  "nameEn": "Coffee Arigato",
+  "zone": "ห้างใกล้มอ",
+  "location": "โลตัส ลาดกระบัง (ถนนหลวงแพ่ง ทับยาว)",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "ในห้าง",
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "กาแฟ",
+   "ชานม"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Coffee Arigato โลตัส ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/778708UC-coffee-arigato-lotus-ladkrabang",
+  "confidence": "high"
+ }
+]

@@ -1,0 +1,1448 @@
+[
+ {
+  "name": "ร้านแมวกินปลา@ลาดกระบัง",
+  "nameEn": null,
+  "zone": "หน้าสจล./ฉลองกรุง",
+  "location": "เยื้องหอพัก FBT ถนนฉลองกรุง ใกล้ทางเข้า สจล.",
+  "category": "อาหารญี่ปุ่น",
+  "tags": [
+   "ราคาถูก",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "ราเมนหมูชาชูน้ำเข้มข้น",
+   "ข้าวซาบะเทอริยากิ",
+   "ข้าวหมูสามชั้นย่าง",
+   "คัตสึด้งไก่"
+  ],
+  "price": 2,
+  "priceText": "85-159 บาท",
+  "hours": "11:30-21:30",
+  "lat": 13.7228,
+  "lng": 100.7801,
+  "mapsQuery": "ร้านแมวกินปลา ลาดกระบัง FBT",
+  "source": "https://www.wongnai.com/restaurants/426719bf",
+  "confidence": "high"
+ },
+ {
+  "name": "ร้านโคม",
+  "nameEn": "Rongkohm",
+  "zone": "หน้าสจล./ฉลองกรุง",
+  "location": "ลาดกระบัง 13/5 (สุดซอย FBT)",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "นั่งชิล",
+   "ร้านเก่าแก่",
+   "กลุ่มเพื่อน"
+  ],
+  "dishes": [
+   "ข้าวผัดปลาเค็ม",
+   "แกงส้มชะอมกุ้ง",
+   "ข้าวผัดมันกุ้ง",
+   "ห่อหมกทะเลมะพร้าวอ่อน"
+  ],
+  "price": 3,
+  "priceText": "120-280 บาท",
+  "hours": "11:00-20:30",
+  "lat": 13.7237226,
+  "lng": 100.7807387,
+  "mapsQuery": "ร้านโคม ลาดกระบัง 13/5",
+  "source": "https://www.wongnai.com/restaurants/8240Gx",
+  "confidence": "high"
+ },
+ {
+  "name": "ข้าวแกงป้ากับลุง FBT",
+  "nameEn": null,
+  "zone": "หน้าสจล./ฉลองกรุง",
+  "location": "ถนนฉลองกรุง ข้าง FBT ลาดกระบัง",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ราคาถูก",
+   "ข้าวแกง"
+  ],
+  "dishes": [
+   "ข้าวราดแกง"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": null,
+  "lat": 13.7231,
+  "lng": 100.7805,
+  "mapsQuery": "ข้าวแกงป้ากับลุง FBT ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/294913RL",
+  "confidence": "medium"
+ },
+ {
+  "name": "ป.ประทีป ก๋วยเตี๋ยวเรือ (ฉลองกรุง)",
+  "nameEn": null,
+  "zone": "หน้าสจล./ฉลองกรุง",
+  "location": "ถนนฉลองกรุง ตรงข้าม FBT",
+  "category": "ก๋วยเตี๋ยว/เส้น",
+  "tags": [
+   "ราคาถูก",
+   "มีที่จอดรถ"
+  ],
+  "dishes": [
+   "ก๋วยเตี๋ยวเรือหมู",
+   "กากหมู",
+   "หมูกรอบ"
+  ],
+  "price": 1,
+  "priceText": "17 บาท/ชาม",
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ป.ประทีป ก๋วยเตี๋ยวเรือ ฉลองกรุง ลาดกระบัง",
+  "source": "https://www.wongnai.com/reviews/c42883d7d08541099b1b939cb7de26f6",
+  "confidence": "medium"
+ },
+ {
+  "name": "ห้าดาว FBT",
+  "nameEn": "Five Star FBT",
+  "zone": "หน้าสจล./ฉลองกรุง",
+  "location": "62 ถนนฉลองกรุง ข้าง 7-Eleven หอพัก FBT",
+  "category": "สตรีทฟู้ด/ของทานเล่น",
+  "tags": [
+   "ราคาถูก",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "ไก่ย่างห้าดาว",
+   "น้ำพริก",
+   "ชุดบักเก็ต"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": "08:00-20:00",
+  "lat": 13.723,
+  "lng": 100.78,
+  "mapsQuery": "ห้าดาว FBT ฉลองกรุง ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/863806Yt-five-star-fbt",
+  "confidence": "high"
+ },
+ {
+  "name": "The nice house steak bar",
+  "nameEn": "The Nice House Steak Bar",
+  "zone": "หน้าสจล./ฉลองกรุง",
+  "location": "18 ถนนฉลองกรุง หลังเซเว่น ใกล้หอพัก FBT",
+  "category": "อาหารฝรั่ง/ฟาสต์ฟู้ด",
+  "tags": [
+   "ราคาถูก",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "สเต็กเซ็ต",
+   "ข้าวกล่องสเต็ก"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "The nice house steak bar ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/896941UM-the-nice-house-steak-bar-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
+  "confidence": "high"
+ },
+ {
+  "name": "บ้านข้าวซอย ลาดกระบัง",
+  "nameEn": "Baan Khao Soi",
+  "zone": "หน้าสจล./ฉลองกรุง",
+  "location": "ซอยลาดกระบัง 13/5 ข้างร้านถ่ายเอกสาร Cucumber (หลัง Tops)",
+  "category": "ก๋วยเตี๋ยว/เส้น",
+  "tags": [
+   "อาหารเหนือ",
+   "คาเฟ่"
+  ],
+  "dishes": [
+   "ข้าวซอยน่องไก่",
+   "ชาละอองดาว"
+  ],
+  "price": 2,
+  "priceText": "110 บาท",
+  "hours": "11:30-20:00",
+  "lat": 13.7228,
+  "lng": 100.7807,
+  "mapsQuery": "บ้านข้าวซอย ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/26278Dd",
+  "confidence": "high"
+ },
+ {
+  "name": "ละมุน ลาดกระบัง",
+  "nameEn": "Lamoon",
+  "zone": "หน้าสจล./ฉลองกรุง",
+  "location": "ซอยลาดกระบัง 13/5 ใกล้บ้านข้าวซอย",
+  "category": "ของหวาน/เบเกอรี่",
+  "tags": [
+   "เค้ก",
+   "ราคาไม่แพง"
+  ],
+  "dishes": [
+   "เค้กช็อกโกแลต",
+   "บานอฟฟี่",
+   "ชีสพาย",
+   "แบล็กฟอเรสต์"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ละมุน เบเกอรี่ ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/3485gp-%E0%B8%A5%E0%B8%B0%E0%B8%A1%E0%B8%B8%E0%B8%99-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
+  "confidence": "high"
+ },
+ {
+  "name": "ตำ ยำ คลุก RNP",
+  "nameEn": null,
+  "zone": "หลังสจล./เลียบทางรถไฟ",
+  "location": "653 ฉลองกรุง 1 หน้าโครงการ RNP Place",
+  "category": "อาหารอีสาน",
+  "tags": [
+   "เดลิเวอรี่",
+   "เปิดดึก"
+  ],
+  "dishes": [
+   "ส้มตำ",
+   "ยำ",
+   "ข้าวคลุก"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": "16:00-22:00",
+  "lat": 13.727503,
+  "lng": 100.76452,
+  "mapsQuery": "ตำ ยำ คลุก RNP ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/2183399Sh",
+  "confidence": "medium"
+ },
+ {
+  "name": "เก่งข้าวมันไก่&ชอบชา (หอพัก RNP)",
+  "nameEn": null,
+  "zone": "หลังสจล./เลียบทางรถไฟ",
+  "location": "653 หอพัก RNP ซอยฉลองกรุง 1 (ปากซอย RNP เลียบทางรถไฟ)",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ราคาถูก",
+   "เปิดเช้า"
+  ],
+  "dishes": [
+   "ข้าวมันไก่ต้ม",
+   "ข้าวมันไก่รวมพิเศษ",
+   "ข้าวมันไก่ทอด",
+   "ชาชอบชา"
+  ],
+  "price": 2,
+  "priceText": "65-75 บาท",
+  "hours": "06:00-17:00",
+  "lat": 13.727794,
+  "lng": 100.764488,
+  "mapsQuery": "เก่งข้าวมันไก่ ชอบชา RNP ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/505207dN",
+  "confidence": "high"
+ },
+ {
+  "name": "สองโทนหมี่เกี๊ยว สาขา 2 (RNP)",
+  "nameEn": null,
+  "zone": "หลังสจล./เลียบทางรถไฟ",
+  "location": "โครงการ RNP ซอยฉลองกรุง 1",
+  "category": "ก๋วยเตี๋ยว/เส้น",
+  "tags": [
+   "ราคาถูก",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "บะหมี่เกี๊ยว"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": "12:00-20:00",
+  "lat": 13.727312,
+  "lng": 100.76429,
+  "mapsQuery": "สองโทนหมี่เกี๊ยว RNP ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/917194ij",
+  "confidence": "medium"
+ },
+ {
+  "name": "ผู้ชายขายขนม - ป๊อปคอร์นคาราเมลธัญพืช (RNP Place)",
+  "nameEn": null,
+  "zone": "หลังสจล./เลียบทางรถไฟ",
+  "location": "653/2 ซอยฉลองกรุง 1 โครงการ RNP Place",
+  "category": "ของหวาน/เบเกอรี่",
+  "tags": [
+   "ของฝาก"
+  ],
+  "dishes": [
+   "ป๊อปคอร์นคาราเมลพรีเมียม",
+   "บราวนี่กัมมี่"
+  ],
+  "price": 3,
+  "priceText": "189 บาท/กระปุก",
+  "hours": "12:00-22:00",
+  "lat": 13.727014,
+  "lng": 100.764529,
+  "mapsQuery": "ผู้ชายขายขนม RNP ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/393720xJ",
+  "confidence": "high"
+ },
+ {
+  "name": "ช้อน กะ ส้อม",
+  "nameEn": null,
+  "zone": "หลังสจล./เลียบทางรถไฟ",
+  "location": "653/3 ฉลองกรุง 1 โครงการ RNP Place ตึกดิไอคอนเพลส",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ราคาถูก",
+   "เดลิเวอรี่",
+   "Wi-Fi"
+  ],
+  "dishes": [
+   "กะเพราเนื้อ",
+   "กะเพราหมูสับไข่ดาว",
+   "หนังไก่ทอด",
+   "โรตีกรอบ"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": "09:30-22:30",
+  "lat": 13.727,
+  "lng": 100.765,
+  "mapsQuery": "ช้อน กะ ส้อม RNP Place ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/1824071Kp",
+  "confidence": "high"
+ },
+ {
+  "name": "กับข้าวปากน้ำ สาขาลาดกระบัง",
+  "nameEn": null,
+  "zone": "หลังสจล./เลียบทางรถไฟ",
+  "location": "ท้ายซอยฉลองกรุง 1 ติดหอพักนักศึกษา",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ราคาถูก",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "ราดหน้าคุณยาย",
+   "ข้าวกะเพรา",
+   "ข้าวผัดผักบุ้ง",
+   "หมูทอด"
+  ],
+  "price": 1,
+  "priceText": "50-80 บาท",
+  "hours": "11:00-20:00 (ปิดอาทิตย์)",
+  "lat": 13.7276,
+  "lng": 100.7633,
+  "mapsQuery": "กับข้าวปากน้ำ ลาดกระบัง ฉลองกรุง 1",
+  "source": "https://www.wongnai.com/restaurants/501297Ny",
+  "confidence": "high"
+ },
+ {
+  "name": "Buta Korean BBQ Pork ลาดกระบัง",
+  "nameEn": "Buta Korean BBQ Pork",
+  "zone": "หลังสจล./เลียบทางรถไฟ",
+  "location": "661 ซอยหมู่บ้านการ์เด้นโฮม ฉลองกรุง 1 (เกกี 5)",
+  "category": "ปิ้งย่าง/หมูกระทะ",
+  "tags": [
+   "บุฟเฟต์",
+   "ราคาถูก",
+   "ปิ้งย่างเกาหลี"
+  ],
+  "dishes": [
+   "คอหมูหมักโคชูจัง",
+   "สามชั้นบูลโกกิ",
+   "ซุปกิมจิ",
+   "ข้าวยำเกาหลี"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": "14:00-23:00",
+  "lat": 13.727528,
+  "lng": 100.763584,
+  "mapsQuery": "Buta Korean BBQ Pork ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/307364iz",
+  "confidence": "high"
+ },
+ {
+  "name": "ป้าน้อยเจ้าเก่า บิลเลี่ยน",
+  "nameEn": null,
+  "zone": "หลังสจล./เลียบทางรถไฟ",
+  "location": "663/6 ซอยฉลองกรุง 1 (ตลาดท้ายซอย)",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ราคาถูก",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "อาหารตามสั่ง"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": "17:00-22:00",
+  "lat": 13.7276,
+  "lng": 100.7631,
+  "mapsQuery": "ป้าน้อยเจ้าเก่า บิลเลี่ยน ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/458174oG",
+  "confidence": "medium"
+ },
+ {
+  "name": "ร้านป้านัยตามสั่ง",
+  "nameEn": null,
+  "zone": "หลังสจล./เลียบทางรถไฟ",
+  "location": "ท้ายซอยฉลองกรุง 1 ข้างกับข้าวปากน้ำ",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ราคาถูก",
+   "คนเยอะ"
+  ],
+  "dishes": [
+   "หมูกรอบไข่ดาว",
+   "กะเพราหมูกรอบ",
+   "ผัดพริกแกง"
+  ],
+  "price": 1,
+  "priceText": "45-55 บาท",
+  "hours": "กลางวัน (ของหมดปิดเร็ว)",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ป้านัยตามสั่ง ฉลองกรุง 1 ลาดกระบัง",
+  "source": "https://www.lemon8-app.com/@por.ksm/7483151975950107152?region=th",
+  "confidence": "medium"
+ },
+ {
+  "name": "นายพล จุ่มแซบ",
+  "nameEn": "Nai Phon Jum Saeb",
+  "zone": "หลังสจล./เลียบทางรถไฟ",
+  "location": "659 ซอยฉลองกรุง 1 (ซอยหอพักข้างพระจอม ใกล้ทางรถไฟ)",
+  "category": "อาหารอีสาน",
+  "tags": [
+   "จิ้มจุ่ม",
+   "เปิดดึก",
+   "กลุ่มเพื่อน"
+  ],
+  "dishes": [
+   "คอหมูย่าง",
+   "เนื้อย่าง",
+   "ส้มตำไทย",
+   "ลาบผ้าขี้ริ้ว",
+   "จิ้มจุ่ม"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": "12:00-23:00",
+  "lat": 13.72729,
+  "lng": 100.767753,
+  "mapsQuery": "นายพล จุ่มแซบ ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/119575Ec",
+  "confidence": "high"
+ },
+ {
+  "name": "Timber Café Thailand",
+  "nameEn": "Timber Cafe Thailand",
+  "zone": "หลังสจล./เลียบทางรถไฟ",
+  "location": "661/5 ท้ายซอยตลาด ฉลองกรุง 1",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "นั่งชิล",
+   "มีเกม",
+   "ที่จอดรถ"
+  ],
+  "dishes": [
+   "เฟรนช์ฟรายส์ชีส",
+   "ลิ้นจี่ขิงโซดา",
+   "บิงซูมะม่วง",
+   "ข้าวครีมกุ้งคาโบนาร่า"
+  ],
+  "price": 2,
+  "priceText": "100+ บาท",
+  "hours": "11:00-22:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Timber Cafe Thailand ฉลองกรุง 1 ลาดกระบัง",
+  "source": "https://www.ryoiireview.com/article/cafe-sweet-latkrabang-bkk/",
+  "confidence": "high"
+ },
+ {
+  "name": "Playlistcafe",
+  "nameEn": "Playlistcafe",
+  "zone": "หลังสจล./เลียบทางรถไฟ",
+  "location": "ซอยฉลองกรุง 1 (เห็นรถไฟและเครื่องบิน)",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "นั่งชิล",
+   "แอร์",
+   "มินิมอล"
+  ],
+  "dishes": [
+   "มัทฉะชาช่า",
+   "เอสเพรสโซ่",
+   "วาฟเฟิลมัทฉะ",
+   "บลูเบอร์รี่ชีสเค้ก"
+  ],
+  "price": 2,
+  "priceText": "50-200 บาท",
+  "hours": "08:00-18:30",
+  "lat": 13.728,
+  "lng": 100.765,
+  "mapsQuery": "Playlistcafe ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/600135Vl-playlistcafe",
+  "confidence": "high"
+ },
+ {
+  "name": "SUM FRUIT บิงซู ลาดกระบัง",
+  "nameEn": "Sum Fruit Bingsu",
+  "zone": "หลังสจล./เลียบทางรถไฟ",
+  "location": "13/12 ซอยฉลองกรุง 1",
+  "category": "ของหวาน/เบเกอรี่",
+  "tags": [
+   "บิงซู",
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "บิงซู",
+   "เค้ก",
+   "บราวนี่"
+  ],
+  "price": 1,
+  "priceText": "เริ่ม 35 บาท",
+  "hours": "16:00-20:30 (ปิดเสาร์-อาทิตย์)",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "SUM FRUIT บิงซู ลาดกระบัง",
+  "source": "https://www.ryoiireview.com/article/cafe-sweet-latkrabang-bkk/",
+  "confidence": "medium"
+ },
+ {
+  "name": "ข้าวไข่เจียวเกกี (เซเว่นเกกี 1)",
+  "nameEn": null,
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "หน้า 7-Eleven ปากซอยเกกีงาม 1 ซอยฉลองกรุง 1",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ราคาถูก",
+   "เปิดดึก",
+   "รถเข็น"
+  ],
+  "dishes": [
+   "ข้าวไข่เจียว",
+   "ข้าวไข่เจียวไข่ดาว",
+   "ข้าวไข่คั่ว"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": "17:00-23:00",
+  "lat": 13.727851,
+  "lng": 100.770534,
+  "mapsQuery": "ข้าวไข่เจียวเกกี เซเว่นเกกี1 ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/190523lh",
+  "confidence": "high"
+ },
+ {
+  "name": "ส้มตำ เกกีงาม 1",
+  "nameEn": null,
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "ปากซอยเกกีงาม 1 ข้าง 7-Eleven",
+  "category": "อาหารอีสาน",
+  "tags": [
+   "ราคาถูก",
+   "รถเข็น"
+  ],
+  "dishes": [
+   "ส้มตำ"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ส้มตำ ปากซอยเกกีงาม 1 ลาดกระบัง",
+  "source": "https://www.lemon8-app.com/experience/%E0%B8%8B%E0%B8%AD%E0%B8%A2%E0%B9%80%E0%B8%81%E0%B8%81%E0%B8%B5-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87-%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B4%E0%B8%99?region=th",
+  "confidence": "medium"
+ },
+ {
+  "name": "มุมสบาย เกกี 4",
+  "nameEn": null,
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "ในสุดศูนย์อาหารซอยเกกี 4",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ราคาถูก",
+   "จานใหญ่"
+  ],
+  "dishes": [
+   "ข้าวขาหมูเห็ดหอม",
+   "ข้าวซี่โครงหมูอบซอส",
+   "ข้าวปลาสามรส",
+   "ข้าวไข่ห่อเบคอน"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": "11:00-22:00",
+  "lat": 13.726947,
+  "lng": 100.769574,
+  "mapsQuery": "มุมสบาย เกกี 4 ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/306645hv",
+  "confidence": "high"
+ },
+ {
+  "name": "หอมมนต์ (เกกีงาม 4)",
+  "nameEn": null,
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "581 เกกีงาม 4",
+  "category": "ก๋วยเตี๋ยว/เส้น",
+  "tags": [
+   "ราคาถูก",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "ก๋วยเตี๋ยวเรือ",
+   "ข้าวหมูแดงหมูกรอบ",
+   "กะเพราหมูกรอบ",
+   "ต้มยำ",
+   "เย็นตาโฟ"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": "11:00-21:00",
+  "lat": 13.7277,
+  "lng": 100.7693,
+  "mapsQuery": "หอมมนต์ เกกีงาม4 ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/678733as",
+  "confidence": "high"
+ },
+ {
+  "name": "เลอ-มง ราเมง สาขาลาดกระบัง @เกกี4",
+  "nameEn": "Lemong Ramen",
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "ศูนย์อาหารเกกี 4 ถนนฉลองกรุง 1",
+  "category": "อาหารญี่ปุ่น",
+  "tags": [
+   "ราคาถูก",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "ราเมนซุปกระดูกหมู",
+   "ราเมนต้มยำ",
+   "เกี๊ยวซ่าทอด",
+   "คาราอาเกะ"
+  ],
+  "price": 2,
+  "priceText": "59-99 บาท",
+  "hours": "16:30-22:00",
+  "lat": 13.727202792664736,
+  "lng": 100.76957060033527,
+  "mapsQuery": "เลอมง ราเมง เกกี4 ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/2314412gk",
+  "confidence": "high"
+ },
+ {
+  "name": "โจ๊กแต้จิ๋ว&เล้งแซ่บซี๊ด สจล.",
+  "nameEn": null,
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "ศูนย์อาหารเกกีงาม 4 ถนนฉลองกรุง 1",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "เปิดดึก",
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "เล้งแซ่บ",
+   "โจ๊กหมูไข่เยี่ยวม้า",
+   "โจ๊กไข่มังกร",
+   "ต้มเลือดหมู"
+  ],
+  "price": 2,
+  "priceText": "69-135 บาท",
+  "hours": "16:00-23:00",
+  "lat": 13.7273834,
+  "lng": 100.7694829,
+  "mapsQuery": "โจ๊กแต้จิ๋ว เล้งแซ่บ เกกีงาม 4 ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/401033Mn",
+  "confidence": "high"
+ },
+ {
+  "name": "Tiger Steak House X The Burgest Burger",
+  "nameEn": "Tiger Steak House X The Burgest Burger",
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "ปากซอยเกกีงาม 4 ติดถนนใหญ่ (ฝั่งเกกี 3)",
+  "category": "อาหารฝรั่ง/ฟาสต์ฟู้ด",
+  "tags": [
+   "ราคาถูก",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "เบอร์เกอร์ไก่ชีส",
+   "เบอร์เกอร์เนื้อ",
+   "สเต็ก"
+  ],
+  "price": 2,
+  "priceText": "85 บาท+",
+  "hours": "11:00-22:00",
+  "lat": 13.728,
+  "lng": 100.77,
+  "mapsQuery": "Tiger steak house The burgest burger เกกี4 ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/447131QU",
+  "confidence": "high"
+ },
+ {
+  "name": "OYAH CREPE โอย่ะเครป @เกกี 4",
+  "nameEn": "Oyah Crepe",
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "เกกีงาม 4 ซอยฉลองกรุง 1",
+  "category": "ของหวาน/เบเกอรี่",
+  "tags": [
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "เครปวิปครีม",
+   "เครปร้อนไส้ครีม"
+  ],
+  "price": 1,
+  "priceText": "35 บาท",
+  "hours": "16:00-20:00 (ปิดอังคาร)",
+  "lat": 13.7276,
+  "lng": 100.7696,
+  "mapsQuery": "OYAH CREPE เกกี 4 ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/510116QZ",
+  "confidence": "high"
+ },
+ {
+  "name": "ฉีหลิงหม่าล่าทัง สาขาลาดกระบัง",
+  "nameEn": "Qiling Malatang",
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "579 เกกีงาม 4",
+  "category": "ชาบู/สุกี้",
+  "tags": [
+   "หม่าล่า",
+   "เดลิเวอรี่",
+   "คนละครึ่ง"
+  ],
+  "dishes": [
+   "หม่าล่าทังซุปเสฉวน",
+   "เลือกวัตถุดิบเอง 40+ อย่าง"
+  ],
+  "price": 3,
+  "priceText": "179 บาท/เซ็ต",
+  "hours": "16:30-21:30",
+  "lat": 13.7275,
+  "lng": 100.7694,
+  "mapsQuery": "ฉีหลิงหม่าล่าทัง ลาดกระบัง เกกี4",
+  "source": "https://www.wongnai.com/restaurants/2746244WN",
+  "confidence": "high"
+ },
+ {
+  "name": "ไฉฟู่ หม่าล่าทั่ง ลาดกระบัง สาขาเกกี",
+  "nameEn": "Cai Fu Malatang",
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "583 ตลาดเกกี 4 ซอยเกกีงาม 4",
+  "category": "ชาบู/สุกี้",
+  "tags": [
+   "หม่าล่า",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "หม่าล่าทั่ง"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": "11:30-23:00",
+  "lat": 13.7274,
+  "lng": 100.7693,
+  "mapsQuery": "ไฉฟู่ หม่าล่าทั่ง เกกี ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/3244255mV",
+  "confidence": "high"
+ },
+ {
+  "name": "หม่าล่าเสฉวน ชวงชวงเว่ย ตลาดเกกี 4",
+  "nameEn": null,
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "ตลาดเกกี 4",
+  "category": "ชาบู/สุกี้",
+  "tags": [
+   "หม่าล่า",
+   "เสียบไม้",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "หม่าล่าหม้อไฟ",
+   "ชาบูเนื้อสไลซ์"
+  ],
+  "price": 2,
+  "priceText": "ไม้ละ 10-50 บาท",
+  "hours": "15:00-",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "หม่าล่าเสฉวน ชวงชวงเว่ย เกกี4 ลาดกระบัง",
+  "source": "https://www.wongnai.com/delivery/businesses/3560914iO/order",
+  "confidence": "medium"
+ },
+ {
+  "name": "Shabu Life ชาบูไลฟ์",
+  "nameEn": "Shabu Life",
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "ซอยเกกี 4",
+  "category": "บุฟเฟต์",
+  "tags": [
+   "ชาบู",
+   "กลุ่มเพื่อน"
+  ],
+  "dishes": [
+   "ชาบูบุฟเฟต์"
+  ],
+  "price": 2,
+  "priceText": "101-250 บาท",
+  "hours": "16:00-22:00",
+  "lat": 13.727,
+  "lng": 100.769,
+  "mapsQuery": "Shabu Life เกกี 4 ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/349590qu-shabu-life",
+  "confidence": "medium"
+ },
+ {
+  "name": "Urban Street (สเต็กถาดปราบเซียน)",
+  "nameEn": "Urban Street",
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "ซอยเกกีงาม 4 ริมคลองข้างวัดปลูกศรัทธา",
+  "category": "อาหารฝรั่ง/ฟาสต์ฟู้ด",
+  "tags": [
+   "ราคาถูก",
+   "จานใหญ่",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "สามทหารเสือ (หมู ไก่ ปลา)",
+   "ซี่โครงหมูบาร์บีคิว",
+   "สเต็กคอหมู",
+   "สเต็กไก่ชีส"
+  ],
+  "price": 2,
+  "priceText": "70-166 บาท",
+  "hours": "16:00-22:00",
+  "lat": 13.7268,
+  "lng": 100.7694,
+  "mapsQuery": "Urban Street สเต็กถาดปราบเซียน เกกีงาม4 ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/499683lG",
+  "confidence": "high"
+ },
+ {
+  "name": "ชาชักโกอิน",
+  "nameEn": "Ko-In Tea",
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "ศูนย์อาหารซอยเกกีงาม 4",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "เปิดดึก",
+   "ราคาถูก",
+   "โรตี"
+  ],
+  "dishes": [
+   "ชาชัก",
+   "โรตีตบนม",
+   "อพอลโล่",
+   "ข้าวหมกไก่",
+   "ขนมปังชุบไข่"
+  ],
+  "price": 1,
+  "priceText": "25-45 บาท",
+  "hours": "10:00-02:00",
+  "lat": 13.727369,
+  "lng": 100.769531,
+  "mapsQuery": "ชาชักโกอิน เกกี4 ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/214343tO",
+  "confidence": "high"
+ },
+ {
+  "name": "หมีซ่าส์ราเมน ลาดกระบัง",
+  "nameEn": "MeeZAA Ramen",
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "ศูนย์อาหาร K4 Station ซอยฉลองกรุง 1",
+  "category": "อาหารญี่ปุ่น",
+  "tags": [
+   "ราคาถูก",
+   "คนละครึ่ง",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "ราเมนซุปกระดูกหมู",
+   "ราเมนมิโสะเผ็ด",
+   "ข้าวแกงกะหรี่ญี่ปุ่น",
+   "ข้าวทงคัตสึ"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": "15:00-22:00 (ปิดพุธ)",
+  "lat": 13.727,
+  "lng": 100.769,
+  "mapsQuery": "หมีซ่าส์ราเมน ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/441236oR",
+  "confidence": "high"
+ },
+ {
+  "name": "นินจา เต้าหู้เฉาก๊วยนมสด",
+  "nameEn": null,
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "ซอยเกกีงาม 4 ฉลองกรุง 1",
+  "category": "ของหวาน/เบเกอรี่",
+  "tags": [
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "เต้าหู้เฉาก๊วยนมสด"
+  ],
+  "price": 1,
+  "priceText": "25-35 บาท",
+  "hours": "14:00-22:00",
+  "lat": 13.7277,
+  "lng": 100.7696,
+  "mapsQuery": "นินจา เต้าหู้เฉาก๊วยนมสด เกกี4 ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/209475SK",
+  "confidence": "high"
+ },
+ {
+  "name": "น้ำเต้าหู้ เกกีงาม 4",
+  "nameEn": null,
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "ศูนย์อาหารซอยเกกี 4 ถนนฉลองกรุง 1",
+  "category": "ของหวาน/เบเกอรี่",
+  "tags": [
+   "ราคาถูก",
+   "เปิดดึก"
+  ],
+  "dishes": [
+   "น้ำเต้าหู้ชาเขียว",
+   "น้ำเต้าหู้เผือก"
+  ],
+  "price": 1,
+  "priceText": "8-15 บาท",
+  "hours": "16:00-23:00",
+  "lat": 13.727684,
+  "lng": 100.769482,
+  "mapsQuery": "น้ำเต้าหู้ เกกีงาม 4 ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/308294dC",
+  "confidence": "high"
+ },
+ {
+  "name": "สเต็กเทคโน",
+  "nameEn": "Steak Techno",
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "ซอยเกกี 4 (ปากซอยเกกีงาม 3) หลังร้านซ่อมมอเตอร์ไซค์",
+  "category": "อาหารฝรั่ง/ฟาสต์ฟู้ด",
+  "tags": [
+   "ราคาถูก",
+   "ร้านเก่า"
+  ],
+  "dishes": [
+   "สเต็กคอหมู",
+   "สเต็กไก่พาร์เมซาน",
+   "มันบดเกรวี่",
+   "พันช์"
+  ],
+  "price": 2,
+  "priceText": "60-150 บาท",
+  "hours": "17:00-21:00 (จ.-ศ.)",
+  "lat": 13.727641,
+  "lng": 100.769424,
+  "mapsQuery": "สเต็กเทคโน เกกี ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/322947Sk-steak-techno",
+  "confidence": "high"
+ },
+ {
+  "name": "อิ่มเอม สเต๊กเฮาส์",
+  "nameEn": null,
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "11 ซอยเกกีงาม 4 (ศูนย์อาหารเก4 สเตชั่น)",
+  "category": "อาหารฝรั่ง/ฟาสต์ฟู้ด",
+  "tags": [
+   "ราคาถูก",
+   "แอร์",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "ข้าวสเต็กหมูไข่ดาว",
+   "ฟิชแอนด์ชิปส์",
+   "สเต็กปลาซาบะ",
+   "สลัดผัก"
+  ],
+  "price": 1,
+  "priceText": "50-89 บาท",
+  "hours": "15:00-23:00",
+  "lat": 13.727296,
+  "lng": 100.769603,
+  "mapsQuery": "อิ่มเอม สเต๊กเฮาส์ เกกี 4 ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/310582ZS",
+  "confidence": "high"
+ },
+ {
+  "name": "Magic Bingsu",
+  "nameEn": "Magic Bingsu",
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "ตลาดเกกี 4 ซอยเกกีงาม 4",
+  "category": "ของหวาน/เบเกอรี่",
+  "tags": [
+   "บิงซู"
+  ],
+  "dishes": [
+   "บิงซู",
+   "ไอศกรีม"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": "17:00-22:00",
+  "lat": 13.727372,
+  "lng": 100.769582,
+  "mapsQuery": "Magic Bingsu เกกี 4 ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/2809958US-magic-bingsu",
+  "confidence": "medium"
+ },
+ {
+  "name": "Moma's Bubble Tea Bar เกกีงาม 4",
+  "nameEn": "Moma's Bubble Tea Bar",
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "111 ปากซอยเกกีงาม 4 หน้าศูนย์อาหาร ข้างสะพานข้ามคลอง",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "ชานมไข่มุก",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "ชานมไข่มุก"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Moma's Bubble Tea เกกีงาม 4 ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/393645uj",
+  "confidence": "medium"
+ },
+ {
+  "name": "อิ่มแปล้ แฮปปี้คัพ",
+  "nameEn": "Happy Cup",
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "ปากซอยเกกีงาม 4",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "ราคาถูก",
+   "เปิดเย็น"
+  ],
+  "dishes": [
+   "โกโก้วิปครีม",
+   "เครื่องดื่มปั่นท็อปปิ้งจัดเต็ม"
+  ],
+  "price": 1,
+  "priceText": "50-70 บาท",
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "แฮปปี้คัพ ปากซอยเกกี 4 ลาดกระบัง",
+  "source": "https://www.lemon8-app.com/experience/%E0%B9%80%E0%B8%81%E0%B8%81%E0%B8%B5-4?region=th",
+  "confidence": "medium"
+ },
+ {
+  "name": "ผัดไทย-หอยทอดป้าพัช เกกี 4",
+  "nameEn": null,
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "ซอยเกกี 4",
+  "category": "สตรีทฟู้ด/ของทานเล่น",
+  "tags": [
+   "ร้านเก่า",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "ผัดไทยกุ้งสด",
+   "ผัดไทยวุ้นเส้น",
+   "หอยทอด"
+  ],
+  "price": 2,
+  "priceText": "80-110 บาท",
+  "hours": "17:00-22:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ผัดไทย หอยทอด ป้าพัช เกกี4 ลาดกระบัง",
+  "source": "https://www.wongnai.com/delivery/businesses/508152Ej/order",
+  "confidence": "high"
+ },
+ {
+  "name": "Siriwan Moji โมจิครีมชีสผลไม้",
+  "nameEn": null,
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "ซอยเกกี 4 หน้า Tops",
+  "category": "ของหวาน/เบเกอรี่",
+  "tags": [
+   "ของหวาน"
+  ],
+  "dishes": [
+   "โมจิครีมชีสผลไม้"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": "16:00-19:30",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Siriwan Moji เกกี 4 ลาดกระบัง",
+  "source": "https://www.lemon8-app.com/@yvbakery/7548629513925214728?region=us",
+  "confidence": "medium"
+ },
+ {
+  "name": "ยำแซ่บบิลเลี่ยน",
+  "nameEn": null,
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "บิลเลี่ยนพาร์ค ซอยฉลองกรุง 1",
+  "category": "สตรีทฟู้ด/ของทานเล่น",
+  "tags": [
+   "ราคาถูก",
+   "ยำ"
+  ],
+  "dishes": [
+   "ยำวุ้นเส้น",
+   "ยำหมูยอ"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ยำแซ่บบิลเลี่ยน ลาดกระบัง",
+  "source": "https://www.lemon8-app.com/experience/%E0%B9%80%E0%B8%81%E0%B8%81%E0%B8%B5-4?region=th",
+  "confidence": "medium"
+ },
+ {
+  "name": "Bu-Rin ปิ้งย่าง",
+  "nameEn": "Bu-Rin BBQ",
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "611 ซอยฉลองกรุง 1 ใกล้โครงการบิลเลี่ยนพาร์ค (เกกี 5)",
+  "category": "ปิ้งย่าง/หมูกระทะ",
+  "tags": [
+   "หมูกระทะ",
+   "บุฟเฟต์",
+   "ที่จอดรถ"
+  ],
+  "dishes": [
+   "หมูกระทะ",
+   "สันคอหมูสไลซ์",
+   "กุ้งสด",
+   "น้ำซุปหวานกลมกล่อม"
+  ],
+  "price": 2,
+  "priceText": "101-250 บาท",
+  "hours": "16:00-22:00",
+  "lat": 13.7276,
+  "lng": 100.766,
+  "mapsQuery": "Bu-Rin ปิ้งย่าง ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/256032Yg",
+  "confidence": "high"
+ },
+ {
+  "name": "รามยอนคาเฟ่ by Introvert's Corner",
+  "nameEn": "Ramyeon Cafe by Introvert's Corner",
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "669/1 ซอยฉลองกรุง 1 College Town ตรงข้ามบูรินปิ้งย่าง",
+  "category": "อาหารเกาหลี",
+  "tags": [
+   "เปิดดึก",
+   "Wi-Fi"
+  ],
+  "dishes": [
+   "รามยอน"
+  ],
+  "price": 2,
+  "priceText": "101-250 บาท",
+  "hours": "16:30-23:00",
+  "lat": 13.7276,
+  "lng": 100.7659,
+  "mapsQuery": "รามยอนคาเฟ่ Introvert's Corner College Town ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/977292pE",
+  "confidence": "high"
+ },
+ {
+  "name": "ณ ปัง ลาดกระบัง College Town",
+  "nameEn": "Na Pang",
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "College Town ซอยฉลองกรุง 1",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "เปิดดึก",
+   "ราคาถูก",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "ขนมปังปิ้ง",
+   "นมหมีปั่นน้ำผึ้ง"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": "15:00-23:30",
+  "lat": 13.727469652230702,
+  "lng": 100.76585316560762,
+  "mapsQuery": "ณ ปัง College Town ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/655112fx",
+  "confidence": "high"
+ },
+ {
+  "name": "นมมหา'ลัย",
+  "nameEn": "Nom Mahalai",
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "669/1 (A6) ซอยฉลองกรุง 1 โครงการ College Town",
+  "category": "ของหวาน/เบเกอรี่",
+  "tags": [
+   "เปิดดึก",
+   "บอร์ดเกม",
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "ปังเย็น",
+   "นมกล้วยเย็น",
+   "มิลค์ทาวเวอร์",
+   "ไอศกรีมทอด"
+  ],
+  "price": 1,
+  "priceText": "35-89 บาท",
+  "hours": "17:00-24:00",
+  "lat": 13.7275,
+  "lng": 100.7659,
+  "mapsQuery": "นมมหาลัย ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/559782tz",
+  "confidence": "high"
+ },
+ {
+  "name": "Luck & Roll Board Game Cafe",
+  "nameEn": "Luck & Roll Board Game Cafe",
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "669/1 College Town ซอยฉลองกรุง 1",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "บอร์ดเกม",
+   "นั่งชิล",
+   "สัตว์เลี้ยง"
+  ],
+  "dishes": [
+   "สปาเกตตีโบโลเนส",
+   "มะม่วงโยเกิร์ตปั่น"
+  ],
+  "price": 2,
+  "priceText": "79-89 บาท",
+  "hours": "11:30-22:00",
+  "lat": 13.727309,
+  "lng": 100.765875,
+  "mapsQuery": "Luck and Roll Board Game Cafe ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/448372Sp-luck-roll-board-game-cafe",
+  "confidence": "high"
+ },
+ {
+  "name": "คาเมลลี่ บราสเซอรี่",
+  "nameEn": "Camelly Brasseries",
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "College Town ซอยฉลองกรุง 1 (ตลาดวิดวะการ์เด้น เยื้องบูรินหมูกะทะ)",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "บิงซู",
+   "นั่งชิล"
+  ],
+  "dishes": [
+   "ข้าวไก่เกาหลีซอสเข้มข้น",
+   "บิงซูชาไทย",
+   "คราฟต์โซดา",
+   "ชาดำน้ำผึ้งมะนาว"
+  ],
+  "price": 2,
+  "priceText": "เริ่ม 89 บาท",
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Camelly Brasseries College Town ลาดกระบัง",
+  "source": "https://www.lemon8-app.com/lemon7853252613/7120238500783407618?region=us",
+  "confidence": "high"
+ },
+ {
+  "name": "Smooth Japanese food",
+  "nameEn": "Smooth Japanese Food",
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "ตลาดนัดวิดวะการ์เด้น ซอยฉลองกรุง 1 ข้างโรงยิมหลังคาเหลือง",
+  "category": "อาหารญี่ปุ่น",
+  "tags": [
+   "ฮาลาล",
+   "ราคาถูก",
+   "แอร์",
+   "เปิดดึก"
+  ],
+  "dishes": [
+   "ข้าวเนื้อหวาน",
+   "ดงบุริไก่ทอดกระเทียม",
+   "ราเมนต้มยำกุ้ง"
+  ],
+  "price": 2,
+  "priceText": "79-129 บาท",
+  "hours": "17:00-23:59",
+  "lat": 13.727,
+  "lng": 100.766,
+  "mapsQuery": "Smooth Japanese food ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/378699dM-smooth-japanese-food",
+  "confidence": "high"
+ },
+ {
+  "name": "ข้าวผัดกะทะเหล็กบิลเลี่ยน วิดวะการ์เด้น",
+  "nameEn": null,
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "ซอยฉลองกรุง 1 (วิดวะการ์เด้น)",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "เปิดดึก",
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "ข้าวผัดกระทะเหล็ก",
+   "อาหารตามสั่ง"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": "11:00-03:00",
+  "lat": 13.728,
+  "lng": 100.766,
+  "mapsQuery": "ข้าวผัดกะทะเหล็ก บิลเลี่ยน ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/932250dD",
+  "confidence": "medium"
+ },
+ {
+  "name": "Mongni Cafe ลาดกระบัง",
+  "nameEn": "Mongni Cafe",
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "669/5-6 ซอยฉลองกรุง 1 (College Town)",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "ชานมไข่มุก"
+  ],
+  "dishes": [
+   "ชานมไข่มุก",
+   "นมฮอกไกโด",
+   "มัทฉะ"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "Mongni Cafe ลาดกระบัง ฉลองกรุง 1",
+  "source": "https://www.wongnai.com/chains/mongni-cafe",
+  "confidence": "medium"
+ },
+ {
+  "name": "YERM cocoa ลาดกระบัง",
+  "nameEn": "YERM Cocoa",
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "ซอยฉลองกรุง 1 (วิดวะการ์เด้น)",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "นั่งชิล",
+   "ที่จอดรถ"
+  ],
+  "dishes": [
+   "โกโก้ออริจินัล",
+   "โกโก้คาราเมล",
+   "ขนมปังปิ้ง"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "YERM cocoa ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/441134Au-yerm-cocoa",
+  "confidence": "high"
+ },
+ {
+  "name": "Sunbae (ม.พระจอมเกล้า ลาดกระบัง)",
+  "nameEn": "Sunbae",
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "โครงการ KL Villa ฉลองกรุง ใกล้ Tops",
+  "category": "อาหารเกาหลี",
+  "tags": [
+   "เดลิเวอรี่"
+  ],
+  "dishes": [
+   "ไก่ทอดเกาหลี",
+   "จาจังมยอน",
+   "ต็อกบกกี",
+   "ข้าวผัดกิมจิ"
+  ],
+  "price": 2,
+  "priceText": "55-169 บาท",
+  "hours": "12:00-21:00",
+  "lat": 13.7274,
+  "lng": 100.7713,
+  "mapsQuery": "Sunbae KL Villa ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/585064ZK",
+  "confidence": "high"
+ },
+ {
+  "name": "เซนเซราเมง KL Villa",
+  "nameEn": "Sensei Ramen",
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "3 KL Villa ซอยฉลองกรุง 1 (ซอยเกกีงาม) ใกล้ Tops Daily",
+  "category": "อาหารญี่ปุ่น",
+  "tags": [
+   "มังสวิรัติมีให้เลือก",
+   "ที่จอดรถ"
+  ],
+  "dishes": [
+   "โชยุราเมงหมูชาชู",
+   "ทงคตสึราเมงหมูสไลซ์",
+   "โชยุราเมงเต้าหู้",
+   "เกี๊ยวซ่า"
+  ],
+  "price": 2,
+  "priceText": "109-124 บาท",
+  "hours": "11:00-21:00",
+  "lat": 13.7275,
+  "lng": 100.7716,
+  "mapsQuery": "เซนเซราเมง KL villa ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/1967228wd",
+  "confidence": "high"
+ },
+ {
+  "name": "Hotto Bun ลาดกระบัง",
+  "nameEn": "Hotto Bun",
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "3 ถนนฉลองกรุง (KL Villa)",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "เดลิเวอรี่",
+   "ที่จอดรถ"
+  ],
+  "dishes": [
+   "บันไก่กรอบ",
+   "ดังโงะสามสี",
+   "กาแฟส้มยูซุ",
+   "บันแมงมุมปูนิ่ม"
+  ],
+  "price": 2,
+  "priceText": "95-165 บาท",
+  "hours": "09:00-21:00",
+  "lat": 13.7277,
+  "lng": 100.7711,
+  "mapsQuery": "Hotto Bun ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/859201CH",
+  "confidence": "high"
+ },
+ {
+  "name": "MIXUE KL Villa",
+  "nameEn": "MIXUE",
+  "zone": "เกกีงามวงศ์วาน",
+  "location": "โครงการ KL Villa ลาดกระบัง",
+  "category": "ของหวาน/เบเกอรี่",
+  "tags": [
+   "ราคาถูก",
+   "ไอศกรีม"
+  ],
+  "dishes": [
+   "ไอศกรีมโคน",
+   "น้ำมะนาว"
+  ],
+  "price": 1,
+  "priceText": "15-20 บาท",
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "MIXUE KL Villa ลาดกระบัง",
+  "source": "https://www.lemon8-app.com/experience/kl-villa-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87?region=th",
+  "confidence": "medium"
+ }
+]

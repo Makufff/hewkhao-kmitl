@@ -1,46 +1,24 @@
-# Astro Starter Kit: Basics
+# หิวข้าว — สุ่มร้านอาหารลาดกระบัง
+
+เว็บสุ่มร้านอาหารรอบ สจล. (พระจอมเกล้าลาดกระบัง) — ในมอ, หน้า/หลังมอ, เกกี, หัวตะเข้, ถนนลาดกระบัง, ร่มเกล้า และห้างใกล้มอ
+กรองได้ตามโซน ประเภท งบ และแท็ก (เปิดดึก, ฮาลาล, ริมคลอง ฯลฯ)
+
+## Dev
 
 ```sh
-pnpm create astro@latest -- --template basics
+pnpm install
+astro dev --background   # http://localhost:4321
+pnpm build
 ```
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## ข้อมูลร้าน
 
-## 🚀 Project Structure
+- `research/*.json` — ข้อมูลดิบที่ research จาก Wongnai, Google Maps, Pantip, บล็อก ฯลฯ แยกตามโซน
+- `src/data/places.json` — ไฟล์ที่เว็บใช้ สร้างจาก research ด้วย
 
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src
-│   ├── assets
-│   │   └── astro.svg
-│   ├── components
-│   │   └── Welcome.astro
-│   ├── layouts
-│   │   └── Layout.astro
-│   └── pages
-│       └── index.astro
-└── package.json
+```sh
+node scripts/merge-research.mjs research
 ```
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `pnpm install`             | Installs dependencies                            |
-| `pnpm dev`             | Starts local dev server at `localhost:4321`      |
-| `pnpm build`           | Build your production site to `./dist/`          |
-| `pnpm preview`         | Preview your build locally, before deploying     |
-| `pnpm astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `pnpm astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+สคริปต์จะตรวจ zone/category, รวมแท็กที่ความหมายซ้ำกัน และรวมร้านซ้ำ
+จะเพิ่มร้านก็เพิ่มลงไฟล์ใน `research/` (schema ดูได้ที่ `src/lib/meta.ts`) แล้วรันสคริปต์ใหม่

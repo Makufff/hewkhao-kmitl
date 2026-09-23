@@ -1,0 +1,1379 @@
+[
+ {
+  "name": "ร้านอาหารโกวจัน",
+  "nameEn": "Kow Jan",
+  "zone": "หัวตะเข้",
+  "location": "ริมคลองในตลาดเก่าหัวตะเข้ ถ.ฉลองกรุง",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ร้านเก่าแก่",
+   "ริมคลอง",
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "ผัดไทย",
+   "หอยทอด",
+   "กระเพาะปลา",
+   "ขนมไทยโบราณ"
+  ],
+  "price": 1,
+  "priceText": "เริ่ม 25 บาท",
+  "hours": "10:00-17:30",
+  "lat": 13.7242013,
+  "lng": 100.7888078,
+  "mapsQuery": "ร้านโกวจัน ตลาดหัวตะเข้ ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/389298kR-%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%81%E0%B8%A7%E0%B8%88%E0%B8%B1%E0%B8%99",
+  "confidence": "high"
+ },
+ {
+  "name": "ก๋วยเตี๋ยวโรงกลึง",
+  "nameEn": "Kuay Tiew Rong Klueng",
+  "zone": "หัวตะเข้",
+  "location": "ตลาดเก่าหัวตะเข้ ริมคลอง ถ.ฉลองกรุง",
+  "category": "ก๋วยเตี๋ยว/เส้น",
+  "tags": [
+   "ริมคลอง",
+   "ราคาถูก",
+   "ร้านเก่าแก่"
+  ],
+  "dishes": [
+   "เกี๊ยวกุ้งต้มยำ",
+   "ก๋วยเตี๋ยวหมู",
+   "บะหมี่เกี๊ยวกุ้ง"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "08:00-17:00",
+  "lat": 13.724224,
+  "lng": 100.789008,
+  "mapsQuery": "ก๋วยเตี๋ยวโรงกลึง ตลาดหัวตะเข้ ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/251682Bt-%E0%B8%81%E0%B9%8B%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B8%A2%E0%B8%A7%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%B6%E0%B8%87",
+  "confidence": "high"
+ },
+ {
+  "name": "สี่แยกหัวตะเข้คาเฟ่แอนด์เกสท์เฮ้าส์",
+  "nameEn": "Si Yaek Hua Takhe Cafe & Guesthouse",
+  "zone": "หัวตะเข้",
+  "location": "160 ซอยลาดกระบัง 15 ข้ามสะพานจากซอย 17",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "ริมคลอง",
+   "นั่งชิล",
+   "ราคาถูก",
+   "มีแมว"
+  ],
+  "dishes": [
+   "ขนมปังปิ้ง",
+   "มาม่าต้มยำ",
+   "ไข่กระทะ",
+   "ไอศกรีม"
+  ],
+  "price": 1,
+  "priceText": "เริ่ม 50 บาท",
+  "hours": "10:30-19:00",
+  "lat": 13.723926,
+  "lng": 100.789506,
+  "mapsQuery": "สี่แยกหัวตะเข้คาเฟ่ ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/192991sy-%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%95%E0%B8%B0%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%84%E0%B8%B2%E0%B9%80%E0%B8%9F%E0%B9%88%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%AA%E0%B8%97%E0%B9%8C%E0%B9%80%E0%B8%AE%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B9%8C",
+  "confidence": "high"
+ },
+ {
+  "name": "ณ ลาดกระบัง",
+  "nameEn": "Na Lat Krabang",
+  "zone": "หัวตะเข้",
+  "location": "316 ถ.หลวงพรต หลังตลาดเก่าหัวตะเข้",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "ริมคลอง",
+   "นั่งชิล",
+   "บ้านไม้"
+  ],
+  "dishes": [
+   "ปังเย็น",
+   "ฮันนี่โทสต์",
+   "มัทฉะมะนาวโซดา",
+   "พิซซ่าขนมปัง"
+  ],
+  "price": 2,
+  "priceText": "50-120 บาท",
+  "hours": "09:30-18:30 (ปิดจันทร์)",
+  "lat": 13.724214,
+  "lng": 100.789669,
+  "mapsQuery": "ณ ลาดกระบัง ตลาดหัวตะเข้",
+  "source": "https://www.wongnai.com/restaurants/187969BD-%E0%B8%93-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
+  "confidence": "high"
+ },
+ {
+  "name": "ชงกินกัน",
+  "nameEn": "Chong Kin Kan",
+  "zone": "หัวตะเข้",
+  "location": "ในตลาดไม้หัวตะเข้ ซอยลาดกระบัง 17 ริมคลองประเวศฯ",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "ริมคลอง",
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "ไอศกรีมมะม่วงน้ำปลาหวาน",
+   "เครื่องดื่มผลไม้",
+   "ขนมปัง"
+  ],
+  "price": 1,
+  "priceText": "เริ่ม 15 บาท",
+  "hours": "09:00-18:30",
+  "lat": 13.724,
+  "lng": 100.789,
+  "mapsQuery": "ชงกินกัน ตลาดหัวตะเข้ ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/353640KB-%E0%B8%8A%E0%B8%87%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%99",
+  "confidence": "high"
+ },
+ {
+  "name": "สเต็กเซ็ทแอนด์เซฟ ท่าเรือหัวตะเข้",
+  "nameEn": "Steak Set & Save",
+  "zone": "หัวตะเข้",
+  "location": "132/2 ถ.ฉลองกรุง ท่าเรือตลาดหัวตะเข้",
+  "category": "อาหารฝรั่ง/ฟาสต์ฟู้ด",
+  "tags": [
+   "ราคาถูก",
+   "ริมคลอง"
+  ],
+  "dishes": [
+   "สเต็กไก่",
+   "สเต็กหมู",
+   "ข้าวไก่เทริยากิ",
+   "สปาเกตตีต้มยำ"
+  ],
+  "price": 1,
+  "priceText": "เริ่ม 50 บาท",
+  "hours": "09:00-17:00",
+  "lat": 13.7243,
+  "lng": 100.7889,
+  "mapsQuery": "สเต็กเซ็ทแอนด์เซฟ ท่าเรือหัวตะเข้ ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/716856ew-%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B9%87%E0%B8%81%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%97%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C%E0%B9%80%E0%B8%8B%E0%B8%9F-%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%95%E0%B8%B0%E0%B9%80%E0%B8%82%E0%B9%89",
+  "confidence": "high"
+ },
+ {
+  "name": "รสมือแม่ กะเพราเป็ด X ข้าวมันไก่สูตรโบราณ หัวตะเข้",
+  "nameEn": null,
+  "zone": "หัวตะเข้",
+  "location": "19/1 ถ.ลาดกระบัง ใกล้ตลาดหัวตะเข้",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ร้านข้าวเช้า"
+  ],
+  "dishes": [
+   "กะเพราเป็ด",
+   "ข้าวมันไก่",
+   "แกงเผ็ดเป็ดย่าง"
+  ],
+  "price": 2,
+  "priceText": "60-100 บาท",
+  "hours": "06:00-14:00 (จ.-ส.)",
+  "lat": 13.721838512771,
+  "lng": 100.78866916049,
+  "mapsQuery": "รสมือแม่ กะเพราเป็ด หัวตะเข้ ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/487846mN-%E0%B8%A3%E0%B8%AA%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%81%E0%B8%A1%E0%B9%88-%E0%B8%81%E0%B8%B0%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%94-x-%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B9%84%E0%B8%81%E0%B9%88%E0%B8%AA%E0%B8%B9%E0%B8%95%E0%B8%A3%E0%B9%82%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%93-%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%95%E0%B8%B0%E0%B9%80%E0%B8%82%E0%B9%89",
+  "confidence": "high"
+ },
+ {
+  "name": "ก๋งเลี้ยง กาแฟโบราณ",
+  "nameEn": "Gong Liang Coffee",
+  "zone": "หัวตะเข้",
+  "location": "27/60 ซอยลาดกระบัง 17 ใกล้ตลาดอุดมผล",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "กาแฟโบราณ",
+   "เปิดเช้ามืด",
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "กาแฟโบราณ",
+   "ชาเย็น"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 60 บาท",
+  "hours": "02:00-13:00",
+  "lat": 13.7229,
+  "lng": 100.7886,
+  "mapsQuery": "ก๋งเลี้ยง กาแฟโบราณ ลาดกระบัง 17",
+  "source": "https://www.wongnai.com/restaurants/551009pX-%E0%B8%81%E0%B9%8B%E0%B8%87%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%87-%E0%B8%81%E0%B8%B2%E0%B9%81%E0%B8%9F%E0%B9%82%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%93-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
+  "confidence": "high"
+ },
+ {
+  "name": "ซิ่งฝู",
+  "nameEn": "Xingfu",
+  "zone": "หัวตะเข้",
+  "location": "27/33 ซอยลาดกระบัง 17 (เข้าซอย 50 ม.)",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "เปิดเช้า",
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "กาแฟ",
+   "ขนมปังมะพร้าวปิ้งเตาถ่าน"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 60 บาท",
+  "hours": "05:00-12:00",
+  "lat": 13.7227,
+  "lng": 100.7885,
+  "mapsQuery": "Xingfu ซิ่งฝู ลาดกระบัง 17",
+  "source": "https://www.wongnai.com/restaurants/1504390UQ-xingfu-%E0%B8%8B%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%9D%E0%B8%B9-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87-17",
+  "confidence": "high"
+ },
+ {
+  "name": "ข้าวมันไก่แปะเซง",
+  "nameEn": null,
+  "zone": "หัวตะเข้",
+  "location": "หลังตลาดสดหัวตะเข้",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ร้านเก่าแก่",
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "ข้าวมันไก่",
+   "ข้าวหมูแดง",
+   "ข้าวหมูกรอบ"
+  ],
+  "price": 1,
+  "priceText": "ประมาณ 30-50 บาท",
+  "hours": null,
+  "lat": 13.724221,
+  "lng": 100.788596,
+  "mapsQuery": "ข้าวมันไก่แปะเซง หัวตะเข้ ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/25153To-%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B9%84%E0%B8%81%E0%B9%88%E0%B9%81%E0%B8%9B%E0%B8%B0%E0%B9%80%E0%B8%8B%E0%B8%87",
+  "confidence": "medium"
+ },
+ {
+  "name": "ร้านพงษ์จิวานิช",
+  "nameEn": "Phong Jivanich",
+  "zone": "หัวตะเข้",
+  "location": "ซอยลาดกระบัง 19 ตลาดเก่าหัวตะเข้",
+  "category": "ของหวาน/เบเกอรี่",
+  "tags": [
+   "ร้านเก่าแก่",
+   "ของฝาก",
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "ขนมใบไม้",
+   "ขนมเปี๊ยะ"
+  ],
+  "price": 1,
+  "priceText": "ประมาณ 20 บาท/ชิ้น",
+  "hours": null,
+  "lat": 13.723214,
+  "lng": 100.788728,
+  "mapsQuery": "ร้านพงษ์จิวานิช ขนมเปี๊ยะ หัวตะเข้",
+  "source": "https://www.wongnai.com/restaurants/593843zP-%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%88%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%8A",
+  "confidence": "high"
+ },
+ {
+  "name": "อึ้งกิมเฮง ขนมเปี๊ยะ ขนมโบราณ",
+  "nameEn": "Ung Kim Heng",
+  "zone": "หัวตะเข้",
+  "location": "18/8 ซอยลาดกระบัง 17 ตลาดหัวตะเข้",
+  "category": "ของหวาน/เบเกอรี่",
+  "tags": [
+   "ร้านเก่าแก่",
+   "ของฝาก",
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "ขนมเปี๊ยะ",
+   "ขนมใบไม้",
+   "ขนมไหว้เจ้า",
+   "ปังปี๊บ"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 60 บาท",
+  "hours": "06:30-20:00",
+  "lat": 13.724,
+  "lng": 100.788,
+  "mapsQuery": "อึ้งกิมเฮง ตลาดหัวตะเข้ ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/1563905Cd",
+  "confidence": "high"
+ },
+ {
+  "name": "หอมพริกตำ คาเฟ่",
+  "nameEn": "Hom Prik Tam Cafe",
+  "zone": "หัวตะเข้",
+  "location": "121 ถ.ฉลองกรุง ตลาดโบราณหัวตะเข้ ใกล้สะพาน",
+  "category": "อาหารอีสาน",
+  "tags": [
+   "ริมคลอง",
+   "คาเฟ่"
+  ],
+  "dishes": [
+   "ส้มตำ",
+   "กาแฟ"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "อาหารเฉพาะ ส.-อา.",
+  "lat": 13.7242099,
+  "lng": 100.7883806,
+  "mapsQuery": "หอมพริกตำ คาเฟ่ หัวตะเข้ ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/1379840Og-%E0%B8%AB%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%95%E0%B8%B3-%E0%B8%84%E0%B8%B2%E0%B9%80%E0%B8%9F%E0%B9%88",
+  "confidence": "medium"
+ },
+ {
+  "name": "Smell Dream (กลิ่นฝัน)",
+  "nameEn": "Smell Dream",
+  "zone": "หัวตะเข้",
+  "location": "ริมคลองในตลาดเก่าหัวตะเข้",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "ริมคลอง",
+   "นั่งชิล",
+   "ไม่ใช้พลาสติก"
+  ],
+  "dishes": [
+   "กาแฟดริปเมล็ดน่าน",
+   "ขอนลอย (โซดากระเจี๊ยบ)",
+   "สไปรท์บ๊วย"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "10:00-18:00 (พฤ.-อา.)",
+  "lat": 13.724,
+  "lng": 100.789,
+  "mapsQuery": "Smell Dream กลิ่นฝัน ตลาดหัวตะเข้",
+  "source": "https://www.wongnai.com/restaurants/366083bF-smell-dream",
+  "confidence": "high"
+ },
+ {
+  "name": "Enjoy ตลาดเก่าหัวตะเข้",
+  "nameEn": "Enjoy",
+  "zone": "หัวตะเข้",
+  "location": "318 ถ.หลวงพรต ติดร้าน ณ ลาดกระบัง",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ราคาถูก",
+   "ริมคลอง"
+  ],
+  "dishes": [
+   "ข้าวหมู",
+   "กะเพราหมู",
+   "ข้าวคลุกน้ำพริก"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "10:00-18:00",
+  "lat": 13.7242,
+  "lng": 100.7898,
+  "mapsQuery": "Enjoy ตลาดเก่าหัวตะเข้ ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/569196mI-enjoy-%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%95%E0%B8%B0%E0%B9%80%E0%B8%82%E0%B9%89",
+  "confidence": "medium"
+ },
+ {
+  "name": "Happy code (แฮปปีโครด)",
+  "nameEn": "Happy Code",
+  "zone": "หัวตะเข้",
+  "location": "106 ถ.ฉลองกรุง ริมคลองใกล้ตลาดเก่าหัวตะเข้",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "ริมคลอง",
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "เครื่องดื่ม",
+   "อาหารจานเดียว"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "10:00-19:00",
+  "lat": 13.724292,
+  "lng": 100.78788,
+  "mapsQuery": "Happy code แฮปปีโครด หัวตะเข้",
+  "source": "https://www.wongnai.com/restaurants/776658HV-happy-code-%E0%B9%81%E0%B8%AE%E0%B8%9B%E0%B8%9B%E0%B8%B5%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%94",
+  "confidence": "medium"
+ },
+ {
+  "name": "เจ๊ตุ๊กตา เป็ดพะโล้ เป็ดย่างอบน้ำผึ้ง ไก่ต้ม",
+  "nameEn": null,
+  "zone": "หัวตะเข้",
+  "location": "27/56 ถ.ลาดกระบัง ตลาดหัวตะเข้",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "เปิดเช้ามืด",
+   "ร้านข้าวเช้า"
+  ],
+  "dishes": [
+   "เป็ดพะโล้",
+   "เป็ดย่างอบน้ำผึ้ง",
+   "ไก่ต้ม"
+  ],
+  "price": 2,
+  "priceText": "60-150 บาท",
+  "hours": "04:00-13:00",
+  "lat": 13.7228,
+  "lng": 100.7886,
+  "mapsQuery": "เจ๊ตุ๊กตา เป็ดพะโล้ ตลาดหัวตะเข้",
+  "source": "https://www.wongnai.com/restaurants/516734CL",
+  "confidence": "high"
+ },
+ {
+  "name": "ขนมใส่ไส้แม่พิมพ์ ตลาดหัวตะเข้",
+  "nameEn": null,
+  "zone": "หัวตะเข้",
+  "location": "ปากทางตลาดอุดมผล ซอยลาดกระบัง 17",
+  "category": "ของหวาน/เบเกอรี่",
+  "tags": [
+   "ขนมไทย",
+   "เปิดเช้า"
+  ],
+  "dishes": [
+   "ขนมใส่ไส้"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": "05:00-11:00 (ศ.-อา.)",
+  "lat": 13.722839,
+  "lng": 100.788436,
+  "mapsQuery": "ขนมใส่ไส้แม่พิมพ์ ตลาดหัวตะเข้",
+  "source": "https://www.wongnai.com/restaurants/1887550YB-%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B9%83%E0%B8%AA%E0%B9%88%E0%B9%84%E0%B8%AA%E0%B9%89%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C-%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%95%E0%B8%B0%E0%B9%80%E0%B8%82%E0%B9%89",
+  "confidence": "medium"
+ },
+ {
+  "name": "โรงนึ่งปลาทูตลาดหัวตะเข้ (กอบกิจเจริญ)",
+  "nameEn": null,
+  "zone": "หัวตะเข้",
+  "location": "302 ถ.ลาดกระบัง ตลาดหัวตะเข้",
+  "category": "อาหารทะเล",
+  "tags": [
+   "ตลาดเช้า",
+   "ซื้อกลับบ้าน"
+  ],
+  "dishes": [
+   "ปลาทูนึ่ง"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": "04:00-12:00",
+  "lat": 13.723,
+  "lng": 100.788,
+  "mapsQuery": "โรงนึ่งปลาทู ตลาดหัวตะเข้ ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/1149245FX",
+  "confidence": "medium"
+ },
+ {
+  "name": "ร้านริมน้ำ @หัวตะเข้",
+  "nameEn": "Rim Nam @Hua Takhe",
+  "zone": "หัวตะเข้",
+  "location": "ริมคลอง แขวงทับยาว ใกล้ตลาดหัวตะเข้",
+  "category": "อื่นๆ",
+  "tags": [
+   "ริมคลอง",
+   "เปิดดึก"
+  ],
+  "dishes": [
+   "อาหารไทย"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": "16:00-24:00",
+  "lat": 13.722372,
+  "lng": 100.78982,
+  "mapsQuery": "ร้านริมน้ำ หัวตะเข้ ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/709894IW-%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%99%E0%B9%89%E0%B8%B3-%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%95%E0%B8%B0%E0%B9%80%E0%B8%82%E0%B9%89",
+  "confidence": "medium"
+ },
+ {
+  "name": "อาหารตามสั่ง หน้าโรงเจหัวตะเข้",
+  "nameEn": null,
+  "zone": "หัวตะเข้",
+  "location": "ปากทางที่จอดรถโรงเจหัวตะเข้",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ราคาถูก",
+   "สตรีทฟู้ด"
+  ],
+  "dishes": [
+   "ผัดกะเพราเนื้อ"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 60 บาท",
+  "hours": null,
+  "lat": 13.72232,
+  "lng": 100.78738,
+  "mapsQuery": "อาหารตามสั่ง หน้าโรงเจหัวตะเข้ ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/207307vt-%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87-%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%95%E0%B8%B0%E0%B9%80%E0%B8%82%E0%B9%89",
+  "confidence": "medium"
+ },
+ {
+  "name": "มากินยำ ตำ แซ่บเว่อร์",
+  "nameEn": null,
+  "zone": "หัวตะเข้",
+  "location": "184 ชุมชนหลวงพรต ถ.หลวงพรต ใกล้ตลาดหัวตะเข้",
+  "category": "อาหารอีสาน",
+  "tags": [
+   "เปิดดึก",
+   "รสจัด"
+  ],
+  "dishes": [
+   "ยำปูม้า",
+   "คอหมูย่าง",
+   "ส้มตำปูม้า",
+   "ต้มแซ่บซี่โครงหมู"
+  ],
+  "price": 2,
+  "priceText": "100-250 บาท",
+  "hours": "11:00-24:00",
+  "lat": 13.724836759723,
+  "lng": 100.78682936249,
+  "mapsQuery": "มากินยำ ตำ แซ่บเว่อร์ ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/433657Zo-%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%A2%E0%B8%B3-%E0%B8%95%E0%B8%B3-%E0%B9%81%E0%B8%8B%E0%B9%88%E0%B8%9A%E0%B9%80%E0%B8%A7%E0%B9%88%E0%B8%AD%E0%B8%A3%E0%B9%8C",
+  "confidence": "high"
+ },
+ {
+  "name": "บัวลอยปริญญา สาขาลาดกระบัง",
+  "nameEn": "Bua Loy Parinya",
+  "zone": "หัวตะเข้",
+  "location": "2654/37 ถ.ลาดกระบัง ใกล้ตลาดหัวตะเข้",
+  "category": "ของหวาน/เบเกอรี่",
+  "tags": [
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "บัวลอยลาวา",
+   "ข้าวขาหมู"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "10:00-20:00",
+  "lat": 13.721074,
+  "lng": 100.787491,
+  "mapsQuery": "บัวลอยปริญญา ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/435189xT-%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%AA%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
+  "confidence": "high"
+ },
+ {
+  "name": "เนื้อย่าง ชาบู by hugbeef ซอยเทวดา",
+  "nameEn": "Hugbeef",
+  "zone": "หัวตะเข้",
+  "location": "2654/46 ลาดกระบัง 54/3 หลัง ธ.กสิกรไทย",
+  "category": "ปิ้งย่าง/หมูกระทะ",
+  "tags": [
+   "แอร์"
+  ],
+  "dishes": [
+   "เนื้อย่าง",
+   "ชาบูเนื้อ"
+  ],
+  "price": 3,
+  "priceText": "101-250 บาท",
+  "hours": "11:30-21:30",
+  "lat": 13.721369,
+  "lng": 100.787567,
+  "mapsQuery": "เนื้อย่าง ชาบู hugbeef ซอยเทวดา ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/254630Cr-%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87-%E0%B8%8A%E0%B8%B2%E0%B8%9A%E0%B8%B9byhugbeef-%E0%B8%8B%E0%B8%AD%E0%B8%A2%E0%B9%80%E0%B8%97%E0%B8%A7%E0%B8%94%E0%B8%B2",
+  "confidence": "high"
+ },
+ {
+  "name": "สุกี้ดารา ลาดกระบัง",
+  "nameEn": "Suki Dara",
+  "zone": "หัวตะเข้",
+  "location": "ปากซอยลาดกระบัง 54/15 ถ.ลาดกระบัง",
+  "category": "บุฟเฟต์",
+  "tags": [
+   "แอร์",
+   "เปิดดึก",
+   "คุ้ม"
+  ],
+  "dishes": [
+   "หมูสไลซ์",
+   "เนื้อชาบู",
+   "ท้องแซลมอน"
+  ],
+  "price": 3,
+  "priceText": "บุฟเฟต์ 219 บาท + น้ำ 35",
+  "hours": "10:00-23:00",
+  "lat": 13.7218,
+  "lng": 100.7852,
+  "mapsQuery": "สุกี้ดารา ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/254448tS-%E0%B8%AA%E0%B8%B8%E0%B8%81%E0%B8%B5%E0%B9%89%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
+  "confidence": "high"
+ },
+ {
+  "name": "The Good Time Cafe & Restaurant",
+  "nameEn": null,
+  "zone": "หัวตะเข้",
+  "location": "2654/57 ซ.ลาดกระบัง 54/3 สุวรรณภูมิทาวน์",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "แอร์",
+   "นั่งชิล"
+  ],
+  "dishes": [
+   "ข้าวผัดมันกุ้ง",
+   "ข้าวผัดต้มยำ",
+   "คั่วไก่",
+   "มัทฉะลาเต้"
+  ],
+  "price": 2,
+  "priceText": "101-250 บาท",
+  "hours": "07:00-17:00 (ปิดจันทร์)",
+  "lat": 13.721128,
+  "lng": 100.78732,
+  "mapsQuery": "The Good Time Cafe ลาดกระบัง 54/3",
+  "source": "https://www.wongnai.com/restaurants/376891Ln-the-good-time-cafe-restaurant",
+  "confidence": "high"
+ },
+ {
+  "name": "เปี๊ยกส้มตำไก่ย่างหนังกรอบ",
+  "nameEn": null,
+  "zone": "หัวตะเข้",
+  "location": "2325 ถ.ลาดกระบัง ใกล้ตลาดหัวตะเข้",
+  "category": "อาหารอีสาน",
+  "tags": [],
+  "dishes": [
+   "ส้มตำปู",
+   "ส้มตำไทย",
+   "ไก่ย่างหนังกรอบ"
+  ],
+  "price": 2,
+  "priceText": "70-150 บาท",
+  "hours": "09:30-17:00 (จ.-ส.)",
+  "lat": 13.724,
+  "lng": 100.786,
+  "mapsQuery": "เปี๊ยกส้มตำไก่ย่างหนังกรอบ ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/121247gj-%E0%B9%80%E0%B8%9B%E0%B8%B5%E0%B9%8A%E0%B8%A2%E0%B8%81%E0%B8%AA%E0%B9%89%E0%B8%A1%E0%B8%95%E0%B8%B3%E0%B9%84%E0%B8%81%E0%B9%88%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%9A",
+  "confidence": "high"
+ },
+ {
+  "name": "ก๋วยเตี๋ยวสามหมวย",
+  "nameEn": "Sam Muay Noodles",
+  "zone": "หัวตะเข้",
+  "location": "ถ.ลาดกระบัง ซอยจระเข้น้อย (ยุคลรัตน์คอนโด)",
+  "category": "ก๋วยเตี๋ยว/เส้น",
+  "tags": [
+   "ราคาถูก",
+   "ร้านดัง"
+  ],
+  "dishes": [
+   "ก๋วยเตี๋ยวหมูต้มยำ",
+   "เล็กแห้ง",
+   "เกี๊ยวกรอบ"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "06:30-14:30 (ปิดจันทร์)",
+  "lat": 13.720636,
+  "lng": 100.79171,
+  "mapsQuery": "ก๋วยเตี๋ยวสามหมวย ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/124523wP-%E0%B8%81%E0%B9%8B%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B8%A2%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%A2",
+  "confidence": "high"
+ },
+ {
+  "name": "ร้านอาหารพงศกรบูติครีสอร์ท",
+  "nameEn": "Pongsakorn Boutique Resort Restaurant",
+  "zone": "หลวงแพ่ง/อ่อนนุช-ลาดกระบัง",
+  "location": "81/7-8 ซอยหลวงแพ่ง 2 ทับยาว",
+  "category": "อาหารจีน",
+  "tags": [
+   "รับกลุ่มใหญ่",
+   "บรรยากาศดี"
+  ],
+  "dishes": [
+   "กุ้งทอดซอสมะขาม",
+   "ไก่ผัดเม็ดมะม่วง",
+   "ปลาทอดซอสมะนาว",
+   "ต้มยำทะเลน้ำข้น"
+  ],
+  "price": 3,
+  "priceText": "101-250 บาท",
+  "hours": "11:00-21:30",
+  "lat": 13.718853,
+  "lng": 100.789395,
+  "mapsQuery": "ร้านอาหารพงศกรบูติครีสอร์ท หลวงแพ่ง ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/436014Rn-%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%9A%E0%B8%B9%E0%B8%95%E0%B8%B4%E0%B8%84%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%97",
+  "confidence": "high"
+ },
+ {
+  "name": "ป.ประทีปก๋วยเตี๋ยวเรือ (สาขาหัวตะเข้)",
+  "nameEn": "P. Prateep Boat Noodles",
+  "zone": "หลวงแพ่ง/อ่อนนุช-ลาดกระบัง",
+  "location": "613/1 ถ.หลวงแพ่ง ทับยาว ริมคลอง",
+  "category": "ก๋วยเตี๋ยว/เส้น",
+  "tags": [
+   "ริมคลอง",
+   "ราคาถูก",
+   "รสจัด"
+  ],
+  "dishes": [
+   "ก๋วยเตี๋ยวเรือเนื้อน้ำตก",
+   "ก๋วยเตี๋ยวเรือหมู"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "09:00-17:00",
+  "lat": 13.719,
+  "lng": 100.799,
+  "mapsQuery": "ป.ประทีปก๋วยเตี๋ยวเรือ หลวงแพ่ง ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/2304520GE-%E0%B8%9B-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B5%E0%B8%9B%E0%B8%81%E0%B9%8B%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B8%A2%E0%B8%A7%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
+  "confidence": "high"
+ },
+ {
+  "name": "สมปองก๋วยเตี๋ยวเนื้อตุ๋น",
+  "nameEn": "Sompong Beef Noodles",
+  "zone": "หลวงแพ่ง/อ่อนนุช-ลาดกระบัง",
+  "location": "745/1 ถ.หลวงแพ่ง",
+  "category": "อาหารมุสลิม/ฮาลาล",
+  "tags": [
+   "ฮาลาล",
+   "ร้านดัง"
+  ],
+  "dishes": [
+   "ก๋วยเตี๋ยวเนื้อตุ๋น",
+   "ลูกชิ้นเนื้อ"
+  ],
+  "price": 2,
+  "priceText": "80-125 บาท",
+  "hours": "06:30-15:00",
+  "lat": 13.7218,
+  "lng": 100.7911,
+  "mapsQuery": "สมปองก๋วยเตี๋ยวเนื้อตุ๋น หลวงแพ่ง ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/412947Qw-%E0%B8%AA%E0%B8%A1%E0%B8%9B%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B9%8B%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B8%A2%E0%B8%A7%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%95%E0%B8%B8%E0%B9%8B%E0%B8%99",
+  "confidence": "high"
+ },
+ {
+  "name": "เจ๊ลุ่ยก๋วยเตี๋ยวตามใจ",
+  "nameEn": null,
+  "zone": "หลวงแพ่ง/อ่อนนุช-ลาดกระบัง",
+  "location": "267 ถ.หลวงแพ่ง ตรงข้าม สน.จรเข้น้อย",
+  "category": "ก๋วยเตี๋ยว/เส้น",
+  "tags": [
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "บะหมี่ต้มยำพิเศษ",
+   "เกี๊ยวหมู"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "07:00-16:00 (ปิดอาทิตย์)",
+  "lat": 13.721437,
+  "lng": 100.792092,
+  "mapsQuery": "เจ๊ลุ่ยก๋วยเตี๋ยวตามใจ หลวงแพ่ง",
+  "source": "https://www.wongnai.com/restaurants/238034Sf-%E0%B9%80%E0%B8%88%E0%B9%8A%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A2%E0%B8%81%E0%B9%8B%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B8%A2%E0%B8%A7%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B9%83%E0%B8%88",
+  "confidence": "high"
+ },
+ {
+  "name": "แป๊ะย่างให้ หัวตะเข้",
+  "nameEn": null,
+  "zone": "หลวงแพ่ง/อ่อนนุช-ลาดกระบัง",
+  "location": "ลุมพินีทาวน์วิลล์ ซอย 20 ถ.หลวงแพ่ง ทับยาว",
+  "category": "ปิ้งย่าง/หมูกระทะ",
+  "tags": [
+   "หมูกระทะ"
+  ],
+  "dishes": [
+   "หมูกระทะ"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": "ส. 15:00-21:00",
+  "lat": 13.717,
+  "lng": 100.793,
+  "mapsQuery": "แป๊ะย่างให้ หัวตะเข้ ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/3855987qI-%E0%B9%81%E0%B8%9B%E0%B9%8A%E0%B8%B0%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B9%89-%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%95%E0%B8%B0%E0%B9%80%E0%B8%82%E0%B9%89",
+  "confidence": "medium"
+ },
+ {
+  "name": "747 Cafe",
+  "nameEn": "747 Cafe",
+  "zone": "หลวงแพ่ง/อ่อนนุช-ลาดกระบัง",
+  "location": "ถ.หลวงแพ่ง ทับยาว (คาเฟ่ในเครื่องบินโบอิ้ง 747)",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "ถ่ายรูป",
+   "ริมน้ำ"
+  ],
+  "dishes": [
+   "น้ำส้มคั้น",
+   "บลูเบอร์รี่ชีสพาย",
+   "ลาเต้เย็น"
+  ],
+  "price": 3,
+  "priceText": "ค่าเข้า 120 บาท (แลกเครื่องดื่ม)",
+  "hours": "08:00-18:00",
+  "lat": 13.718295,
+  "lng": 100.802036,
+  "mapsQuery": "747 Cafe หลวงแพ่ง ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/704866dn-747-cafe",
+  "confidence": "high"
+ },
+ {
+  "name": "นัวริมน้ำ อีสานคาเฟ่",
+  "nameEn": "Nua Rim Naam Isan Cafe",
+  "zone": "หลวงแพ่ง/อ่อนนุช-ลาดกระบัง",
+  "location": "627 ถ.หลวงแพ่ง ทับยาว ในโครงการ 747 Cafe ริมน้ำ",
+  "category": "อาหารอีสาน",
+  "tags": [
+   "ริมน้ำ",
+   "นั่งชิล"
+  ],
+  "dishes": [
+   "ส้มตำกุ้งสด",
+   "ลาบ",
+   "ไก่ทอดน้ำปลา",
+   "คอหมูย่าง"
+  ],
+  "price": 3,
+  "priceText": "100-300 บาท",
+  "hours": "11:00-20:00",
+  "lat": 13.7187,
+  "lng": 100.8024,
+  "mapsQuery": "นัวริมน้ำ อีสานคาเฟ่ หลวงแพ่ง ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/2050760iW-%E0%B8%99%E0%B8%B1%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%99%E0%B9%89%E0%B8%B3-%E0%B8%AD%E0%B8%B5%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%B2%E0%B9%80%E0%B8%9F%E0%B9%88-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
+  "confidence": "medium"
+ },
+ {
+  "name": "หมีพ่นไฟ ลาดกระบัง หัวตะเข้",
+  "nameEn": "The Fire Bear",
+  "zone": "หลวงแพ่ง/อ่อนนุช-ลาดกระบัง",
+  "location": "13 ถ.หลวงแพ่ง ทับยาว",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "ชานมไข่มุก"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "09:00-20:00",
+  "lat": 13.718,
+  "lng": 100.801,
+  "mapsQuery": "หมีพ่นไฟ หัวตะเข้ ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/607287RF-%E0%B8%AB%E0%B8%A1%E0%B8%B5%E0%B8%9E%E0%B9%88%E0%B8%99%E0%B9%84%E0%B8%9F-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87-%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%95%E0%B8%B0%E0%B9%80%E0%B8%82%E0%B9%89",
+  "confidence": "medium"
+ },
+ {
+  "name": "จุ้ยซิมอร่อย 醉心好吃",
+  "nameEn": "Jui Sim Aroy",
+  "zone": "หลวงแพ่ง/อ่อนนุช-ลาดกระบัง",
+  "location": "ถ.หลวงแพ่ง ทับยาว ตรงข้ามโตโยต้า",
+  "category": "อาหารจีน",
+  "tags": [
+   "แอร์",
+   "รีวิวดี"
+  ],
+  "dishes": [
+   "ไก่ดำตุ๋นเหล้าจีน",
+   "ไก่ผัดพริกเกลือแบบฮากกา",
+   "ข้าวผัดจุ้ยซิม",
+   "เกี๊ยวทอด"
+  ],
+  "price": 4,
+  "priceText": "251-500 บาท",
+  "hours": "09:00-20:00",
+  "lat": 13.7189,
+  "lng": 100.7982,
+  "mapsQuery": "จุ้ยซิมอร่อย หลวงแพ่ง ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/547695Ds-%E0%B8%88%E0%B8%B8%E0%B9%89%E0%B8%A2%E0%B8%8B%E0%B8%B4%E0%B8%A1",
+  "confidence": "high"
+ },
+ {
+  "name": "ชาชักๆ โรตีนมสด & ปังปิ้ง",
+  "nameEn": null,
+  "zone": "หลวงแพ่ง/อ่อนนุช-ลาดกระบัง",
+  "location": "หมู่บ้านเอื้ออาทรลาดกระบัง 1 ตึก 9 ถ.หลวงแพ่ง",
+  "category": "ของหวาน/เบเกอรี่",
+  "tags": [
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "โรตีนมสด",
+   "ชาชัก",
+   "ขนมปังปิ้ง"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 60 บาท",
+  "hours": "09:00-17:00 (ศ.-อา.)",
+  "lat": 13.71,
+  "lng": 100.8,
+  "mapsQuery": "ชาชักๆ โรตีนมสด เอื้ออาทร หลวงแพ่ง",
+  "source": "https://www.wongnai.com/restaurants/2176242im-%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%B1%E0%B8%81%E0%B9%86",
+  "confidence": "medium"
+ },
+ {
+  "name": "กะเพราทูโก By ชากะปัง",
+  "nameEn": null,
+  "zone": "หลวงแพ่ง/อ่อนนุช-ลาดกระบัง",
+  "location": "เอื้ออาทรลาดกระบัง 1 ตึก 9 ถ.หลวงแพ่ง",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ราคาถูก",
+   "เปิดดึก"
+  ],
+  "dishes": [
+   "ข้าวกะเพรา"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "08:00-22:00",
+  "lat": 13.714,
+  "lng": 100.8,
+  "mapsQuery": "กะเพราทูโก หลวงแพ่ง ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/3172299YW-%E0%B8%81%E0%B8%B0%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B8%97%E0%B8%B9%E0%B9%82%E0%B8%81",
+  "confidence": "medium"
+ },
+ {
+  "name": "เดชาหัวปลาหม้อไฟ (ก๋วยเตี๋ยวปลา)",
+  "nameEn": "Decha Fish Head Hotpot",
+  "zone": "หลวงแพ่ง/อ่อนนุช-ลาดกระบัง",
+  "location": "116/9 ถ.หลวงแพ่ง ทับยาว",
+  "category": "ก๋วยเตี๋ยว/เส้น",
+  "tags": [
+   "ราคาถูก",
+   "ร้านครอบครัว"
+  ],
+  "dishes": [
+   "หัวปลาหม้อไฟ",
+   "ก๋วยเตี๋ยวปลา",
+   "ต้มยำปลา"
+  ],
+  "price": 2,
+  "priceText": "60-150 บาท",
+  "hours": "08:00-16:00",
+  "lat": 13.7151,
+  "lng": 100.8084,
+  "mapsQuery": "เดชาหัวปลาหม้อไฟ หลวงแพ่ง ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/1152961zc-%E0%B9%80%E0%B8%94%E0%B8%8A%E0%B8%B2%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%AB%E0%B8%A1%E0%B9%89%E0%B8%AD%E0%B9%84%E0%B8%9F-%E0%B8%81%E0%B9%8B%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B8%A2%E0%B8%A7%E0%B8%9B%E0%B8%A5%E0%B8%B2",
+  "confidence": "high"
+ },
+ {
+  "name": "ไก่ฟืน ลาดกระบัง",
+  "nameEn": "Gai Fuen",
+  "zone": "หลวงแพ่ง/อ่อนนุช-ลาดกระบัง",
+  "location": "ถ.หลวงแพ่ง ทับยาว",
+  "category": "อาหารจีน",
+  "tags": [
+   "รับกลุ่มใหญ่"
+  ],
+  "dishes": [
+   "ไก่ฟืน",
+   "ไก่ดำตุ๋น",
+   "เนื้อแพะ",
+   "เต้าหู้"
+  ],
+  "price": 4,
+  "priceText": "501-1000 บาท (สั่งแบ่งกัน)",
+  "hours": "12:00-22:00",
+  "lat": 13.7149811,
+  "lng": 100.8113991,
+  "mapsQuery": "ไก่ฟืน ลาดกระบัง หลวงแพ่ง",
+  "source": "https://www.wongnai.com/restaurants/2678798wo-%E0%B9%84%E0%B8%81%E0%B9%88%E0%B8%9F%E0%B8%B7%E0%B8%99-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
+  "confidence": "high"
+ },
+ {
+  "name": "ครัวบ้านเจ้าพระยา",
+  "nameEn": "Khrua Ban Chao Phraya",
+  "zone": "หลวงแพ่ง/อ่อนนุช-ลาดกระบัง",
+  "location": "ถ.หลวงแพ่ง ริมคลอง",
+  "category": "อาหารทะเล",
+  "tags": [
+   "ริมคลอง",
+   "บรรยากาศดี"
+  ],
+  "dishes": [
+   "น้ำพริกไข่ปู",
+   "ต้มยำปลาคัง",
+   "ยำปูเย็น",
+   "กุ้งแช่น้ำปลา"
+  ],
+  "price": 3,
+  "priceText": "101-250 บาท",
+  "hours": "11:00-21:00",
+  "lat": 13.707261,
+  "lng": 100.833904,
+  "mapsQuery": "ครัวบ้านเจ้าพระยา หลวงแพ่ง ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/65333hS-%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A7%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B2",
+  "confidence": "high"
+ },
+ {
+  "name": "โกเฮง ครบเครื่องเรื่องตุ๋น สาขาหลวงแพ่ง",
+  "nameEn": "Ko Heng",
+  "zone": "หลวงแพ่ง/อ่อนนุช-ลาดกระบัง",
+  "location": "70 ถ.หลวงแพ่ง ขุมทอง",
+  "category": "ก๋วยเตี๋ยว/เส้น",
+  "tags": [
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "ก๋วยเตี๋ยวตุ๋น",
+   "เนื้อตุ๋น"
+  ],
+  "price": 1,
+  "priceText": "ต่ำกว่า 100 บาท",
+  "hours": "09:00-20:00",
+  "lat": 13.703078664314551,
+  "lng": 100.84058177404398,
+  "mapsQuery": "โกเฮง ครบเครื่องเรื่องตุ๋น หลวงแพ่ง",
+  "source": "https://www.wongnai.com/restaurants/2244780RI-%E0%B9%82%E0%B8%81%E0%B9%80%E0%B8%AE%E0%B8%87",
+  "confidence": "medium"
+ },
+ {
+  "name": "ติดนัว หลวงแพ่ง อีสานฮาลาล",
+  "nameEn": null,
+  "zone": "หลวงแพ่ง/อ่อนนุช-ลาดกระบัง",
+  "location": "ซอยลำต้อยติ่ง 1 แยก 2 ขุมทอง",
+  "category": "อาหารมุสลิม/ฮาลาล",
+  "tags": [
+   "ฮาลาล",
+   "อีสาน"
+  ],
+  "dishes": [
+   "ส้มตำ",
+   "อาหารอีสานฮาลาล"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": "10:30-17:00 (ส.-อา.)",
+  "lat": 13.707596962569694,
+  "lng": 100.84535426020895,
+  "mapsQuery": "ติดนัว หลวงแพ่ง อีสานฮาลาล",
+  "source": "https://www.wongnai.com/restaurants/2539568oh-%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%99%E0%B8%B1%E0%B8%A7",
+  "confidence": "medium"
+ },
+ {
+  "name": "บ้านไม้คาเฟ่ ตลาดหลวงแพ่ง",
+  "nameEn": "Wooden House Cafe",
+  "zone": "หลวงแพ่ง/อ่อนนุช-ลาดกระบัง",
+  "location": "ตลาดหลวงแพ่ง ซอย 5 ขุมทอง ริมน้ำ",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "ริมน้ำ",
+   "แอร์",
+   "นั่งชิล"
+  ],
+  "dishes": [
+   "สปาเกตตีขี้เมาทะเล",
+   "สลัดแซลมอน",
+   "บิงซูเมลอน",
+   "คาราเมลมิลค์เชค"
+  ],
+  "price": 3,
+  "priceText": "101-250 บาท",
+  "hours": "11:00-18:00 (ปิดอังคาร-พุธ)",
+  "lat": 13.699186,
+  "lng": 100.855076,
+  "mapsQuery": "บ้านไม้คาเฟ่ ตลาดหลวงแพ่ง ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/2491974ZO-%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%84%E0%B8%A1%E0%B9%89%E0%B8%84%E0%B8%B2%E0%B9%80%E0%B8%9F%E0%B9%88",
+  "confidence": "high"
+ },
+ {
+  "name": "ปิ้ง BUFFET หลวงแพ่ง",
+  "nameEn": "Ping Buffet",
+  "zone": "หลวงแพ่ง/อ่อนนุช-ลาดกระบัง",
+  "location": "132/1 ม.1 ถ.หลวงแพ่ง ทับยาว",
+  "category": "บุฟเฟต์",
+  "tags": [
+   "บุฟเฟต์",
+   "เปิดเย็น"
+  ],
+  "dishes": [
+   "หมูกระทะ",
+   "จิ้มจุ่ม",
+   "ไอศกรีม"
+  ],
+  "price": 3,
+  "priceText": "219-299 บาท",
+  "hours": "17:00-23:00 (ปิดพุธ)",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ปิ้ง BUFFET หลวงแพ่ง ลาดกระบัง",
+  "source": "https://www.lemon8-app.com/experience/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%94%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87-%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B9%81%E0%B8%9E%E0%B9%88%E0%B8%87?region=th",
+  "confidence": "medium"
+ },
+ {
+  "name": "BANDA Coffee & Etc.",
+  "nameEn": "BANDA Coffee",
+  "zone": "หลวงแพ่ง/อ่อนนุช-ลาดกระบัง",
+  "location": "อาคารลุมพินีทาวน์วิลล์ ถ.หลวงแพ่ง",
+  "category": "คาเฟ่/เครื่องดื่ม",
+  "tags": [
+   "มินิมอล",
+   "แอร์"
+  ],
+  "dishes": [
+   "กาแฟ",
+   "บราวนี่",
+   "บานอฟฟี่"
+  ],
+  "price": 2,
+  "priceText": null,
+  "hours": "07:30-17:30",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "BANDA Coffee ลุมพินีทาวน์วิลล์ หลวงแพ่ง ลาดกระบัง",
+  "source": "https://www.lemon8-app.com/experience/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%94%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87-%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B9%81%E0%B8%9E%E0%B9%88%E0%B8%87?region=th",
+  "confidence": "medium"
+ },
+ {
+  "name": "ครัวระเบียงน้ำ ลาดกระบัง",
+  "nameEn": "Kruarabiengnam",
+  "zone": "หลวงแพ่ง/อ่อนนุช-ลาดกระบัง",
+  "location": "1107 ซอยลาดกระบัง 5/2 ริมคลองประเวศ",
+  "category": "อื่นๆ",
+  "tags": [
+   "ริมคลอง",
+   "ดนตรีสด",
+   "บรรยากาศดี"
+  ],
+  "dishes": [
+   "ยำผักบุ้งกรอบ",
+   "ทอดมันปลากราย",
+   "หมูทอดเหล้าจีน",
+   "ต้มข่าไก่"
+  ],
+  "price": 3,
+  "priceText": "180-250 บาท/จาน",
+  "hours": "10:30-21:30 (ปิดจันทร์)",
+  "lat": 13.723769,
+  "lng": 100.747787,
+  "mapsQuery": "ครัวระเบียงน้ำ ลาดกระบัง 5/2",
+  "source": "https://www.wongnai.com/restaurants/kruarabiengnam",
+  "confidence": "high"
+ },
+ {
+  "name": "ร้านโคม ลาดกระบัง",
+  "nameEn": "Khome Restaurant",
+  "zone": "หลวงแพ่ง/อ่อนนุช-ลาดกระบัง",
+  "location": "66 ซอยลาดกระบัง 13/5 ริมน้ำ",
+  "category": "อื่นๆ",
+  "tags": [
+   "ริมน้ำ",
+   "ย้อนยุค",
+   "ราคาไม่แพง"
+  ],
+  "dishes": [
+   "ห่อหมกทะเล",
+   "ต้มข่าไก่",
+   "ปูผัดผงกะหรี่",
+   "กุ้งแช่น้ำปลา"
+  ],
+  "price": 2,
+  "priceText": "40-200 บาท",
+  "hours": "11:00-21:00 (อา. 15:00-21:00)",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ร้านโคม ลาดกระบัง 13/5",
+  "source": "https://www.wongnai.com/restaurants/8240Gx-%E0%B9%82%E0%B8%84%E0%B8%A1",
+  "confidence": "high"
+ },
+ {
+  "name": "ครัวริมนที",
+  "nameEn": "Krua Rim Nathee",
+  "zone": "หลวงแพ่ง/อ่อนนุช-ลาดกระบัง",
+  "location": "ซอยลาดกระบัง 1 ในวัดลานบุญ ริมคลอง",
+  "category": "อื่นๆ",
+  "tags": [
+   "ริมคลอง",
+   "ให้อาหารปลา",
+   "ราคาประหยัด"
+  ],
+  "dishes": [
+   "ข้าวคลุกกะปิ",
+   "แกงส้มปลาช่อน",
+   "น้ำพริกปลาทู",
+   "ยำกบ"
+  ],
+  "price": 2,
+  "priceText": "80-200 บาท",
+  "hours": "10:00-21:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ครัวริมนที วัดลานบุญ ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/6331nf-%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%99%E0%B8%97%E0%B8%B5",
+  "confidence": "high"
+ },
+ {
+  "name": "คูณสินเป็ดย่าง ลาดกระบัง",
+  "nameEn": "Koon Sin Roast Duck",
+  "zone": "หลวงแพ่ง/อ่อนนุช-ลาดกระบัง",
+  "location": "3 ซอยลาดกระบัง 7 ถ.อ่อนนุช-ลาดกระบัง",
+  "category": "ข้าว/อาหารตามสั่ง",
+  "tags": [
+   "ร้านดัง",
+   "ร้านเก่าแก่"
+  ],
+  "dishes": [
+   "ข้าวหน้าเป็ด",
+   "เป็ดย่างน้ำผึ้ง",
+   "หมูกรอบ"
+  ],
+  "price": 1,
+  "priceText": "50-70 บาท/จาน",
+  "hours": "07:00-16:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "คูณสินเป็ดย่าง ลาดกระบัง 7",
+  "source": "https://www.wongnai.com/restaurants/14334pU-%E0%B8%84%E0%B8%B9%E0%B8%93%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%94%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
+  "confidence": "high"
+ },
+ {
+  "name": "ป้าเภา ลาดกระบัง",
+  "nameEn": "Pa Phao",
+  "zone": "หลวงแพ่ง/อ่อนนุช-ลาดกระบัง",
+  "location": "933/1 ซอยลาดกระบัง 3/3 ถ.อ่อนนุช-ลาดกระบัง",
+  "category": "อื่นๆ",
+  "tags": [
+   "บรรยากาศย้อนวัย",
+   "ที่จอดรถ"
+  ],
+  "dishes": [
+   "ปูนิ่มทอดกระเทียม",
+   "หมูสามชั้นทอดพริกเกลือ",
+   "คะน้าน้ำมันหอย",
+   "กะเพราหมูไข่ดาว"
+  ],
+  "price": 3,
+  "priceText": "80-250 บาท",
+  "hours": "11:00-22:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ป้าเภา ลาดกระบัง 3/3",
+  "source": "https://www.wongnai.com/restaurants/248173wX-%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%A0%E0%B8%B2-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87-lat-krabang",
+  "confidence": "high"
+ },
+ {
+  "name": "ครัวเมืองเว้ ลาว ญวน",
+  "nameEn": "Kruea Muang Wae",
+  "zone": "หลวงแพ่ง/อ่อนนุช-ลาดกระบัง",
+  "location": "ซอยลาดกระบัง 1/5 ถ.ลาดกระบัง",
+  "category": "อื่นๆ",
+  "tags": [
+   "อาหารเวียดนาม"
+  ],
+  "dishes": [
+   "แหนมเนือง",
+   "เฝอเนื้อ",
+   "ขาหมูตุ๋น",
+   "บั๋นหมี่"
+  ],
+  "price": 2,
+  "priceText": "เริ่ม 95 บาท",
+  "hours": "10:30-21:30",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ครัวเมืองเว้ ลาว ญวน ลาดกระบัง",
+  "source": "https://www.wongnai.com/listings/latkrabang-restaurants",
+  "confidence": "high"
+ },
+ {
+  "name": "ก๋วยเตี๋ยวเรือป้าจุก",
+  "nameEn": null,
+  "zone": "หัวตะเข้",
+  "location": "ริมคลองหัวตะเข้ ลาดกระบัง",
+  "category": "ก๋วยเตี๋ยว/เส้น",
+  "tags": [
+   "ริมคลอง",
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "ก๋วยเตี๋ยวเรือ"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "ก๋วยเตี๋ยวเรือป้าจุก หัวตะเข้ ลาดกระบัง",
+  "source": "https://www.tiktok.com/@happyretire_official/video/7378806738474061073",
+  "confidence": "medium"
+ },
+ {
+  "name": "At Home Cafe & Eatery",
+  "nameEn": "At Home Cafe & Eatery",
+  "zone": "หลวงแพ่ง/อ่อนนุช-ลาดกระบัง",
+  "location": "458/4-8 The European Town ซอยลาดกระบัง 24/1",
+  "category": "อาหารฝรั่ง/ฟาสต์ฟู้ด",
+  "tags": [
+   "แอร์",
+   "ไม่ใส่ผงชูรส"
+  ],
+  "dishes": [
+   "All day breakfast",
+   "ฟิชแอนด์ชิปส์",
+   "สเต็กเนื้อ"
+  ],
+  "price": 3,
+  "priceText": "150-350 บาท",
+  "hours": "06:00-22:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "At Home Cafe & Eatery ลาดกระบัง 24/1",
+  "source": "https://www.wongnai.com/restaurants/athomecafeandeatery",
+  "confidence": "high"
+ },
+ {
+  "name": "อิ่มเอิบ คั่วไก่",
+  "nameEn": null,
+  "zone": "หลวงแพ่ง/อ่อนนุช-ลาดกระบัง",
+  "location": "ซอยลาดกระบัง 20/2",
+  "category": "ก๋วยเตี๋ยว/เส้น",
+  "tags": [
+   "ราคาถูก"
+  ],
+  "dishes": [
+   "ก๋วยเตี๋ยวคั่วไก่",
+   "ไก่ทอด"
+  ],
+  "price": 1,
+  "priceText": null,
+  "hours": "10:00-19:00",
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "อิ่มเอิบ คั่วไก่ ลาดกระบัง 20/2",
+  "source": "https://www.grab.com/th/en/food-blog/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87/",
+  "confidence": "medium"
+ },
+ {
+  "name": "โคขุนคุณทอง อ่อนนุช-ลาดกระบัง",
+  "nameEn": "Kokhun Khun Thong",
+  "zone": "หลวงแพ่ง/อ่อนนุช-ลาดกระบัง",
+  "location": "ถ.อ่อนนุช-ลาดกระบัง",
+  "category": "ปิ้งย่าง/หมูกระทะ",
+  "tags": [
+   "บุฟเฟต์",
+   "เนื้อโคขุน"
+  ],
+  "dishes": [
+   "เนื้อโคขุนโพนยางคำย่าง"
+  ],
+  "price": 4,
+  "priceText": "บุฟเฟต์ประมาณ 345 บาท",
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "โคขุนคุณทอง อ่อนนุช-ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants/14648Jo-%E0%B9%82%E0%B8%84%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%97%E0%B8%AD%E0%B8%87-%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
+  "confidence": "medium"
+ },
+ {
+  "name": "สะแตกแจ่วฮ้อน",
+  "nameEn": null,
+  "zone": "หัวตะเข้",
+  "location": "ถ.ลาดกระบัง ใกล้ตลาดหัวตะเข้ (~400 ม.)",
+  "category": "ชาบู/สุกี้",
+  "tags": [
+   "จิ้มจุ่ม"
+  ],
+  "dishes": [
+   "แจ่วฮ้อน"
+  ],
+  "price": 3,
+  "priceText": null,
+  "hours": null,
+  "lat": null,
+  "lng": null,
+  "mapsQuery": "สะแตกแจ่วฮ้อน ลาดกระบัง",
+  "source": "https://www.wongnai.com/restaurants?page.number=4&page.size=10&nearBusinessId=343867&rerank=false&domain=1",
+  "confidence": "medium"
+ }
+]

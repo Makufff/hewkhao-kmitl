@@ -1,11 +1,13 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import places from '../data/places.json';
-import { CATEGORY_EMOJI, ZONES, PRICE_LABEL } from '../lib/meta';
+import { CATEGORY_EMOJI, ZONES, PRICE_LABEL, TEMPLE, isTemple, type Place } from '../lib/meta';
 import { ORIGINS } from '../lib/travel';
 
 const zones = ZONES.filter((z) => places.some((p) => p.zone === z));
-const categories = Object.keys(CATEGORY_EMOJI).filter((c) => places.some((p) => p.category === c));
+const shops = (places as Place[]).filter((p) => !isTemple(p));
+const temples = places.length - shops.length;
+const categories = Object.keys(CATEGORY_EMOJI).filter((c) => c !== TEMPLE && places.some((p) => p.category === c));
 const quickTags = ['ราคาถูก', 'เปิดดึก', 'แอร์', 'นั่งชิล', 'นั่งทำงานได้', 'ริมคลอง', 'ฮาลาล', 'เดลิเวอรี่'].filter((t) =>
 	places.some((p) => p.tags.includes(t)),
 );
@@ -18,7 +20,8 @@ const quickTags = ['ราคาถูก', 'เปิดดึก', 'แอร�
 			<h1>หิวข้าว<span class="dot">.</span></h1>
 			<p class="lede">
 				ไม่รู้จะกินอะไร? เลือกโซนกับประเภทที่อยากได้ แล้วกดสุ่ม
-				ตอนนี้มีร้านให้สุ่ม <strong>{places.length}</strong> ร้าน
+				ตอนนี้มีร้านให้สุ่ม <strong>{shops.length}</strong> ร้าน
+				{temples > 0 && <> · ถ้าไม่มีงบ เลือก “ฟรี” เพื่อสุ่มจาก <strong>{temples}</strong> วัดได้</>}
 			</p>
 		</div>
 	</header>
@@ -53,7 +56,7 @@ const quickTags = ['ราคาถูก', 'เปิดดึก', 'แอร�
 				</div>
 				<p class="result-where" id="r-where"></p>
 				<dl class="facts">
-					<div><dt>ประเภท</dt><dd id="r-cat"></dd></div>
+					<div><dt id="r-cat-label">ประเภท</dt><dd id="r-cat"></dd></div>
 					<div><dt>ราคา</dt><dd id="r-price"></dd></div>
 					<div><dt>เวลาเปิด</dt><dd id="r-hours"></dd></div>
 				</dl>
@@ -143,7 +146,7 @@ const quickTags = ['ราคาถูก', 'เปิดดึก', 'แอร�
 
 		<section class="all" aria-labelledby="all-title">
 			<div class="filters-head">
-				<h2 id="all-title">ร้านทั้งหมด <span class="muted" id="list-count"></span></h2>
+				<h2 id="all-title">รายชื่อทั้งหมด <span class="muted" id="list-count"></span></h2>
 			</div>
 			<input class="search" id="search" type="search" placeholder="ค้นหาชื่อร้าน เมนู หรือสถานที่…" />
 			<ul class="list" id="list"></ul>
@@ -161,7 +164,7 @@ const quickTags = ['ราคาถูก', 'เปิดดึก', 'แอร�
 
 <script>
 	import places from '../data/places.json';
-	import { CATEGORY_EMOJI, PRICE_LABEL, mapsUrl, type Place } from '../lib/meta';
+	import { CATEGORY_EMOJI, PRICE_LABEL, mapsUrl, isTemple, type Place } from '../lib/meta';
 	import { ORIGINS, SERVICES, SURGE, roadKm, quote, walkMinutes, type LatLng } from '../lib/travel';
 
 	const all = places as Place[];
@@ -216,9 +219,14 @@ const quickTags = ['ราคาถูก', 'เปิดดึก', 'แอร�
 
 	function matches(p: Place) {
 		if (state.zone.size && !state.zone.has(p.zone)) return false;
-		if (state.category.size && !state.category.has(p.category)) return false;
-		if (state.price.size && !state.price.has(String(p.price))) return false;
-		for (const t of state.tag) if (!p.tags.includes(t)) return false;
+		if (isTemple(p)) {
+			// Temples only join the pool when "free" is chosen; food filters don't apply to them.
+			if (!state.price.has('0')) return false;
+		} else {
+			if (state.category.size && !state.category.has(p.category)) return false;
+			if (state.price.size && !state.price.has(String(p.price))) return false;
+			for (const t of state.tag) if (!p.tags.includes(t)) return false;
+		}
 		if (state.dist.size) {
 			// Zone-centre fallbacks are too rough for a distance cut-off.
 			const km = kmTo(p);
@@ -259,8 +267,11 @@ const quickTags = ['ราคาถูก', 'เปิดดึก', 'แอร�
 	}
 
 	function refresh() {
-		const n = pool().length;
-		$('match-count').textContent = n ? `จาก ${n} ร้าน` : 'ไม่มีร้านที่ตรงเงื่อนไข';
+		const list = pool();
+		const n = list.length;
+		const wats = list.filter(isTemple).length;
+		const parts = [n - wats && `${n - wats} ร้าน`, wats && `${wats} วัด`].filter(Boolean);
+		$('match-count').textContent = n ? `จาก ${parts.join(' + ')}` : 'ไม่มีร้านที่ตรงเงื่อนไข';
 		$<HTMLButtonElement>('spin').disabled = n === 0 || spinning;
 		renderList();
 	}
@@ -315,7 +326,12 @@ const quickTags = ['ราคาถูก', 'เปิดดึก', 'แอร�
 		$('r-cat').textContent = p.category;
 		$('r-price').textContent = p.priceText ?? PRICE_LABEL[String(p.price)] ?? '-';
 		$('r-hours').textContent = p.hours ?? 'ไม่ระบุ';
-		$('r-dishes').textContent = p.dishes.length ? `เมนูเด็ด: ${p.dishes.join(' · ')}` : '';
+		$('r-dishes').textContent = isTemple(p)
+			? 'ไปทำบุญ ไหว้พระ หรือช่วยงานวัด · บางวัดมีโรงทานหรือแจกอาหารช่วงวันพระ/งานบุญ แต่ไม่ได้มีทุกวัน ถ้าหิวจริงเตรียมเงินไว้ด้วยนะ'
+			: p.dishes.length
+				? `เมนูเด็ด: ${p.dishes.join(' · ')}`
+				: '';
+		$('r-cat-label').textContent = isTemple(p) ? 'สถานที่' : 'ประเภท';
 		$('r-tags').replaceChildren(
 			...p.tags.map((t) => {
 				const li = document.createElement('li');

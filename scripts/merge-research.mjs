@@ -3,7 +3,7 @@
 import { readFileSync, readdirSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 
-const CATEGORIES = new Set(['ข้าว/อาหารตามสั่ง','ก๋วยเตี๋ยว/เส้น','ปิ้งย่าง/หมูกระทะ','ชาบู/สุกี้','อาหารอีสาน','อาหารญี่ปุ่น','อาหารเกาหลี','อาหารจีน','อาหารฝรั่ง/ฟาสต์ฟู้ด','อาหารทะเล','คาเฟ่/เครื่องดื่ม','ของหวาน/เบเกอรี่','สตรีทฟู้ด/ของทานเล่น','บุฟเฟต์','อาหารมุสลิม/ฮาลาล','มังสวิรัติ/เจ','อื่นๆ']);
+const CATEGORIES = new Set(['ข้าว/อาหารตามสั่ง','ก๋วยเตี๋ยว/เส้น','ปิ้งย่าง/หมูกระทะ','ชาบู/สุกี้','อาหารอีสาน','อาหารญี่ปุ่น','อาหารเกาหลี','อาหารจีน','อาหารฝรั่ง/ฟาสต์ฟู้ด','อาหารทะเล','คาเฟ่/เครื่องดื่ม','ของหวาน/เบเกอรี่','สตรีทฟู้ด/ของทานเล่น','บุฟเฟต์','อาหารมุสลิม/ฮาลาล','มังสวิรัติ/เจ','อื่นๆ','วัด (ฟรี)']);
 const ZONES = new Set(['ในสจล.','หน้าสจล./ฉลองกรุง','เกกีงามวงศ์วาน','หลังสจล./เลียบทางรถไฟ','หัวตะเข้','หลวงแพ่ง/อ่อนนุช-ลาดกระบัง','ถนนลาดกระบัง/แอร์พอร์ตลิงก์','ร่มเกล้า/เคหะร่มเกล้า','ห้างใกล้มอ']);
 
 const TAG_ALIASES = { 'ริมน้ำ': 'ริมคลอง', 'ราคาไม่แพง': 'ราคาถูก', 'มีปลั๊ก': 'นั่งทำงานได้', 'ไวไฟ': 'Wi-Fi', 'wifi': 'Wi-Fi', 'Delivery': 'เดลิเวอรี่' };
@@ -24,7 +24,7 @@ for (const f of readdirSync(dir).filter((f) => f.endsWith('.json')).sort()) {
       category: CATEGORIES.has(raw.category) ? raw.category : 'อื่นๆ',
       tags: [...new Set((raw.tags ?? []).map((t) => String(t).trim()).filter(Boolean))],
       dishes: [...new Set((raw.dishes ?? []).map((t) => String(t).trim()).filter(Boolean))],
-      price: [1, 2, 3, 4].includes(Number(raw.price)) ? Number(raw.price) : 2,
+      price: [0, 1, 2, 3, 4].includes(Number(raw.price)) ? Number(raw.price) : 2,
       priceText: raw.priceText || null,
       hours: raw.hours || null,
       lat: typeof raw.lat === 'number' && raw.lat > 13.6 && raw.lat < 13.9 ? raw.lat : null,

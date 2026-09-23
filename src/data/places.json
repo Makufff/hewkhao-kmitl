@@ -431,6 +431,26 @@
 		"confidence": "high"
 	},
 	{
+		"name": "วัดปลูกศรัทธา",
+		"nameEn": "Wat Pluk Sattha",
+		"zone": "เกกีงามวงศ์วาน",
+		"location": "เขตลาดกระบัง",
+		"category": "วัด (ฟรี)",
+		"tags": [
+			"ฟรี",
+			"ทำบุญ"
+		],
+		"dishes": [],
+		"price": 0,
+		"priceText": "ฟรี · ทำบุญตามศรัทธา",
+		"hours": null,
+		"lat": 13.725245,
+		"lng": 100.768489,
+		"mapsQuery": "วัดปลูกศรัทธา ลาดกระบัง",
+		"source": "https://www.openstreetmap.org/way/516314058",
+		"confidence": "high"
+	},
+	{
 		"name": "สเต็กเทคโน",
 		"nameEn": "Steak Techno",
 		"zone": "เกกีงามวงศ์วาน",
@@ -2029,6 +2049,66 @@
 		"lng": 100.77489926838494,
 		"mapsQuery": "ลาวา Buffet Seafood ลาดกระบัง",
 		"source": "https://www.ryoiireview.com/article/buffet-shabu-sushi-grill-ladkrabang/",
+		"confidence": "high"
+	},
+	{
+		"name": "วัดลาดกระบัง",
+		"nameEn": "Wat Lat Krabang",
+		"zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+		"location": "เขตลาดกระบัง",
+		"category": "วัด (ฟรี)",
+		"tags": [
+			"ฟรี",
+			"ทำบุญ"
+		],
+		"dishes": [],
+		"price": 0,
+		"priceText": "ฟรี · ทำบุญตามศรัทธา",
+		"hours": null,
+		"lat": 13.72501,
+		"lng": 100.75255,
+		"mapsQuery": "วัดลาดกระบัง ลาดกระบัง",
+		"source": "https://www.openstreetmap.org/way/321528547",
+		"confidence": "high"
+	},
+	{
+		"name": "วัดลานบุญ",
+		"nameEn": "Wat Lan Bun",
+		"zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+		"location": "เขตลาดกระบัง",
+		"category": "วัด (ฟรี)",
+		"tags": [
+			"ฟรี",
+			"ทำบุญ"
+		],
+		"dishes": [],
+		"price": 0,
+		"priceText": "ฟรี · ทำบุญตามศรัทธา",
+		"hours": null,
+		"lat": 13.724958,
+		"lng": 100.720224,
+		"mapsQuery": "วัดลานบุญ ลาดกระบัง",
+		"source": "https://www.openstreetmap.org/way/1498956335",
+		"confidence": "high"
+	},
+	{
+		"name": "วัดสังฆราชา",
+		"nameEn": "Wat Sangkha Racha",
+		"zone": "ถนนลาดกระบัง/แอร์พอร์ตลิงก์",
+		"location": "เขตลาดกระบัง",
+		"category": "วัด (ฟรี)",
+		"tags": [
+			"ฟรี",
+			"ทำบุญ"
+		],
+		"dishes": [],
+		"price": 0,
+		"priceText": "ฟรี · ทำบุญตามศรัทธา",
+		"hours": null,
+		"lat": 13.724879,
+		"lng": 100.737604,
+		"mapsQuery": "วัดสังฆราชา ลาดกระบัง",
+		"source": "https://www.openstreetmap.org/way/1546496559",
 		"confidence": "high"
 	},
 	{
@@ -4091,6 +4171,26 @@
 		"confidence": "high"
 	},
 	{
+		"name": "วัดปากบึง",
+		"nameEn": "Wat Pak Bueng",
+		"zone": "ร่มเกล้า/เคหะร่มเกล้า",
+		"location": "เขตลาดกระบัง",
+		"category": "วัด (ฟรี)",
+		"tags": [
+			"ฟรี",
+			"ทำบุญ"
+		],
+		"dishes": [],
+		"price": 0,
+		"priceText": "ฟรี · ทำบุญตามศรัทธา",
+		"hours": null,
+		"lat": 13.776232,
+		"lng": 100.737948,
+		"mapsQuery": "วัดปากบึง ลาดกระบัง",
+		"source": "https://www.openstreetmap.org/node/12253828404",
+		"confidence": "high"
+	},
+	{
 		"name": "อนุสรณ์ คาเฟ่",
 		"nameEn": "Anusorn Cafe",
 		"zone": "ร่มเกล้า/เคหะร่มเกล้า",
@@ -5700,6 +5800,26 @@
 		"confidence": "medium"
 	},
 	{
+		"name": "วัดราชโกษา",
+		"nameEn": "Wat Ratchakosa",
+		"zone": "หลวงแพ่ง/อ่อนนุช-ลาดกระบัง",
+		"location": "เขตลาดกระบัง",
+		"category": "วัด (ฟรี)",
+		"tags": [
+			"ฟรี",
+			"ทำบุญ"
+		],
+		"dishes": [],
+		"price": 0,
+		"priceText": "ฟรี · ทำบุญตามศรัทธา",
+		"hours": null,
+		"lat": 13.700195,
+		"lng": 100.851265,
+		"mapsQuery": "วัดราชโกษา ลาดกระบัง",
+		"source": "https://www.openstreetmap.org/way/1263239631",
+		"confidence": "high"
+	},
+	{
 		"name": "สมปองก๋วยเตี๋ยวเนื้อตุ๋น",
 		"nameEn": "Sompong Beef Noodles",
 		"zone": "หลวงแพ่ง/อ่อนนุช-ลาดกระบัง",
@@ -6189,6 +6309,66 @@
 		"mapsQuery": "Reflect Cafe เจ้าคุณทหาร ลาดกระบัง",
 		"source": "https://salehere.co.th/articles/cafe-ladkrabang",
 		"confidence": "medium"
+	},
+	{
+		"name": "วัดทิพพาวาส",
+		"nameEn": "Wat Thip Phawat",
+		"zone": "หลังสจล./เลียบทางรถไฟ",
+		"location": "เขตลาดกระบัง",
+		"category": "วัด (ฟรี)",
+		"tags": [
+			"ฟรี",
+			"ทำบุญ"
+		],
+		"dishes": [],
+		"price": 0,
+		"priceText": "ฟรี · ทำบุญตามศรัทธา",
+		"hours": null,
+		"lat": 13.779236,
+		"lng": 100.801931,
+		"mapsQuery": "วัดทิพพาวาส ลาดกระบัง",
+		"source": "https://www.openstreetmap.org/relation/18166826",
+		"confidence": "high"
+	},
+	{
+		"name": "วัดบำรุงรื่น",
+		"nameEn": "Wat Bamrung Ruen",
+		"zone": "หลังสจล./เลียบทางรถไฟ",
+		"location": "เขตลาดกระบัง",
+		"category": "วัด (ฟรี)",
+		"tags": [
+			"ฟรี",
+			"ทำบุญ"
+		],
+		"dishes": [],
+		"price": 0,
+		"priceText": "ฟรี · ทำบุญตามศรัทธา",
+		"hours": null,
+		"lat": 13.743064,
+		"lng": 100.754812,
+		"mapsQuery": "วัดบำรุงรื่น ลาดกระบัง",
+		"source": "https://www.openstreetmap.org/way/488262147",
+		"confidence": "high"
+	},
+	{
+		"name": "วัดบึงบัว",
+		"nameEn": "Wat Bueng Bua",
+		"zone": "หลังสจล./เลียบทางรถไฟ",
+		"location": "เขตลาดกระบัง",
+		"category": "วัด (ฟรี)",
+		"tags": [
+			"ฟรี",
+			"ทำบุญ"
+		],
+		"dishes": [],
+		"price": 0,
+		"priceText": "ฟรี · ทำบุญตามศรัทธา",
+		"hours": null,
+		"lat": 13.764586,
+		"lng": 100.777939,
+		"mapsQuery": "วัดบึงบัว ลาดกระบัง",
+		"source": "https://www.openstreetmap.org/way/519252309",
+		"confidence": "high"
 	},
 	{
 		"name": "สองโทนหมี่เกี๊ยว สาขา 2 (RNP)",
@@ -6900,6 +7080,126 @@
 		"mapsQuery": "โรงนึ่งปลาทู ตลาดหัวตะเข้ ลาดกระบัง",
 		"source": "https://www.wongnai.com/restaurants/1149245FX",
 		"confidence": "medium"
+	},
+	{
+		"name": "วัดขุมทอง",
+		"nameEn": "Wat Khum Thong",
+		"zone": "หัวตะเข้",
+		"location": "เขตลาดกระบัง",
+		"category": "วัด (ฟรี)",
+		"tags": [
+			"ฟรี",
+			"ทำบุญ"
+		],
+		"dishes": [],
+		"price": 0,
+		"priceText": "ฟรี · ทำบุญตามศรัทธา",
+		"hours": null,
+		"lat": 13.722245,
+		"lng": 100.853086,
+		"mapsQuery": "วัดขุมทอง ลาดกระบัง",
+		"source": "https://www.openstreetmap.org/way/1263150263",
+		"confidence": "high"
+	},
+	{
+		"name": "วัดพลมาณีย์",
+		"nameEn": "Wat Phon Mani",
+		"zone": "หัวตะเข้",
+		"location": "เขตลาดกระบัง",
+		"category": "วัด (ฟรี)",
+		"tags": [
+			"ฟรี",
+			"ทำบุญ"
+		],
+		"dishes": [],
+		"price": 0,
+		"priceText": "ฟรี · ทำบุญตามศรัทธา",
+		"hours": null,
+		"lat": 13.722006,
+		"lng": 100.797887,
+		"mapsQuery": "วัดพลมาณีย์ ลาดกระบัง",
+		"source": "https://www.openstreetmap.org/way/1499793263",
+		"confidence": "high"
+	},
+	{
+		"name": "วัดลำพะอง",
+		"nameEn": "Wat Lam Pha-ong",
+		"zone": "หัวตะเข้",
+		"location": "เขตลาดกระบัง",
+		"category": "วัด (ฟรี)",
+		"tags": [
+			"ฟรี",
+			"ทำบุญ"
+		],
+		"dishes": [],
+		"price": 0,
+		"priceText": "ฟรี · ทำบุญตามศรัทธา",
+		"hours": null,
+		"lat": 13.768564,
+		"lng": 100.834232,
+		"mapsQuery": "วัดลำพะอง ลาดกระบัง",
+		"source": "https://www.openstreetmap.org/way/1259654174",
+		"confidence": "high"
+	},
+	{
+		"name": "วัดวชิรธรรมาวาส",
+		"nameEn": "Wat Wachira Thamma Wat",
+		"zone": "หัวตะเข้",
+		"location": "เขตลาดกระบัง",
+		"category": "วัด (ฟรี)",
+		"tags": [
+			"ฟรี",
+			"ทำบุญ"
+		],
+		"dishes": [],
+		"price": 0,
+		"priceText": "ฟรี · ทำบุญตามศรัทธา",
+		"hours": null,
+		"lat": 13.729712,
+		"lng": 100.871302,
+		"mapsQuery": "วัดวชิรธรรมาวาส ลาดกระบัง",
+		"source": "https://www.openstreetmap.org/way/1278097272",
+		"confidence": "high"
+	},
+	{
+		"name": "วัดสุทธาโภชน์",
+		"nameEn": "Wat Suttapot",
+		"zone": "หัวตะเข้",
+		"location": "เขตลาดกระบัง",
+		"category": "วัด (ฟรี)",
+		"tags": [
+			"ฟรี",
+			"ทำบุญ"
+		],
+		"dishes": [],
+		"price": 0,
+		"priceText": "ฟรี · ทำบุญตามศรัทธา",
+		"hours": null,
+		"lat": 13.741185,
+		"lng": 100.79569,
+		"mapsQuery": "วัดสุทธาโภชน์ ลาดกระบัง",
+		"source": "https://www.openstreetmap.org/node/4828089322",
+		"confidence": "high"
+	},
+	{
+		"name": "วัดอุทัยธรรมาราม",
+		"nameEn": "Wat Uthai Thammaram",
+		"zone": "หัวตะเข้",
+		"location": "เขตลาดกระบัง",
+		"category": "วัด (ฟรี)",
+		"tags": [
+			"ฟรี",
+			"ทำบุญ"
+		],
+		"dishes": [],
+		"price": 0,
+		"priceText": "ฟรี · ทำบุญตามศรัทธา",
+		"hours": null,
+		"lat": 13.747149,
+		"lng": 100.818496,
+		"mapsQuery": "วัดอุทัยธรรมาราม ลาดกระบัง",
+		"source": "https://www.openstreetmap.org/way/1253183566",
+		"confidence": "high"
 	},
 	{
 		"name": "สเต็กเซ็ทแอนด์เซฟ ท่าเรือหัวตะเข้",

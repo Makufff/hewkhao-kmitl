@@ -29,6 +29,10 @@ export const ZONES = [
 	'ห้างใกล้มอ',
 ];
 
+/** Temples are a separate "free" pool, only drawn when the ฟรี budget is picked. */
+export const TEMPLE = 'วัด (ฟรี)';
+export const isTemple = (p: Place) => p.price === 0;
+
 export const CATEGORY_EMOJI: Record<string, string> = {
 	'ข้าว/อาหารตามสั่ง': '🍛',
 	'ก๋วยเตี๋ยว/เส้น': '🍜',
@@ -47,9 +51,11 @@ export const CATEGORY_EMOJI: Record<string, string> = {
 	'อาหารมุสลิม/ฮาลาล': '🍗',
 	'มังสวิรัติ/เจ': '🥗',
 	'อื่นๆ': '🍽️',
+	[TEMPLE]: '🛕',
 };
 
 export const PRICE_LABEL: Record<string, string> = {
+	'0': '🙏 ฟรี (สุ่มวัด)',
 	'1': '฿ ต่ำกว่า 60',
 	'2': '฿฿ 60–150',
 	'3': '฿฿฿ 150–350',

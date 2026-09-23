@@ -1,0 +1,77 @@
+{
+	"asOf": "2026-09-23",
+	"notes": "Grab TH fare guide + DLT rules. Car per-minute charge (2 THB) only applies in traffic, so it is applied to ~half the trip time (effective 1 THB/min). Surge range per research recommendation.",
+	"services": [
+		{
+			"id": "bike",
+			"label": "GrabBike",
+			"base": 25,
+			"baseKm": 2,
+			"perKm": [
+				{
+					"upToKm": 5,
+					"perKm": 5
+				},
+				{
+					"upToKm": 15,
+					"perKm": 10
+				},
+				{
+					"upToKm": null,
+					"perKm": 10
+				}
+			],
+			"perMin": 0.0,
+			"minFare": 25,
+			"bookingFee": 0,
+			"sources": [
+				"https://www.grab.com/th/en/blog/pha-pi-du-withi-kar-reiyk-grab/ (Grab TH, 2026-08-27)",
+				"https://www.thaipbs.or.th/news/content/5853 (Thai PBS, motorcycle-taxi fare ceiling)",
+				"https://hilight.kapook.com/view/134566 (Kapook, 2 km 25 THB / 2-5 km 5 THB / 5-15 km 10 THB)",
+				"https://easy-go-thailand.com/grab-thailand (receipt ranges, Apr 2026)",
+				"https://www.byklo.rent/en/blog/bangkok-scooter-vs-bts-grab/ (2026-06-30)"
+			]
+		},
+		{
+			"id": "car",
+			"label": "GrabCar",
+			"base": 45,
+			"baseKm": 2,
+			"perKm": [
+				{
+					"upToKm": 6,
+					"perKm": 8
+				},
+				{
+					"upToKm": 40,
+					"perKm": 7
+				},
+				{
+					"upToKm": null,
+					"perKm": 10
+				}
+			],
+			"perMin": 1.0,
+			"minFare": 45,
+			"bookingFee": 20,
+			"sources": [
+				"https://www.grab.com/th/en/blog/pha-pi-du-withi-kar-reiyk-grab/ (Grab TH, 2026-08-27)",
+				"https://www.dailynews.co.th/news/470281/ (Daily News, DLT gazette, 2021-11-12)",
+				"https://www.pptvhd36.com/wealth/economic/160428 (PPTV, minimum 60 THB incl. booking fee)",
+				"https://www.prachachat.net/hilight-prachachat/news-1894208 (Prachachat, mandatory registration from 2025-10-02)",
+				"https://easy-go-thailand.com/grab-thailand (receipt ranges, Apr 2026)"
+			]
+		}
+	],
+	"surge": {
+		"typical": [
+			1.0,
+			1.4
+		]
+	},
+	"speedKmh": {
+		"bike": 25,
+		"car": 20
+	},
+	"detourFactor": 1.35
+}

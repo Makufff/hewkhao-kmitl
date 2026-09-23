@@ -2,6 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import places from '../data/places.json';
 import { CATEGORY_EMOJI, ZONES, PRICE_LABEL } from '../lib/meta';
+import { ORIGINS } from '../lib/travel';
 
 const zones = ZONES.filter((z) => places.some((p) => p.zone === z));
 const categories = Object.keys(CATEGORY_EMOJI).filter((c) => places.some((p) => p.category === c));
@@ -25,6 +26,14 @@ const quickTags = ['ราคาถูก', 'เปิดดึก', 'แอร�
 	<main class="wrap">
 		<section class="machine" aria-labelledby="machine-title">
 			<h2 id="machine-title" class="sr-only">สุ่มร้านอาหาร</h2>
+			<div class="origin">
+				<label for="origin">🧭 เดินทางจาก</label>
+				<select id="origin">
+					{ORIGINS.map((o) => <option value={o.id}>{o.label}</option>)}
+					<option value="gps">📍 ตำแหน่งปัจจุบันของฉัน</option>
+				</select>
+				<span class="origin-status" id="origin-status" role="status"></span>
+			</div>
 			<div class="reel" id="reel" aria-hidden="true">
 				<span id="reel-text">🍜 วันนี้กินอะไรดี?</span>
 			</div>
@@ -48,10 +57,19 @@ const quickTags = ['ราคาถูก', 'เปิดดึก', 'แอร�
 					<div><dt>ราคา</dt><dd id="r-price"></dd></div>
 					<div><dt>เวลาเปิด</dt><dd id="r-hours"></dd></div>
 				</dl>
+				<section class="travel" aria-label="ค่าเดินทางโดยประมาณ">
+					<div class="travel-head">
+						<strong>ค่าเดินทาง</strong>
+						<span id="t-dist"></span>
+					</div>
+					<ul class="quotes" id="t-quotes"></ul>
+					<p class="travel-note" id="t-note"></p>
+				</section>
 				<p class="dishes" id="r-dishes"></p>
 				<ul class="tags" id="r-tags"></ul>
 				<div class="actions">
 					<a class="btn btn-primary" id="r-map" target="_blank" rel="noopener">📍 เปิดแผนที่</a>
+					<a class="btn" id="r-dir" target="_blank" rel="noopener">🧭 นำทาง</a>
 					<button class="btn" id="r-again" type="button">🎲 สุ่มใหม่</button>
 					<button class="btn" id="r-ban" type="button" title="ไม่สุ่มร้านนี้อีกในรอบนี้">🙅 ไม่เอาร้านนี้</button>
 				</div>
@@ -101,6 +119,15 @@ const quickTags = ['ราคาถูก', 'เปิดดึก', 'แอร�
 				</div>
 			</fieldset>
 
+			<fieldset>
+				<legend>ระยะทาง (จากจุดที่เลือกด้านบน)</legend>
+				<div class="chips" data-group="dist" data-single>
+					<button type="button" class="chip" data-value="1" aria-pressed="false">🚶 ไม่เกิน 1 กม.</button>
+					<button type="button" class="chip" data-value="3" aria-pressed="false">🛵 ไม่เกิน 3 กม.</button>
+					<button type="button" class="chip" data-value="7" aria-pressed="false">🚗 ไม่เกิน 7 กม.</button>
+				</div>
+			</fieldset>
+
 			{
 				quickTags.length > 0 && (
 					<fieldset>
@@ -135,17 +162,50 @@ const quickTags = ['ราคาถูก', 'เปิดดึก', 'แอร�
 <script>
 	import places from '../data/places.json';
 	import { CATEGORY_EMOJI, PRICE_LABEL, mapsUrl, type Place } from '../lib/meta';
+	import { ORIGINS, SERVICES, SURGE, roadKm, quote, walkMinutes, type LatLng } from '../lib/travel';
 
 	const all = places as Place[];
 	const STORE_KEY = 'hewkhao:filters';
-	type Group = 'zone' | 'category' | 'price' | 'tag';
+	const ORIGIN_KEY = 'hewkhao:origin';
+	type Group = 'zone' | 'category' | 'price' | 'tag' | 'dist';
 
 	const state: Record<Group, Set<string>> = {
 		zone: new Set(),
 		category: new Set(),
 		price: new Set(),
 		tag: new Set(),
+		dist: new Set(),
 	};
+
+	// Places without their own coordinates fall back to the centre of their zone.
+	const zoneCentre = new Map<string, LatLng>();
+	for (const zone of new Set(all.map((p) => p.zone))) {
+		const pts = all.filter((p) => p.zone === zone && p.lat != null && p.lng != null);
+		if (pts.length) {
+			zoneCentre.set(zone, {
+				lat: pts.reduce((a, p) => a + p.lat!, 0) / pts.length,
+				lng: pts.reduce((a, p) => a + p.lng!, 0) / pts.length,
+			});
+		}
+	}
+	const where = (p: Place): { at: LatLng; exact: boolean } | null =>
+		p.lat != null && p.lng != null
+			? { at: { lat: p.lat, lng: p.lng }, exact: true }
+			: zoneCentre.has(p.zone)
+				? { at: zoneCentre.get(p.zone)!, exact: false }
+				: null;
+
+	let origin: LatLng & { label: string } = ORIGINS[0];
+	let current: Place | null = null;
+	const kmCache = new Map<Place, number | null>();
+	function kmTo(p: Place) {
+		if (!kmCache.has(p)) {
+			const w = where(p);
+			kmCache.set(p, w ? roadKm(origin, w.at) : null);
+		}
+		return kmCache.get(p)!;
+	}
+	const fmtKm = (km: number) => (km < 1 ? `${Math.round(km * 1000 / 50) * 50} ม.` : `${km.toFixed(1)} กม.`);
 	const banned = new Set<string>();
 	const recent: string[] = [];
 	let query = '';
@@ -159,6 +219,11 @@ const quickTags = ['ราคาถูก', 'เปิดดึก', 'แอร�
 		if (state.category.size && !state.category.has(p.category)) return false;
 		if (state.price.size && !state.price.has(String(p.price))) return false;
 		for (const t of state.tag) if (!p.tags.includes(t)) return false;
+		if (state.dist.size) {
+			// Zone-centre fallbacks are too rough for a distance cut-off.
+			const km = kmTo(p);
+			if (!where(p)?.exact || km == null || km > Math.max(...[...state.dist].map(Number))) return false;
+		}
 		return true;
 	}
 
@@ -228,7 +293,9 @@ const quickTags = ['ราคาถูก', 'เปิดดึก', 'แอร�
 					</span>
 					<span class="row-price">${(PRICE_LABEL[String(p.price)] ?? '').split(' ')[0]}</span>`;
 				btn.querySelector('.row-name')!.textContent = p.name;
-				btn.querySelector('.row-sub')!.textContent = `${p.zone} · ${p.dishes.slice(0, 3).join(', ') || p.category}`;
+				const km = kmTo(p);
+				const dist = km == null ? '' : `${where(p)!.exact ? '' : '≈'}${fmtKm(km)} · `;
+				btn.querySelector('.row-sub')!.textContent = `${dist}${p.zone} · ${p.dishes.slice(0, 3).join(', ') || p.category}`;
 				btn.addEventListener('click', () => {
 					show(p);
 					$('result').scrollIntoView({ behavior: 'smooth', block: 'center' });
@@ -257,6 +324,8 @@ const quickTags = ['ราคาถูก', 'เปิดดึก', 'แอร�
 			}),
 		);
 		$<HTMLAnchorElement>('r-map').href = mapsUrl(p);
+		current = p;
+		renderTravel(p);
 		const src = $<HTMLAnchorElement>('r-source');
 		src.href = p.source;
 		try {
@@ -271,6 +340,78 @@ const quickTags = ['ราคาถูก', 'เปิดดึก', 'แอร�
 		card.classList.remove('pop');
 		void card.offsetWidth;
 		card.classList.add('pop');
+	}
+
+	function renderTravel(p: Place) {
+		const w = where(p);
+		const km = kmTo(p);
+		const dir = $<HTMLAnchorElement>('r-dir');
+		const dest = w?.exact ? `${w.at.lat},${w.at.lng}` : p.mapsQuery;
+		dir.href = `https://www.google.com/maps/dir/?api=1&origin=${origin.lat},${origin.lng}&destination=${encodeURIComponent(dest)}`;
+		if (!w || km == null) {
+			$('t-dist').textContent = '';
+			$('t-quotes').replaceChildren();
+			$('t-note').textContent = 'ร้านนี้ยังไม่มีพิกัด เลยคำนวณค่าเดินทางไม่ได้';
+			return;
+		}
+		$('t-dist').textContent = `${w.exact ? '' : '≈'}${fmtKm(km)} จาก${origin.label}`;
+		const rows: HTMLLIElement[] = [];
+		const li = (icon: string, label: string, price: string, time: string) => {
+			const el = document.createElement('li');
+			el.innerHTML = '<span class="q-icon"></span><span class="q-label"></span><span class="q-time"></span><span class="q-price"></span>';
+			el.querySelector('.q-icon')!.textContent = icon;
+			el.querySelector('.q-label')!.textContent = label;
+			el.querySelector('.q-time')!.textContent = time;
+			el.querySelector('.q-price')!.textContent = price;
+			rows.push(el);
+		};
+		const mins = (m: number) => `~${Math.max(1, Math.round(m))} นาที`;
+		if (km <= 2) li('🚶', 'เดิน', 'ฟรี', mins(walkMinutes(km)));
+		for (const s of SERVICES) {
+			const q = quote(s, km);
+			li(s.id === 'bike' ? '🛵' : '🚗', s.label, q.low === q.high ? `฿${q.low}` : `฿${q.low}–${q.high}`, mins(q.minutes));
+		}
+		$('t-quotes').replaceChildren(...rows);
+		$('t-note').textContent =
+			(w.exact ? '' : 'ร้านนี้ไม่มีพิกัดแน่นอน ใช้จุดกลางโซนแทน · ') +
+			`ราคาประมาณจากอัตรา Grab ไม่ใช่ราคาจริงในแอป · ช่วงบนเผื่อช่วงเร่งด่วน/ฝนตก (×${SURGE[1]}) ไป-กลับคูณ 2`;
+	}
+
+	function setOrigin(o: LatLng & { label: string }) {
+		origin = o;
+		kmCache.clear();
+		if (current) renderTravel(current);
+		refresh();
+	}
+
+	function useGps() {
+		const status = $('origin-status');
+		if (!('geolocation' in navigator)) {
+			status.textContent = 'เบราว์เซอร์นี้หาตำแหน่งไม่ได้';
+			return;
+		}
+		status.textContent = 'กำลังหาตำแหน่ง…';
+		navigator.geolocation.getCurrentPosition(
+			(pos) => {
+				status.textContent = `แม่นยำ ~${Math.round(pos.coords.accuracy)} ม.`;
+				setOrigin({ lat: pos.coords.latitude, lng: pos.coords.longitude, label: 'ตำแหน่งของคุณ' });
+			},
+			() => {
+				status.textContent = 'หาตำแหน่งไม่ได้ (ไม่ได้อนุญาต?) ใช้ สจล. แทน';
+				$<HTMLSelectElement>('origin').value = ORIGINS[0].id;
+				setOrigin(ORIGINS[0]);
+			},
+			{ enableHighAccuracy: true, timeout: 10000, maximumAge: 60000 },
+		);
+	}
+
+	function pickOrigin(id: string) {
+		try {
+			localStorage.setItem(ORIGIN_KEY, id);
+		} catch {}
+		$('origin-status').textContent = '';
+		if (id === 'gps') return useGps();
+		setOrigin(ORIGINS.find((o) => o.id === id) ?? ORIGINS[0]);
 	}
 
 	function pickFrom(list: Place[]) {
@@ -319,7 +460,11 @@ const quickTags = ['ราคาถูก', 'เปิดดึก', 'แอร�
 			const chip = (e.target as HTMLElement).closest<HTMLButtonElement>('.chip');
 			if (!chip) return;
 			const v = chip.dataset.value!;
-			state[g].has(v) ? state[g].delete(v) : state[g].add(v);
+			if (state[g].has(v)) state[g].delete(v);
+			else {
+				if ('single' in box.dataset) state[g].clear();
+				state[g].add(v);
+			}
 			syncChips();
 			save();
 			refresh();
@@ -346,8 +491,18 @@ const quickTags = ['ราคาถูก', 'เปิดดึก', 'แอร�
 		renderList();
 	});
 
+	$<HTMLSelectElement>('origin').addEventListener('change', (e) => pickOrigin((e.target as HTMLSelectElement).value));
+
 	load();
 	syncChips();
+	try {
+		const saved = localStorage.getItem(ORIGIN_KEY);
+		// Don't trigger a location prompt on page load; GPS must be chosen each visit.
+		if (saved && saved !== 'gps' && ORIGINS.some((o) => o.id === saved)) {
+			$<HTMLSelectElement>('origin').value = saved;
+			origin = ORIGINS.find((o) => o.id === saved)!;
+		}
+	} catch {}
 	refresh();
 </script>
 
@@ -560,6 +715,93 @@ const quickTags = ['ราคาถูก', 'เปิดดึก', 'แอร�
 	.facts dd {
 		margin: 0;
 		font-weight: 600;
+	}
+
+	.origin {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		gap: 8px 10px;
+	}
+
+	.origin label {
+		font-weight: 600;
+	}
+
+	.origin select {
+		flex: 1 1 220px;
+		min-width: 0;
+		padding: 9px 12px;
+		border: 1px solid var(--line);
+		border-radius: 12px;
+		background: var(--surface);
+	}
+
+	.origin-status {
+		flex-basis: 100%;
+		font-size: 0.8rem;
+		color: var(--muted);
+	}
+
+	.origin-status:empty {
+		display: none;
+	}
+
+	.travel {
+		margin-top: 14px;
+		border: 1px solid var(--line);
+		border-radius: 14px;
+		padding: 12px 14px;
+	}
+
+	.travel-head {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+		gap: 4px 12px;
+		align-items: baseline;
+	}
+
+	.travel-head span {
+		font-size: 0.85rem;
+		color: var(--muted);
+	}
+
+	.quotes {
+		list-style: none;
+		padding: 0;
+		margin: 8px 0 0;
+		display: grid;
+		gap: 6px;
+	}
+
+	.quotes :global(li) {
+		display: grid;
+		grid-template-columns: 1.8em 1fr auto auto;
+		align-items: center;
+		gap: 10px;
+	}
+
+	.quotes :global(.q-time) {
+		font-size: 0.85rem;
+		color: var(--muted);
+	}
+
+	.quotes :global(.q-price) {
+		font-weight: 700;
+		color: var(--accent-strong);
+		min-width: 5.5em;
+		text-align: right;
+	}
+
+	.travel-note {
+		margin: 8px 0 0;
+		font-size: 0.75rem;
+		color: var(--muted);
+	}
+
+	.travel-note:empty {
+		display: none;
 	}
 
 	.dishes {

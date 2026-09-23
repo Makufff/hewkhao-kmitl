@@ -17,11 +17,12 @@
   "price": 2,
   "priceText": "45 บาทขึ้นไป",
   "hours": "08:30-21:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.721933944975806,
+  "lng": 100.77482940958521,
   "mapsQuery": "แก้วไก่กรอบ ถนนลาดกระบัง",
   "source": "https://www.ryoiireview.com/article/food-ladkrabang-chill/",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ป้าเภา",
@@ -41,11 +42,12 @@
   "price": 2,
   "priceText": "80-250 บาท",
   "hours": "11:00-22:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.723005286548,
+  "lng": 100.74085570872,
   "mapsQuery": "ป้าเภา ลาดกระบัง",
   "source": "https://www.grab.com/th/en/food-blog/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87/",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ครัวระเบียงน้ำ",
@@ -67,11 +69,12 @@
   "price": 3,
   "priceText": "100 บาทขึ้นไป",
   "hours": "11:00-23:00 (ปิดวันจันทร์)",
-  "lat": null,
-  "lng": null,
+  "lat": 13.723769,
+  "lng": 100.747787,
   "mapsQuery": "ครัวระเบียงน้ำ ลาดกระบัง",
   "source": "https://www.wongnai.com/restaurants/kruarabiengnam",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ครัวเมืองเว้ ลาว ญวน",
@@ -92,11 +95,12 @@
   "price": 2,
   "priceText": "95 บาทขึ้นไป",
   "hours": "10:30-21:30",
-  "lat": null,
-  "lng": null,
+  "lat": 13.722707,
+  "lng": 100.72444,
   "mapsQuery": "ครัวเมืองเว้ ลาว ญวน ลาดกระบัง",
   "source": "https://www.grab.com/th/en/food-blog/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87/",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "คูณสินเป็ดย่าง",
@@ -116,11 +120,12 @@
   "price": 1,
   "priceText": "50-70 บาท",
   "hours": "07:00-16:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.722749,
+  "lng": 100.752753,
   "mapsQuery": "คูณสินเป็ดย่าง ลาดกระบัง",
   "source": "https://www.ryoiireview.com/article/food-ladkrabang-chill/",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "เรือนริมน้ำ ลาดกระบัง",
@@ -142,11 +147,12 @@
   "price": 3,
   "priceText": "89-289 บาท",
   "hours": "11:00-22:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.721854,
+  "lng": 100.75658,
   "mapsQuery": "เรือนริมน้ำ ลาดกระบัง",
   "source": "https://www.ryoiireview.com/article/food-ladkrabang-chill/",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "The Beach กลางกรุง",
@@ -168,11 +174,12 @@
   "price": 3,
   "priceText": null,
   "hours": "11:00-23:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7224791,
+  "lng": 100.7306333,
   "mapsQuery": "The Beach กลางกรุง ลาดกระบัง",
   "source": "https://www.grab.com/th/en/food-blog/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87/",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "other"
  },
  {
   "name": "Varvana Bar & Bistro",
@@ -192,11 +199,12 @@
   "price": 3,
   "priceText": "100 บาทขึ้นไป",
   "hours": "16:00-00:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7213694,
+  "lng": 100.7710773,
   "mapsQuery": "Varvana Bar Bistro ลาดกระบัง",
   "source": "https://www.grab.com/th/en/food-blog/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87/",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "wongnai"
  },
  {
   "name": "Sweet Pista Pit",
@@ -215,11 +223,12 @@
   "price": 4,
   "priceText": "195-850 บาท",
   "hours": "10:30-21:00 (ปิดวันจันทร์)",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7210798,
+  "lng": 100.755792,
   "mapsQuery": "Sweet Pista Pit ลาดกระบัง",
   "source": "https://www.ryoiireview.com/article/food-ladkrabang-chill/",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "other"
  },
  {
   "name": "ร้านอีสานเดิม สุวรรณภูมิ",
@@ -240,11 +249,12 @@
   "price": 2,
   "priceText": "50 บาทขึ้นไป",
   "hours": "16:30-02:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7222961,
+  "lng": 100.7428491,
   "mapsQuery": "ร้านอีสานเดิม สุวรรณภูมิ ลาดกระบัง",
   "source": "https://www.grab.com/th/en/food-blog/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87/",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ร้านเจ๊น้อย แซ่บซุป",
@@ -286,11 +296,12 @@
   "price": 2,
   "priceText": null,
   "hours": "07:00-00:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7219297,
+  "lng": 100.7644262,
   "mapsQuery": "เจอนี่ ถนนลาดกระบัง",
   "source": "https://gangtravel.com/67563",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ไก่เมา ลาดกระบัง",
@@ -309,11 +320,12 @@
   "price": 2,
   "priceText": null,
   "hours": "11:00-21:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.721288319138,
+  "lng": 100.78366125003,
   "mapsQuery": "ไก่เมา ลาดกระบัง 52",
   "source": "https://www.grab.com/th/en/food-blog/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87/",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "พาสต้าโฮม",
@@ -333,11 +345,12 @@
   "price": 2,
   "priceText": null,
   "hours": "จ-ศ 11:00-19:30, ส 11:00-16:00 (ปิดอาทิตย์)",
-  "lat": null,
-  "lng": null,
+  "lat": 13.717768693706688,
+  "lng": 100.78347349539399,
   "mapsQuery": "Pasta Home ลาดกระบัง 52",
   "source": "https://www.grab.com/th/en/food-blog/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87/",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "อร่อย@ลาดกระบัง",
@@ -357,11 +370,12 @@
   "price": 1,
   "priceText": null,
   "hours": "จ 09:00-15:00, อ-ส 09:00-18:00 (ปิดอาทิตย์)",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7206753,
+  "lng": 100.7803356,
   "mapsQuery": "อร่อย@ลาดกระบัง ซอย 50",
   "source": "https://www.grab.com/th/en/food-blog/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87/",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "อิ่มเอิบ คั่วไก่",
@@ -404,11 +418,12 @@
   "price": 2,
   "priceText": null,
   "hours": "11:00-22:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.722780386704496,
+  "lng": 100.75154481455684,
   "mapsQuery": "ร้านสำเภาทอง ลาดกระบัง 34/6",
   "source": "https://www.grab.com/th/en/food-blog/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87/",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ครัวสุนันท์",
@@ -428,11 +443,12 @@
   "price": 1,
   "priceText": null,
   "hours": "จ-ส 07:00-19:30, อา 07:00-18:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.722918182271378,
+  "lng": 100.75071740126992,
   "mapsQuery": "ครัวสุนันท์ ลาดกระบัง 34/6",
   "source": "https://www.grab.com/th/en/food-blog/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87/",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ครัวลุงสมชายเจ๊เพ็ญ อาหารป่า",
@@ -453,11 +469,12 @@
   "price": 2,
   "priceText": "40 บาทขึ้นไป",
   "hours": "10:00-22:00 (ปิดวันจันทร์)",
-  "lat": null,
-  "lng": null,
+  "lat": 13.731667745388,
+  "lng": 100.78274628147,
   "mapsQuery": "ครัวลุงสมชายเจ๊เพ็ญ อาหารป่า มอเตอร์เวย์ ลาดกระบัง",
   "source": "https://www.ryoiireview.com/article/food-ladkrabang-chill/",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ครัวบะช่อ ลาดกระบัง 54",
@@ -474,11 +491,12 @@
   "price": 2,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.739449311128277,
+  "lng": 100.71631823333372,
   "mapsQuery": "ครัวบะช่อ ลาดกระบัง 54",
   "source": "https://www.wongnai.com/restaurants/256227hF-%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A7%E0%B8%9A%E0%B8%B0%E0%B8%8A%E0%B9%88%E0%B8%AD-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87-54",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "wongnai"
  },
  {
   "name": "เนียร หมูกระทะอุดร สาขา 9",
@@ -498,11 +516,12 @@
   "price": 3,
   "priceText": null,
   "hours": "16:00-23:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.721578978697938,
+  "lng": 100.77127832320187,
   "mapsQuery": "เนียร หมูกระทะอุดร สาขา 9 ลาดกระบัง",
   "source": "https://salehere.co.th/articles/recommend-mookata-lat-krabang",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ติดมันส์ บุฟเฟ่ต์ปิ้งย่าง สาขาลาดกระบัง",
@@ -523,11 +542,12 @@
   "price": 3,
   "priceText": "258 บาท",
   "hours": "15:00-02:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7213406,
+  "lng": 100.7427011,
   "mapsQuery": "ติดมันส์ บุฟเฟ่ต์ปิ้งย่าง ลาดกระบัง",
   "source": "https://www.ryoiireview.com/article/buffet-shabu-sushi-grill-ladkrabang/",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ลาวา บุฟเฟ่ต์ & ซีฟู้ด",
@@ -545,11 +565,12 @@
   "price": 3,
   "priceText": "299 บาท",
   "hours": "16:00-23:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.721494672539464,
+  "lng": 100.77489926838494,
   "mapsQuery": "ลาวา บุฟเฟ่ต์ ลาดกระบัง",
   "source": "https://www.ryoiireview.com/article/buffet-shabu-sushi-grill-ladkrabang/",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ชาบูยูไลค์",
@@ -567,11 +588,12 @@
   "price": 4,
   "priceText": "359 บาท",
   "hours": "11:30-23:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7209,
+  "lng": 100.77459,
   "mapsQuery": "Shabu You Like ลาดกระบัง 46/1",
   "source": "https://www.ryoiireview.com/article/buffet-shabu-sushi-grill-ladkrabang/",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ตี๋ใหญ่ชาบู ลาดกระบัง",
@@ -591,11 +613,12 @@
   "price": 4,
   "priceText": "399 บาท++",
   "hours": "12:00-22:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.721416816341087,
+  "lng": 100.75683664530516,
   "mapsQuery": "ตี๋ใหญ่ชาบู ลาดกระบัง",
   "source": "https://www.ryoiireview.com/article/food-ladkrabang-chill/",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ชาบูคุณแม่ ปิ้งย่าง",
@@ -613,11 +636,12 @@
   "price": 4,
   "priceText": "429 บาทขึ้นไป",
   "hours": "11:00-22:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.721896,
+  "lng": 100.714917,
   "mapsQuery": "ชาบูคุณแม่ ปิ้งย่าง ลาดกระบัง",
   "source": "https://www.ryoiireview.com/article/buffet-shabu-sushi-grill-ladkrabang/",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "wongnai"
  },
  {
   "name": "มาซารุ ซูชิ",
@@ -636,11 +660,12 @@
   "price": 4,
   "priceText": "549-949 บาท++",
   "hours": "12:00-22:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.72312693069641,
+  "lng": 100.75061241164804,
   "mapsQuery": "Masaru Sushi ลาดกระบัง",
   "source": "https://www.ryoiireview.com/article/buffet-shabu-sushi-grill-ladkrabang/",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "หมูปิ้ง แอร์พอร์ตลิงค์ลาดกระบัง",
@@ -660,11 +685,12 @@
   "price": 1,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.72715,
+  "lng": 100.7470327,
   "mapsQuery": "หมูปิ้ง แอร์พอร์ตลิงค์ลาดกระบัง",
   "source": "https://www.wongnai.com/restaurants/2673974Dm-%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B8%9B%E0%B8%B4%E0%B9%89%E0%B8%87-%E0%B9%81%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%9E%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ทวีโชคหมูกะทะ สาขา 8 ร่มเกล้า",
@@ -710,11 +736,12 @@
   "price": 3,
   "priceText": "319 บาท",
   "hours": "15:30-23:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7549094,
+  "lng": 100.7466931,
   "mapsQuery": "แม่น้ำหมูกะทะ 2 ร่มเกล้า",
   "source": "https://www.wongnai.com/restaurants/306251To-%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B8%81%E0%B8%B0%E0%B8%97%E0%B8%B0-2-%E0%B8%A3%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "อาดี สุกี้ บุฟเฟ่ต์หม่าล่า สาขาร่มเกล้า",
@@ -732,11 +759,12 @@
   "price": 3,
   "priceText": "259 บาท",
   "hours": "จ-ศ 15:00-23:00, ส-อา 12:00-23:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7550285,
+  "lng": 100.7467699,
   "mapsQuery": "Adee Suki ร่มเกล้า",
   "source": "https://www.ryoiireview.com/article/buffet-shabu-sushi-grill-ladkrabang/",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "other"
  },
  {
   "name": "ฮ่องเต้ สุกี้-ปิ้งย่าง บุฟเฟ่ต์",
@@ -757,11 +785,12 @@
   "price": 3,
   "priceText": "219 บาท",
   "hours": "12:00-02:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.768483,
+  "lng": 100.732431,
   "mapsQuery": "ฮ่องเต้ สุกี้ ปิ้งย่าง เคหะร่มเกล้า",
   "source": "https://www.ryoiireview.com/article/buffet-shabu-sushi-grill-ladkrabang/",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "other"
  },
  {
   "name": "18 มงกุฎ สุกี้-ชาบู เคหะร่มเกล้า",
@@ -780,11 +809,12 @@
   "price": 3,
   "priceText": "199 บาท + 20",
   "hours": "ไม่ระบุ",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7648,
+  "lng": 100.731206,
   "mapsQuery": "18 มงกุฎ สุกี้ ชาบู เคหะร่มเกล้า",
   "source": "https://www.wongnai.com/reviews/4620354bd4894c74aad18852fcfc55fc",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ตั้งหวังเจ๊ง ก๋วยเตี๋ยวไก่มะระบุฟเฟ่ต์ สาขาเคหะร่มเกล้า",
@@ -803,11 +833,12 @@
   "price": 2,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.7639311,
+  "lng": 100.7269729,
   "mapsQuery": "ตั้งหวังเจ๊ง เคหะร่มเกล้า",
   "source": "https://www.wongnai.com/restaurants/2159443Sj-%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%88%E0%B9%8A%E0%B8%87-%E0%B8%81%E0%B9%8B%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B8%A2%E0%B8%A7%E0%B9%84%E0%B8%81%E0%B9%88%E0%B8%A1%E0%B8%B0%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B8%E0%B8%9F%E0%B9%80%E0%B8%9F%E0%B9%88%E0%B8%95%E0%B9%8C-%E0%B8%AA%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%84%E0%B8%AB%E0%B8%B0%E0%B8%A3%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "wongnai"
  },
  {
   "name": "เตี๋ยว กะ ตำ สาขาเคหะร่มเกล้า",
@@ -827,11 +858,12 @@
   "price": 1,
   "priceText": "เริ่ม 35 บาท",
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.7706723,
+  "lng": 100.7324493,
   "mapsQuery": "เตี๋ยว กะ ตำ เคหะร่มเกล้า",
   "source": "https://www.wongnai.com/restaurants/287478jl-%E0%B9%80%E0%B8%95%E0%B8%B5%E0%B9%8B%E0%B8%A2%E0%B8%A7-%E0%B8%81%E0%B8%B0-%E0%B8%95%E0%B8%B3-%E0%B8%AA%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%84%E0%B8%AB%E0%B8%B0%E0%B8%A3%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2-%E0%B9%80%E0%B8%84%E0%B8%AB%E0%B8%B0%E0%B8%A3%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ก๋วยเตี๋ยวเรือธง เคหะร่มเกล้า",
@@ -873,11 +905,12 @@
   "price": 1,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.7649156,
+  "lng": 100.7246728,
   "mapsQuery": "ก๋วยเตี๋ยวเรืออยุธยารสเด็ด สาขา4 เคหะร่มเกล้า",
   "source": "https://www.wongnai.com/reviews/0c1024e4b6104c98a601123424974d42",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ครัวสวนบ้านแม่",
@@ -921,11 +954,12 @@
   "price": 3,
   "priceText": "70-500 บาท",
   "hours": "08:00-21:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.742524,
+  "lng": 100.747057,
   "mapsQuery": "Churn Buttery ร่มเกล้า",
   "source": "https://www.ryoiireview.com/article/food-ladkrabang-chill/",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "เพลินเพลิน",
@@ -944,11 +978,12 @@
   "price": 2,
   "priceText": "60 บาทขึ้นไป",
   "hours": "11:00-22:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.733426,
+  "lng": 100.7375308,
   "mapsQuery": "เพลินเพลิน ร่มเกล้า",
   "source": "https://gangtravel.com/67563",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "other"
  },
  {
   "name": "อนุสรณ์ คาเฟ่",
@@ -967,11 +1002,12 @@
   "price": 2,
   "priceText": null,
   "hours": "10:00-22:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7332524,
+  "lng": 100.8049505,
   "mapsQuery": "Anusorn Cafe ลาดกระบัง",
   "source": "https://www.ryoiireview.com/article/food-ladkrabang-chill/",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "other"
  },
  {
   "name": "Ploen Way Cafe ร่มเกล้า",
@@ -991,11 +1027,12 @@
   "price": 2,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.73384418335317,
+  "lng": 100.73725786060095,
   "mapsQuery": "Ploen Way Cafe ร่มเกล้า",
   "source": "https://www.wongnai.com/restaurants/2335350oN-ploen-way-cafe-%E0%B8%A3%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "Room11 Cafe",
@@ -1014,11 +1051,12 @@
   "price": 2,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.772637,
+  "lng": 100.709844,
   "mapsQuery": "Room11 Cafe เคหะร่มเกล้า",
   "source": "https://www.wongnai.com/reviews/fd59e65bd0d94d57b225475cc1fdf1f7",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "wongnai"
  },
  {
   "name": "Prakai Cafe & Cuisine",
@@ -1038,11 +1076,12 @@
   "price": 2,
   "priceText": null,
   "hours": "10:00-22:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.798307483650188,
+  "lng": 100.74686067178845,
   "mapsQuery": "Prakai Cafe ร่มเกล้า",
   "source": "https://www.wongnai.com/reviews/09b02f758570462b96ef2857d5b48d8d",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "wongnai"
  },
  {
   "name": "มาเด้อร่มเกล้าคาเฟ่",
@@ -1059,11 +1098,12 @@
   "price": 1,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.7630237,
+  "lng": 100.7297777,
   "mapsQuery": "มาเด้อร่มเกล้าคาเฟ่ เคหะร่มเกล้า 58",
   "source": "https://www.wongnai.com/restaurants/2181979qC-%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%94%E0%B9%89%E0%B8%AD%E0%B8%A3%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B9%80%E0%B8%9F%E0%B9%88-%E0%B9%80%E0%B8%84%E0%B8%AB%E0%B8%B0%E0%B8%A3%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2-58",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ตลาดรันเวย์ 3119",
@@ -1085,11 +1125,12 @@
   "price": 2,
   "priceText": null,
   "hours": "อ-อา 17:00-24:00 (ปิดวันจันทร์)",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7399122,
+  "lng": 100.7478059,
   "mapsQuery": "ตลาดรันเวย์ 3119 ร่มเกล้า",
   "source": "https://www.ryoiireview.com/article/restaurant-market-runway-romklao-road/",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "nominatim"
  },
  {
   "name": "จุดสกัดลาว ตลาด Runway 3119",
@@ -1109,11 +1150,12 @@
   "price": 3,
   "priceText": "101-250 บาท",
   "hours": "17:00-24:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.73999,
+  "lng": 100.748031,
   "mapsQuery": "จุดสกัดลาว ตลาด Runway 3119",
   "source": "https://www.wongnai.com/reviews/71b92baf56ce426fb432a487b3dbde1c",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "จิ้มจุ่มยักษ์ 3119",
@@ -1133,11 +1175,12 @@
   "price": 3,
   "priceText": "29-699 บาท",
   "hours": "18:00-24:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.73968,
+  "lng": 100.74701,
   "mapsQuery": "จิ้มจุ่มยักษ์ 3119 ร่มเกล้า",
   "source": "https://www.ryoiireview.com/article/restaurant-market-runway-romklao-road/",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "other"
  },
  {
   "name": "เจ๊แอน ตำยำปากเปิด",
@@ -1156,11 +1199,12 @@
   "price": 2,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.7489733,
+  "lng": 100.7926864,
   "mapsQuery": "เจ๊แอน ตำยำปากเปิด รันเวย์ 3119",
   "source": "https://www.ryoiireview.com/article/spicy-restaurant-ladkrabang/",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "other"
  },
  {
   "name": "SuperBurger ตลาดรันเวย์ 3119",
@@ -1178,11 +1222,12 @@
   "price": 1,
   "priceText": "49 บาทขึ้นไป",
   "hours": "17:00-24:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.73935,
+  "lng": 100.74691,
   "mapsQuery": "SuperBurger Runway 3119",
   "source": "https://www.ryoiireview.com/article/restaurant-market-runway-romklao-road/",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "other"
  },
  {
   "name": "Kung and Gang ตลาดรันเวย์ 3119",
@@ -1201,11 +1246,12 @@
   "price": 3,
   "priceText": "159 บาทขึ้นไป",
   "hours": "17:00-24:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.73935,
+  "lng": 100.74691,
   "mapsQuery": "Kung and Gang Runway 3119",
   "source": "https://www.ryoiireview.com/article/restaurant-market-runway-romklao-road/",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "other"
  },
  {
   "name": "เอ็มเค เรสโตรองต์ โรบินสัน ลาดกระบัง",
@@ -1226,11 +1272,12 @@
   "price": 3,
   "priceText": null,
   "hours": "10:00-21:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7199534,
+  "lng": 100.7249486,
   "mapsQuery": "MK Restaurants โรบินสัน ลาดกระบัง",
   "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "ชาบูชิ โรบินสัน ลาดกระบัง",
@@ -1251,11 +1298,12 @@
   "price": 4,
   "priceText": null,
   "hours": "10:00-21:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7199534,
+  "lng": 100.7249486,
   "mapsQuery": "Shabushi โรบินสัน ลาดกระบัง",
   "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "บาร์บีคิวพลาซ่า โรบินสัน ลาดกระบัง",
@@ -1275,11 +1323,12 @@
   "price": 3,
   "priceText": null,
   "hours": "10:00-21:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7199534,
+  "lng": 100.7249486,
   "mapsQuery": "Bar-B-Q Plaza โรบินสัน ลาดกระบัง",
   "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "ฟูจิ โรบินสัน ลาดกระบัง",
@@ -1300,11 +1349,12 @@
   "price": 3,
   "priceText": null,
   "hours": "10:00-21:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7199534,
+  "lng": 100.7249486,
   "mapsQuery": "Fuji Japanese Restaurant โรบินสัน ลาดกระบัง",
   "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "ซิซซ์เลอร์ โรบินสัน ลาดกระบัง",
@@ -1325,11 +1375,12 @@
   "price": 4,
   "priceText": null,
   "hours": "10:00-21:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7199534,
+  "lng": 100.7249486,
   "mapsQuery": "Sizzler โรบินสัน ลาดกระบัง",
   "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "เปปเปอร์ลันช์ โรบินสัน ลาดกระบัง",
@@ -1349,11 +1400,12 @@
   "price": 3,
   "priceText": null,
   "hours": "10:00-21:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7199534,
+  "lng": 100.7249486,
   "mapsQuery": "Pepper Lunch โรบินสัน ลาดกระบัง",
   "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "คัตสึยะ โรบินสัน ลาดกระบัง",
@@ -1374,11 +1426,12 @@
   "price": 3,
   "priceText": null,
   "hours": "10:00-20:30",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7208488,
+  "lng": 100.7246666,
   "mapsQuery": "Katsuya โรบินสัน ลาดกระบัง",
   "source": "https://www.wongnai.com/restaurants/457788mv-katsuya-%E0%B9%82%E0%B8%A3%E0%B8%9A%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%B1%E0%B8%99-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ซูชิโร่ โรบินสัน ลาดกระบัง",
@@ -1399,11 +1452,12 @@
   "price": 3,
   "priceText": null,
   "hours": "10:00-21:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7198758,
+  "lng": 100.7250894,
   "mapsQuery": "Sushiro โรบินสัน ลาดกระบัง",
   "source": "https://www.wongnai.com/restaurants/3196254pi-sushiro-thailand-robinson-latkrabang",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ฮะจิบัง ราเมน โรบินสัน ลาดกระบัง",
@@ -1423,11 +1477,12 @@
   "price": 2,
   "priceText": null,
   "hours": "10:00-21:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7199534,
+  "lng": 100.7249486,
   "mapsQuery": "Hachiban Ramen โรบินสัน ลาดกระบัง",
   "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "สเวนเซ่นส์ โรบินสัน ลาดกระบัง",
@@ -1448,11 +1503,12 @@
   "price": 3,
   "priceText": null,
   "hours": "10:00-21:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7199534,
+  "lng": 100.7249486,
   "mapsQuery": "Swensen's โรบินสัน ลาดกระบัง",
   "source": "https://restaurantguru.com/Robinson-Lifestyle-Bangkok-ml",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "สตาร์บัคส์ โรบินสัน ลาดกระบัง",
@@ -1473,11 +1529,12 @@
   "price": 3,
   "priceText": null,
   "hours": "10:00-21:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7199534,
+  "lng": 100.7249486,
   "mapsQuery": "Starbucks โรบินสัน ลาดกระบัง",
   "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "เดอะพิซซ่า คอมปะนี โรบินสัน ลาดกระบัง",
@@ -1497,11 +1554,12 @@
   "price": 3,
   "priceText": null,
   "hours": "10:00-21:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7199534,
+  "lng": 100.7249486,
   "mapsQuery": "The Pizza Company โรบินสัน ลาดกระบัง",
   "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "เอส แอนด์ พี โรบินสัน ลาดกระบัง",
@@ -1523,11 +1581,12 @@
   "price": 2,
   "priceText": null,
   "hours": "10:00-21:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7199534,
+  "lng": 100.7249486,
   "mapsQuery": "S&P Restaurant & Bakery โรบินสัน ลาดกระบัง",
   "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "สวนผัก โอ้กะจู๋ โรบินสัน ลาดกระบัง",
@@ -1549,11 +1608,12 @@
   "price": 3,
   "priceText": null,
   "hours": "10:00-21:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7199534,
+  "lng": 100.7249486,
   "mapsQuery": "Ohkajhu โรบินสัน ลาดกระบัง",
   "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "AKA โรบินสัน ลาดกระบัง",
@@ -1573,11 +1633,12 @@
   "price": 4,
   "priceText": null,
   "hours": "10:00-21:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7199534,
+  "lng": 100.7249486,
   "mapsQuery": "AKA โรบินสัน ลาดกระบัง",
   "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "มะละกอ ส้มตำอีสานแซ่บ โรบินสัน ลาดกระบัง",
@@ -1598,11 +1659,12 @@
   "price": 2,
   "priceText": null,
   "hours": "10:00-21:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7199534,
+  "lng": 100.7249486,
   "mapsQuery": "Ma-La-Kor โรบินสัน ลาดกระบัง",
   "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "On the Table โรบินสัน ลาดกระบัง",
@@ -1623,11 +1685,12 @@
   "price": 3,
   "priceText": null,
   "hours": "10:00-21:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7199534,
+  "lng": 100.7249486,
   "mapsQuery": "On the Table โรบินสัน ลาดกระบัง",
   "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "บอนชอน โรบินสัน ลาดกระบัง",
@@ -1646,11 +1709,12 @@
   "price": 3,
   "priceText": null,
   "hours": "10:00-21:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7198758,
+  "lng": 100.7250894,
   "mapsQuery": "Bonchon โรบินสัน ลาดกระบัง",
   "source": "https://www.wongnai.com/reviews/2911a96d76fd4cc0b3b696fc23025a62",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "วาชิ โรบินสัน ลาดกระบัง",
@@ -1670,11 +1734,12 @@
   "price": 3,
   "priceText": null,
   "hours": "10:00-21:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7199534,
+  "lng": 100.7249486,
   "mapsQuery": "Washi โรบินสัน ลาดกระบัง",
   "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "ยัมมี่ แหนมเนือง โรบินสัน ลาดกระบัง",
@@ -1693,11 +1758,12 @@
   "price": 2,
   "priceText": null,
   "hours": "10:00-21:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7199534,
+  "lng": 100.7249486,
   "mapsQuery": "Yummy Naem Nueang โรบินสัน ลาดกระบัง",
   "source": "https://www.wongnai.com/places/robinson-lifestyle-ladkrabang",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "มิสเตอร์ โดนัท โรบินสัน ลาดกระบัง",
@@ -1718,11 +1784,12 @@
   "price": 1,
   "priceText": null,
   "hours": "10:00-21:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.72116,
+  "lng": 100.724645,
   "mapsQuery": "Mister Donut โรบินสัน ลาดกระบัง",
   "source": "https://www.wongnai.com/restaurants/461446kp-mister-donut-%E0%B9%82%E0%B8%A3%E0%B8%9A%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%9F%E0%B9%8C%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "เบอร์เกอร์คิง ลิตเติ้ลวอล์ค ลาดกระบัง",
@@ -1740,11 +1807,12 @@
   "price": 2,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.7199534,
+  "lng": 100.7249486,
   "mapsQuery": "Burger King Little Walk ลาดกระบัง",
   "source": "https://www.wongnai.com/places/little-walk-ladkrabang",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "เอ ราเมง ราเมงข้อสอบ",
@@ -1762,11 +1830,12 @@
   "price": 2,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.7199534,
+  "lng": 100.7249486,
   "mapsQuery": "A Ramen Little Walk ลาดกระบัง",
   "source": "https://www.wongnai.com/places/little-walk-ladkrabang",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "โคเอ็น ซูชิบาร์ ลิตเติ้ลวอล์ค",
@@ -1786,11 +1855,12 @@
   "price": 4,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.722600920011203,
+  "lng": 100.72588143870234,
   "mapsQuery": "Kouen Sushi Bar Little Walk ลาดกระบัง",
   "source": "https://www.wongnai.com/restaurants/2147442oF-kouen-sushi-bar-little-walk-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ซูชิซัง ลาดกระบัง",
@@ -1810,11 +1880,12 @@
   "price": 3,
   "priceText": null,
   "hours": "11:30-21:30",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7199534,
+  "lng": 100.7249486,
   "mapsQuery": "Sushi San Ladkrabang Little Walk ลาดกระบัง",
   "source": "https://www.grab.com/th/en/food-blog/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87/",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "นิตยาไก่ย่าง ลิตเติ้ลวอล์ค ลาดกระบัง",
@@ -1833,11 +1904,12 @@
   "price": 2,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.7199534,
+  "lng": 100.7249486,
   "mapsQuery": "Nittaya Kai Yang Little Walk ลาดกระบัง",
   "source": "https://www.wongnai.com/places/little-walk-ladkrabang",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "Atlas Specialty Coffee",
@@ -1857,11 +1929,12 @@
   "price": 2,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.7227856,
+  "lng": 100.7261253,
   "mapsQuery": "Atlas Specialty Coffee Little Walk ลาดกระบัง",
   "source": "https://www.wongnai.com/restaurants/2161514EG-atlas-specialty-coffee-little-walk-ladkrabung",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "Mikka Coffee Roasters",
@@ -1879,11 +1952,12 @@
   "price": 1,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.7199534,
+  "lng": 100.7249486,
   "mapsQuery": "Mikka Coffee Roasters Little Walk ลาดกระบัง",
   "source": "https://www.wongnai.com/places/little-walk-ladkrabang",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "มารุ วาฟเฟิล ลิตเติ้ลวอล์ค",
@@ -1901,11 +1975,12 @@
   "price": 1,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.7199534,
+  "lng": 100.7249486,
   "mapsQuery": "Maru Waffle Little Walk ลาดกระบัง",
   "source": "https://www.wongnai.com/places/little-walk-ladkrabang",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "แดรี่ควีน ลิตเติ้ลวอล์ค",
@@ -1924,11 +1999,12 @@
   "price": 1,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.7199534,
+  "lng": 100.7249486,
   "mapsQuery": "Dairy Queen Little Walk ลาดกระบัง",
   "source": "https://www.wongnai.com/places/little-walk-ladkrabang",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "Pizza Kraft ลาดกระบัง",
@@ -1946,11 +2022,12 @@
   "price": 3,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.7199534,
+  "lng": 100.7249486,
   "mapsQuery": "Pizza Kraft Little Walk ลาดกระบัง",
   "source": "https://www.wongnai.com/places/little-walk-ladkrabang",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "พริกคั่วกะปิหอม",
@@ -1969,11 +2046,12 @@
   "price": 2,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.7199534,
+  "lng": 100.7249486,
   "mapsQuery": "Prik Khua Kapi Hom Little Walk ลาดกระบัง",
   "source": "https://www.wongnai.com/places/little-walk-ladkrabang",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "Shinkanzen Sushi ลิตเติ้ลวอล์ค",
@@ -1993,11 +2071,12 @@
   "price": 2,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.7199534,
+  "lng": 100.7249486,
   "mapsQuery": "Shinkanzen Sushi Little Walk ลาดกระบัง",
   "source": "https://www.wongnai.com/places/little-walk-ladkrabang",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "แมคโดนัลด์ พาซิโอ ลาดกระบัง (ไดร์ฟทรู)",
@@ -2017,11 +2096,12 @@
   "price": 2,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.721825,
+  "lng": 100.727497,
   "mapsQuery": "McDonald's เดอะพาซิโอ ลาดกระบัง",
   "source": "https://www.mcdonalds.co.th/storeLocations/63e9d17d58407914691e96a5?lang=th",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "other"
  },
  {
   "name": "เคเอฟซี พาซิโอ ลาดกระบัง",
@@ -2039,11 +2119,12 @@
   "price": 2,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.7221358,
+  "lng": 100.72732,
   "mapsQuery": "KFC เดอะพาซิโอ ลาดกระบัง",
   "source": "https://www.wongnai.com/places/the-paseo-mall",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "เอ็มเค เรสโตรองต์ พาซิโอ ลาดกระบัง",
@@ -2062,11 +2143,12 @@
   "price": 3,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.7221358,
+  "lng": 100.72732,
   "mapsQuery": "MK Restaurants เดอะพาซิโอ ลาดกระบัง",
   "source": "https://www.wongnai.com/places/the-paseo-mall",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "ยาโยอิ พาซิโอ ลาดกระบัง",
@@ -2085,11 +2167,12 @@
   "price": 3,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.7221358,
+  "lng": 100.72732,
   "mapsQuery": "Yayoi เดอะพาซิโอ ลาดกระบัง",
   "source": "https://www.wongnai.com/places/the-paseo-mall",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "ZEN พาซิโอ ลาดกระบัง",
@@ -2108,11 +2191,12 @@
   "price": 3,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.7221358,
+  "lng": 100.72732,
   "mapsQuery": "ZEN Japanese Restaurant เดอะพาซิโอ ลาดกระบัง",
   "source": "https://www.wongnai.com/places/the-paseo-mall",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "จีบ สามเซียน พาซิโอ ลาดกระบัง",
@@ -2131,11 +2215,12 @@
   "price": 2,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.720330416271,
+  "lng": 100.72739185765,
   "mapsQuery": "Jeeb Dimsum เดอะพาซิโอ ลาดกระบัง",
   "source": "https://www.wongnai.com/restaurants/jeebdimsum",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ต๋อง เต็ม โต๊ะ พาซิโอ ลาดกระบัง",
@@ -2156,11 +2241,12 @@
   "price": 3,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.719911,
+  "lng": 100.727453,
   "mapsQuery": "Tong Tem Toh เดอะพาซิโอ ลาดกระบัง",
   "source": "https://www.wongnai.com/reviews/924c09d160a642a08fd355bc062b11dc",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "Inter Restaurant พาซิโอ ลาดกระบัง",
@@ -2180,11 +2266,12 @@
   "price": 2,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.7221358,
+  "lng": 100.72732,
   "mapsQuery": "Inter Restaurant เดอะพาซิโอ ลาดกระบัง",
   "source": "https://www.wongnai.com/places/the-paseo-mall",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "ชาบูเชน พาซิโอ ลาดกระบัง",
@@ -2202,11 +2289,12 @@
   "price": 3,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.719441,
+  "lng": 100.727375,
   "mapsQuery": "Shabu Chain เดอะพาซิโอ ลาดกระบัง",
   "source": "https://www.wongnai.com/restaurants/304926Pu-%E0%B8%8A%E0%B8%B2%E0%B8%9A%E0%B8%B9%E0%B9%80%E0%B8%8A%E0%B8%99-%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%8B%E0%B8%B4%E0%B9%82%E0%B8%AD-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "คริสปี้ครีม พาซิโอ ลาดกระบัง",
@@ -2224,11 +2312,12 @@
   "price": 1,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.7221358,
+  "lng": 100.72732,
   "mapsQuery": "Krispy Kreme เดอะพาซิโอ ลาดกระบัง",
   "source": "https://www.wongnai.com/places/the-paseo-mall",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "เฮือนก๋วยเตี๋ยว พาซิโอ ลาดกระบัง",
@@ -2246,11 +2335,12 @@
   "price": 2,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.7221358,
+  "lng": 100.72732,
   "mapsQuery": "Huean Kuay Tiew เดอะพาซิโอ ลาดกระบัง",
   "source": "https://www.wongnai.com/places/the-paseo-mall",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "mall"
  },
  {
   "name": "เคเอฟซี โลตัส ลาดกระบัง",
@@ -2270,11 +2360,12 @@
   "price": 2,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.720372,
+  "lng": 100.793263,
   "mapsQuery": "KFC โลตัส ลาดกระบัง",
   "source": "https://www.wongnai.com/restaurants/660407gz-kfc-%E0%B9%82%E0%B8%A5%E0%B8%95%E0%B8%B1%E0%B8%AA-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ตำมั่ว โลตัส ลาดกระบัง",
@@ -2294,11 +2385,12 @@
   "price": 2,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.7200331,
+  "lng": 100.7931657,
   "mapsQuery": "ตำมั่ว โลตัส ลาดกระบัง",
   "source": "https://www.wongnai.com/restaurants/664706HG-ตำมั่ว-โลตัสลาดกระบัง",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "เชสเตอร์ โลตัส ลาดกระบัง",
@@ -2317,11 +2409,12 @@
   "price": 2,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.719758461174777,
+  "lng": 100.79326221719384,
   "mapsQuery": "Chester's โลตัส ลาดกระบัง",
   "source": "https://www.wongnai.com/restaurants/2634883SG-chester-s-%E0%B9%82%E0%B8%A5%E0%B8%95%E0%B8%B1%E0%B8%AA-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "มิสเตอร์ โดนัท โลตัส ลาดกระบัง",
@@ -2340,11 +2433,12 @@
   "price": 1,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.719642842996464,
+  "lng": 100.79310161992908,
   "mapsQuery": "Mister Donut โลตัส ลาดกระบัง",
   "source": "https://www.wongnai.com/restaurants/20231Kq-mister-donut-%E0%B9%82%E0%B8%A5%E0%B8%95%E0%B8%B1%E0%B8%AA-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "Coffee Arigato โลตัส ลาดกระบัง",
@@ -2363,10 +2457,11 @@
   "price": 1,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.71954317217238,
+  "lng": 100.79310832545161,
   "mapsQuery": "Coffee Arigato โลตัส ลาดกระบัง",
   "source": "https://www.wongnai.com/restaurants/778708UC-coffee-arigato-lotus-ladkrabang",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  }
 ]

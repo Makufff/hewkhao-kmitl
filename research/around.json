@@ -137,11 +137,12 @@
   "price": 2,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.722976787203795,
+  "lng": 100.78064108267426,
   "mapsQuery": "The nice house steak bar ลาดกระบัง",
   "source": "https://www.wongnai.com/restaurants/896941UM-the-nice-house-steak-bar-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "บ้านข้าวซอย ลาดกระบัง",
@@ -185,11 +186,12 @@
   "price": 2,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.72257,
+  "lng": 100.780361,
   "mapsQuery": "ละมุน เบเกอรี่ ลาดกระบัง",
   "source": "https://www.wongnai.com/restaurants/3485gp-%E0%B8%A5%E0%B8%B0%E0%B8%A1%E0%B8%B8%E0%B8%99-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ตำ ยำ คลุก RNP",
@@ -401,11 +403,12 @@
   "price": 1,
   "priceText": "45-55 บาท",
   "hours": "กลางวัน (ของหมดปิดเร็ว)",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7276746,
+  "lng": 100.7634319,
   "mapsQuery": "ป้านัยตามสั่ง ฉลองกรุง 1 ลาดกระบัง",
   "source": "https://www.lemon8-app.com/@por.ksm/7483151975950107152?region=th",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "landmark"
  },
  {
   "name": "นายพล จุ่มแซบ",
@@ -454,11 +457,12 @@
   "price": 2,
   "priceText": "100+ บาท",
   "hours": "11:00-22:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7276746,
+  "lng": 100.7634319,
   "mapsQuery": "Timber Cafe Thailand ฉลองกรุง 1 ลาดกระบัง",
   "source": "https://www.ryoiireview.com/article/cafe-sweet-latkrabang-bkk/",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "other"
  },
  {
   "name": "Playlistcafe",
@@ -504,11 +508,12 @@
   "price": 1,
   "priceText": "เริ่ม 35 บาท",
   "hours": "16:00-20:30 (ปิดเสาร์-อาทิตย์)",
-  "lat": null,
-  "lng": null,
+  "lat": 13.727285,
+  "lng": 100.77077,
   "mapsQuery": "SUM FRUIT บิงซู ลาดกระบัง",
   "source": "https://www.ryoiireview.com/article/cafe-sweet-latkrabang-bkk/",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ข้าวไข่เจียวเกกี (เซเว่นเกกี 1)",
@@ -551,11 +556,12 @@
   "price": 1,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.7278854,
+  "lng": 100.7707094,
   "mapsQuery": "ส้มตำ ปากซอยเกกีงาม 1 ลาดกระบัง",
   "source": "https://www.lemon8-app.com/experience/%E0%B8%8B%E0%B8%AD%E0%B8%A2%E0%B9%80%E0%B8%81%E0%B8%81%E0%B8%B5-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87-%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B4%E0%B8%99?region=th",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "landmark"
  },
  {
   "name": "มุมสบาย เกกี 4",
@@ -768,11 +774,12 @@
   "price": 2,
   "priceText": "ไม้ละ 10-50 บาท",
   "hours": "15:00-",
-  "lat": null,
-  "lng": null,
+  "lat": 13.727107994066115,
+  "lng": 100.76958267018198,
   "mapsQuery": "หม่าล่าเสฉวน ชวงชวงเว่ย เกกี4 ลาดกระบัง",
   "source": "https://www.wongnai.com/delivery/businesses/3560914iO/order",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "wongnai"
  },
  {
   "name": "Shabu Life ชาบูไลฟ์",
@@ -1008,11 +1015,12 @@
   "price": 1,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.727793268564511,
+  "lng": 100.76950689777732,
   "mapsQuery": "Moma's Bubble Tea เกกีงาม 4 ลาดกระบัง",
   "source": "https://www.wongnai.com/restaurants/393645uj",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "wongnai"
  },
  {
   "name": "อิ่มแปล้ แฮปปี้คัพ",
@@ -1031,11 +1039,12 @@
   "price": 1,
   "priceText": "50-70 บาท",
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.727867,
+  "lng": 100.769956,
   "mapsQuery": "แฮปปี้คัพ ปากซอยเกกี 4 ลาดกระบัง",
   "source": "https://www.lemon8-app.com/experience/%E0%B9%80%E0%B8%81%E0%B8%81%E0%B8%B5-4?region=th",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ผัดไทย-หอยทอดป้าพัช เกกี 4",
@@ -1055,11 +1064,12 @@
   "price": 2,
   "priceText": "80-110 บาท",
   "hours": "17:00-22:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7273834,
+  "lng": 100.7694829,
   "mapsQuery": "ผัดไทย หอยทอด ป้าพัช เกกี4 ลาดกระบัง",
   "source": "https://www.wongnai.com/delivery/businesses/508152Ej/order",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "Siriwan Moji โมจิครีมชีสผลไม้",
@@ -1076,11 +1086,12 @@
   "price": 2,
   "priceText": null,
   "hours": "16:00-19:30",
-  "lat": null,
-  "lng": null,
+  "lat": 13.727498600000002,
+  "lng": 100.76630259999996,
   "mapsQuery": "Siriwan Moji เกกี 4 ลาดกระบัง",
   "source": "https://www.lemon8-app.com/@yvbakery/7548629513925214728?region=us",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ยำแซ่บบิลเลี่ยน",
@@ -1099,11 +1110,12 @@
   "price": 1,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.727624881863669,
+  "lng": 100.76635928418753,
   "mapsQuery": "ยำแซ่บบิลเลี่ยน ลาดกระบัง",
   "source": "https://www.lemon8-app.com/experience/%E0%B9%80%E0%B8%81%E0%B8%81%E0%B8%B5-4?region=th",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "wongnai"
  },
  {
   "name": "Bu-Rin ปิ้งย่าง",
@@ -1246,11 +1258,12 @@
   "price": 2,
   "priceText": "เริ่ม 89 บาท",
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.72747953879299,
+  "lng": 100.76579772054724,
   "mapsQuery": "Camelly Brasseries College Town ลาดกระบัง",
   "source": "https://www.lemon8-app.com/lemon7853252613/7120238500783407618?region=us",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "Smooth Japanese food",
@@ -1318,11 +1331,12 @@
   "price": 1,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.727235800754862,
+  "lng": 100.76598120695229,
   "mapsQuery": "Mongni Cafe ลาดกระบัง ฉลองกรุง 1",
   "source": "https://www.wongnai.com/chains/mongni-cafe",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "wongnai"
  },
  {
   "name": "YERM cocoa ลาดกระบัง",
@@ -1342,11 +1356,12 @@
   "price": 1,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.727567947154053,
+  "lng": 100.76635980532404,
   "mapsQuery": "YERM cocoa ลาดกระบัง",
   "source": "https://www.wongnai.com/restaurants/441134Au-yerm-cocoa",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "Sunbae (ม.พระจอมเกล้า ลาดกระบัง)",
@@ -1439,10 +1454,11 @@
   "price": 1,
   "priceText": "15-20 บาท",
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.7276605,
+  "lng": 100.7715394,
   "mapsQuery": "MIXUE KL Villa ลาดกระบัง",
   "source": "https://www.lemon8-app.com/experience/kl-villa-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87?region=th",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "landmark"
  }
 ]

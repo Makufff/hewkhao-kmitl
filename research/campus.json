@@ -325,11 +325,12 @@
   "price": 1,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.726921,
+  "lng": 100.775704,
   "mapsQuery": "โรงอาหาร A คณะวิศวกรรมศาสตร์ สจล.",
   "source": "https://www.instagram.com/p/CoBm3exrOCP/",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "landmark"
  },
  {
   "name": "เตี๋ยวต้องโดน",
@@ -493,11 +494,12 @@
   "price": 1,
   "priceText": "ต่ำกว่า 100 บาท",
   "hours": "09:00-19:00 จ.-ศ.",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7272045,
+  "lng": 100.7731986,
   "mapsQuery": "iGearBooks&Coffee สจล. ลาดกระบัง",
   "source": "https://www.wongnai.com/restaurants/23305oV",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "คุณฝนตามสั่ง (โรง C ร้าน C4)",
@@ -656,11 +658,12 @@
   "price": 1,
   "priceText": "30-35 บาท",
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.728988,
+  "lng": 100.778497,
   "mapsQuery": "ข้าวมันไก่ โรงอาหารคณะวิทยาศาสตร์ สจล.",
   "source": "https://www.wongnai.com/restaurants/147524Ql",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "wongnai"
  },
  {
   "name": "Café Amazon SC2842 (คณะวิทยาศาสตร์)",
@@ -723,11 +726,12 @@
   "price": 1,
   "priceText": "25-35 บาท",
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.7298885,
+  "lng": 100.7782321,
   "mapsQuery": "ร้านป้ากาญจน์ ครุศาสตร์ สจล.",
   "source": "https://www.wongnai.com/restaurants/347544br",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "นายสมโชค ก๋วยเตี๋ยวต้มยำโบราณ",
@@ -914,11 +918,12 @@
   "price": 1,
   "priceText": "ต่ำกว่า 100 บาท",
   "hours": "07:30-17:30 จ.-ศ. (จ. 07:00), 08:30-16:30 ส.",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7292615,
+  "lng": 100.7768873,
   "mapsQuery": "True Coffee สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง",
   "source": "https://www.wongnai.com/restaurants/164182Nh",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "wongnai"
  },
  {
   "name": "Café Amazon SC3710 (คณะแพทยศาสตร์)",
@@ -984,11 +989,12 @@
   "price": 2,
   "priceText": "101-250 บาท",
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.7287779,
+  "lng": 100.7752039,
   "mapsQuery": "อิดรีส อาหารอิสลาม สจล.",
   "source": "https://www.wongnai.com/restaurants/350125nf",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ร้านชัยนุชา (หอใน)",
@@ -1008,11 +1014,12 @@
   "price": 1,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.728795,
+  "lng": 100.775285,
   "mapsQuery": "หอพักนักศึกษา สจล. โรงอาหาร",
   "source": "https://pantip.com/topic/35274842",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "landmark"
  },
  {
   "name": "ร้านป้าเหมียว (โรงอาหารพระเทพ)",
@@ -1029,11 +1036,12 @@
   "price": 1,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.729968,
+  "lng": 100.775989,
   "mapsQuery": "โรงอาหารพระเทพ สจล.",
   "source": "https://pantip.com/topic/35274842",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "landmark"
  },
  {
   "name": "สนองโอษฐ์ คาเฟ่",
@@ -1076,11 +1084,12 @@
   "price": 1,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.7265491,
+  "lng": 100.7803925,
   "mapsQuery": "โรงอาหารศาลากลางน้ำ คณะเทคโนโลยีการเกษตร สจล.",
   "source": "https://pantip.com/topic/39017279",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "landmark"
  },
  {
   "name": "โรงอาหาร คณะวิศวกรรมศาสตร์ (A)",
@@ -1103,11 +1112,12 @@
   "price": 1,
   "priceText": "30-80 บาท",
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.726921,
+  "lng": 100.775704,
   "mapsQuery": "โรงอาหาร คณะวิศวกรรมศาสตร์ สจล.",
   "source": "https://restaurantguru.com/%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3kmitl-Bangkok",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "other"
  },
  {
   "name": "โรงอาหารคณะวิทยาศาสตร์ (วิดยา)",
@@ -1128,10 +1138,11 @@
   "price": 1,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.728925,
+  "lng": 100.778398,
   "mapsQuery": "โรงอาหารคณะวิทยาศาสตร์ สจล.",
   "source": "https://www.wongnai.com/restaurants/127183Lv",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  }
 ]

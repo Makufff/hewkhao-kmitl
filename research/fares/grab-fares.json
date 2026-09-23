@@ -1,0 +1,133 @@
+{
+  "asOf": "2026-09-23",
+  "services": [
+    {
+      "id": "bike",
+      "label": "GrabBike",
+      "base": 25,
+      "baseKm": 2,
+      "perKm": [
+        {"upToKm": 5, "perKm": 5},
+        {"upToKm": 15, "perKm": 10},
+        {"upToKm": null, "perKm": 10}
+      ],
+      "perMin": 0,
+      "minFare": 25,
+      "bookingFee": 0,
+      "notes": "Grab's own fare guide (27 Aug 2026) says GrabBike is 25 THB for the first 2 km, and after that it uses 'the local tiered rate'. That tiered rate is the legal ceiling for motorcycle taxis (Ministerial Regulation 2016, still in force): 25 THB for 0-2 km, max 5 THB/km for 2-5 km, max 10 THB/km for 5-15 km, and max 10 THB/km past 15 km if no price is agreed. No per-minute charge or separate booking fee has been published. Real-world blog prices for Bangkok in 2026 (3 km 40-55, 5 km 50-70, 8 km 70-100 THB) run about 10-30% above this formula, which fits surge on top of the base schedule. The app quotes a fixed price up front.",
+      "sources": [
+        "https://www.grab.com/th/en/blog/pha-pi-du-withi-kar-reiyk-grab/ (Grab TH, 2026-08-27)",
+        "https://www.thaipbs.or.th/news/content/5853 (Thai PBS, motorcycle-taxi fare ceiling)",
+        "https://hilight.kapook.com/view/134566 (Kapook, 2 km 25 THB / 2-5 km 5 THB / 5-15 km 10 THB)",
+        "https://easy-go-thailand.com/grab-thailand (receipt ranges, Apr 2026)",
+        "https://www.byklo.rent/en/blog/bangkok-scooter-vs-bts-grab/ (2026-06-30)"
+      ]
+    },
+    {
+      "id": "bikeSaver",
+      "label": "GrabBike Saver",
+      "base": 19,
+      "baseKm": 2,
+      "perKm": [
+        {"upToKm": 5, "perKm": 4.5},
+        {"upToKm": 15, "perKm": 9},
+        {"upToKm": null, "perKm": 9}
+      ],
+      "perMin": 0,
+      "minFare": 19,
+      "bookingFee": 0,
+      "notes": "Grab advertises a starting price of 19 THB (campaign 1 Mar - 15 Apr 2026) and earlier a 'best price from 26 THB' (Jan-Mar 2025, Bangkok). You wait longer for a rider. The per-km tiers are MY ESTIMATE of about 10% below GrabBike, not published numbers.",
+      "sources": [
+        "https://www.grab.com/th/en/blog/gcsgbs/ (Grab TH, 2026-03-01)",
+        "https://www.grab.com/th/en/blog/bestpricegbsbkk/ (Grab TH, 2025-01-15)"
+      ]
+    },
+    {
+      "id": "car",
+      "label": "GrabCar (JustGrab)",
+      "base": 45,
+      "baseKm": 2,
+      "perKm": [
+        {"upToKm": 6, "perKm": 8},
+        {"upToKm": 40, "perKm": 7},
+        {"upToKm": null, "perKm": 10}
+      ],
+      "perMin": 2,
+      "minFare": 45,
+      "bookingFee": 20,
+      "notes": "Grab's guide (27 Aug 2026) gives 45 THB for 0-2 km, +8 THB/km for 2-6 km, +7 THB/km for 6-40 km and +10 THB/km above 40 km, and says a congestion charge is added separately. The DLT rule for app-hailed cars (Royal Gazette, Nov 2021, reaffirmed when registration became mandatory on 2 Oct 2025) sets: small car 40-45 THB for the first 2 km, 6-10 THB/km after that, 2 THB/min in traffic, 20 THB booking fee, and a surge cap of the lower of 200 THB or 1x the base fare. So the app minimum is effectively 60-65 THB with the booking fee. Check against 2026 blog prices: formula (45 + 3x8 + 20 + about 15 min x 2) = about 120 THB for 5 km, vs 120-160 THB reported.",
+      "sources": [
+        "https://www.grab.com/th/en/blog/pha-pi-du-withi-kar-reiyk-grab/ (Grab TH, 2026-08-27)",
+        "https://www.dailynews.co.th/news/470281/ (Daily News, DLT gazette, 2021-11-12)",
+        "https://www.pptvhd36.com/wealth/economic/160428 (PPTV, minimum 60 THB incl. booking fee)",
+        "https://www.prachachat.net/hilight-prachachat/news-1894208 (Prachachat, mandatory registration from 2025-10-02)",
+        "https://easy-go-thailand.com/grab-thailand (receipt ranges, Apr 2026)"
+      ]
+    },
+    {
+      "id": "carSaver",
+      "label": "GrabCar Saver",
+      "base": 40,
+      "baseKm": 2,
+      "perKm": [
+        {"upToKm": 6, "perKm": 7},
+        {"upToKm": 40, "perKm": 6.5},
+        {"upToKm": null, "perKm": 9}
+      ],
+      "perMin": 2,
+      "minFare": 40,
+      "bookingFee": 20,
+      "notes": "Grab sells GrabCar Saver as 'cheaper for sure' but publishes no numbers. These figures are MY ESTIMATE of about 10-15% below JustGrab, kept inside the DLT band (40-45 base, 6-10 THB/km). You wait longer for a car.",
+      "sources": [
+        "https://www.grab.com/th/en/blog/gcsgbs/ (Grab TH, 2026-03-01)",
+        "https://www.dailynews.co.th/news/470281/ (DLT band)"
+      ]
+    },
+    {
+      "id": "carPremium",
+      "label": "GrabCar Premium / Plus",
+      "base": 110,
+      "baseKm": 2,
+      "perKm": 13,
+      "perMin": 3,
+      "minFare": 110,
+      "bookingFee": 20,
+      "notes": "Grab calls this a 'premium fixed price' and publishes no breakdown. Travel guides say Premium/SUV/Plus 'starts at 110 THB'. The per-km and per-min figures are MY ESTIMATE, set so the total comes out about 1.6-1.8x JustGrab. Low confidence.",
+      "sources": [
+        "https://www.grab.com/th/en/blog/pha-pi-du-withi-kar-reiyk-grab/ (Grab TH, 2026-08-27)",
+        "https://easy-go-thailand.com/grab-thailand (Apr 2026)",
+        "https://www.taxifarefinder.com/main.php?city=GrabCar-Premium-Bangkok-Thailand"
+      ]
+    }
+  ],
+  "surge": {
+    "typical": [1.0, 1.5],
+    "notes": "Normal: 1.0x. Weekday rush (07-09, 17-20) and rain: about 1.2-1.5x (the blogs report +20-40% and +50-80%). Heavy rain, late night or holidays: up to 2x or more, as shown in the app. For cars, the DLT caps the peak add-on at the lower of 200 THB or 1x the base fare. Motorcycles have no published surge cap. For an estimator, show a range: fare x 1.0 up to fare x 1.4.",
+    "sources": [
+      "https://easy-go-thailand.com/grab-thailand",
+      "https://www.byklo.rent/en/blog/bangkok-scooter-vs-bts-grab/",
+      "https://bangkokhotel.com/dossier/transit-grab-bolt-taxis",
+      "https://www.dailynews.co.th/news/470281/"
+    ]
+  },
+  "airport": {
+    "suvarnabhumiPickupSurchargeTHB": {"car": 100, "carPremium": 300, "bike": null},
+    "notes": "Not official. Taxifarefinder lists 100 THB (Economy) and 300 THB (Premium) for pickups at Suvarnabhumi, and there is no GrabBike at the official airport pickup point. Expressway tolls (usually 25-75 THB) are paid on top by the passenger. Short trips inside Lat Krabang normally use no tolls.",
+    "sources": [
+      "https://www.taxifarefinder.com/main.php?city=GrabCar-Economy-Bangkok-Thailand",
+      "https://www.cktravels.com/grab-taxi-suvarnabhumi-bangkok-airport/ (updated 2026-06-28)"
+    ]
+  },
+  "speedKmh": {"bike": 25, "car": 20},
+  "detourFactor": 1.35,
+  "confidence": "medium",
+  "caveats": [
+    "Grab shows a fixed price up front, calculated by its own algorithm. Published schedules only approximate it, so expect about +/-20% even without surge.",
+    "The GrabCar and GrabBike base schedules come from Grab's own fare guide (Aug 2026) and the government rules. The Saver and Premium per-km numbers are estimates (marked in notes).",
+    "The DLT car fare notice is from Nov 2021. No newer fare notice turned up, only the Oct 2025 rule making registration mandatory. The motorcycle fare ceiling dates from 2016.",
+    "Grab adds its own time/congestion charge. The DLT figure (2 THB/min in traffic) is used as a proxy, and only the time spent stuck in traffic should count, not the whole trip. For an estimator, charging perMin on about half of the trip time is reasonable.",
+    "The speed defaults are my assumptions for suburban Lat Krabang (Chalong Krung, Lat Krabang Rd, Romklao sois): about 20 km/h for a car and 25 km/h for a motorcycle, dropping to about 12-15 and 20 km/h at rush hour. Blog data for central Bangkok rush hour (5 km: car 25-45 min, bike 12-20 min) is slower.",
+    "The 1.35 detour factor is the usual urban road-to-straight-line ratio (1.3-1.4). Use 1.4-1.5 where the Airport Rail Link, the SRT tracks or the canals force long detours.",
+    "Bolt was left out. Its only published rate (30 THB base, 4 THB/km, 1.6 THB/min for economy car) comes from a 2020 BK Magazine article and is outdated. 2026 guides put Bolt about 10-20% below Grab."
+  ]
+}

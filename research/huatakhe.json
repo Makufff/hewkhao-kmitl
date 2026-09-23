@@ -1084,11 +1084,12 @@
   "price": 3,
   "priceText": "219-299 บาท",
   "hours": "17:00-23:00 (ปิดพุธ)",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7181918,
+  "lng": 100.8010697,
   "mapsQuery": "ปิ้ง BUFFET หลวงแพ่ง ลาดกระบัง",
   "source": "https://www.lemon8-app.com/experience/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%94%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87-%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B9%81%E0%B8%9E%E0%B9%88%E0%B8%87?region=th",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "other"
  },
  {
   "name": "BANDA Coffee & Etc.",
@@ -1108,11 +1109,12 @@
   "price": 2,
   "priceText": null,
   "hours": "07:30-17:30",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7203021,
+  "lng": 100.793984,
   "mapsQuery": "BANDA Coffee ลุมพินีทาวน์วิลล์ หลวงแพ่ง ลาดกระบัง",
   "source": "https://www.lemon8-app.com/experience/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%94%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87-%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B9%81%E0%B8%9E%E0%B9%88%E0%B8%87?region=th",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "other"
  },
  {
   "name": "ครัวระเบียงน้ำ ลาดกระบัง",
@@ -1160,11 +1162,12 @@
   "price": 2,
   "priceText": "40-200 บาท",
   "hours": "11:00-21:00 (อา. 15:00-21:00)",
-  "lat": null,
-  "lng": null,
+  "lat": 13.7237226,
+  "lng": 100.7807387,
   "mapsQuery": "ร้านโคม ลาดกระบัง 13/5",
   "source": "https://www.wongnai.com/restaurants/8240Gx-%E0%B9%82%E0%B8%84%E0%B8%A1",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ครัวริมนที",
@@ -1186,11 +1189,12 @@
   "price": 2,
   "priceText": "80-200 บาท",
   "hours": "10:00-21:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.724327684909497,
+  "lng": 100.72073858089321,
   "mapsQuery": "ครัวริมนที วัดลานบุญ ลาดกระบัง",
   "source": "https://www.wongnai.com/restaurants/6331nf-%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%99%E0%B8%97%E0%B8%B5",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "คูณสินเป็ดย่าง ลาดกระบัง",
@@ -1210,11 +1214,12 @@
   "price": 1,
   "priceText": "50-70 บาท/จาน",
   "hours": "07:00-16:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.722749,
+  "lng": 100.752753,
   "mapsQuery": "คูณสินเป็ดย่าง ลาดกระบัง 7",
   "source": "https://www.wongnai.com/restaurants/14334pU-%E0%B8%84%E0%B8%B9%E0%B8%93%E0%B8%AA%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%94%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ป้าเภา ลาดกระบัง",
@@ -1235,11 +1240,12 @@
   "price": 3,
   "priceText": "80-250 บาท",
   "hours": "11:00-22:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.723005286548,
+  "lng": 100.74085570872,
   "mapsQuery": "ป้าเภา ลาดกระบัง 3/3",
   "source": "https://www.wongnai.com/restaurants/248173wX-%E0%B8%9B%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%A0%E0%B8%B2-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87-lat-krabang",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ครัวเมืองเว้ ลาว ญวน",
@@ -1259,11 +1265,12 @@
   "price": 2,
   "priceText": "เริ่ม 95 บาท",
   "hours": "10:30-21:30",
-  "lat": null,
-  "lng": null,
+  "lat": 13.722707,
+  "lng": 100.72444,
   "mapsQuery": "ครัวเมืองเว้ ลาว ญวน ลาดกระบัง",
   "source": "https://www.wongnai.com/listings/latkrabang-restaurants",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "ก๋วยเตี๋ยวเรือป้าจุก",
@@ -1281,11 +1288,12 @@
   "price": 1,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.7242112,
+  "lng": 100.7884039,
   "mapsQuery": "ก๋วยเตี๋ยวเรือป้าจุก หัวตะเข้ ลาดกระบัง",
   "source": "https://www.tiktok.com/@happyretire_official/video/7378806738474061073",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "landmark"
  },
  {
   "name": "At Home Cafe & Eatery",
@@ -1305,11 +1313,12 @@
   "price": 3,
   "priceText": "150-350 บาท",
   "hours": "06:00-22:00",
-  "lat": null,
-  "lng": null,
+  "lat": 13.721491,
+  "lng": 100.73313,
   "mapsQuery": "At Home Cafe & Eatery ลาดกระบัง 24/1",
   "source": "https://www.wongnai.com/restaurants/athomecafeandeatery",
-  "confidence": "high"
+  "confidence": "high",
+  "coordMethod": "wongnai"
  },
  {
   "name": "อิ่มเอิบ คั่วไก่",
@@ -1349,11 +1358,12 @@
   "price": 4,
   "priceText": "บุฟเฟต์ประมาณ 345 บาท",
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.722384502824713,
+  "lng": 100.71693389259032,
   "mapsQuery": "โคขุนคุณทอง อ่อนนุช-ลาดกระบัง",
   "source": "https://www.wongnai.com/restaurants/14648Jo-%E0%B9%82%E0%B8%84%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%97%E0%B8%AD%E0%B8%87-%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%B8%E0%B8%8A-%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "wongnai"
  },
  {
   "name": "สะแตกแจ่วฮ้อน",
@@ -1370,10 +1380,11 @@
   "price": 3,
   "priceText": null,
   "hours": null,
-  "lat": null,
-  "lng": null,
+  "lat": 13.721369,
+  "lng": 100.792156,
   "mapsQuery": "สะแตกแจ่วฮ้อน ลาดกระบัง",
   "source": "https://www.wongnai.com/restaurants?page.number=4&page.size=10&nearBusinessId=343867&rerank=false&domain=1",
-  "confidence": "medium"
+  "confidence": "medium",
+  "coordMethod": "wongnai"
  }
 ]
